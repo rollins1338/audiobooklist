@@ -12,4 +12,5 @@
 11. Sicko [Download from anonmou later]
 12. Wicked
 13. Sabotage
-14. Gloves Off [here](https://audiobookbay.lu/abss/gloves-off-stephanie-archer/)
+14. Gloves Off 
+15. [Hooked](https://open.spotify.com › show › 5kPqa2Pqs2fqoswJyf2wu8)
