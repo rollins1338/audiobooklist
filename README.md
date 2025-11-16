@@ -13,4 +13,4 @@
 12. Wicked
 13. Sabotage
 14. Gloves Off 
-15. [Hooked](https://open.spotify.com/show/5kPqa2Pqs2fqoswJyf2wu8))
+15. [Hooked](https://open.spotify.com/show/5kPqa2Pqs2fqoswJyf2wu8)
