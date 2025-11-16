@@ -9,3 +9,5 @@
 8. web of darkness duet [All]
 9. Alchemised
 10. Manacled
+11. Sicko
+12. Wicked
