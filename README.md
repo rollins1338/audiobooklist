@@ -22,6 +22,11 @@
 - [x] Web of Darkness Duet
      - *Little Stranger*
      - *Little Liar*
+
+- [ ] Never After Series 
+     - *Hooked*
+     - *Scarred*
+     - *Wretched*
 - [ ] Kiss of the Basilisk Series
      - *Kiss of the Basilisk*
      - *Between Two Kings*
