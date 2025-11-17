@@ -1,29 +1,39 @@
-# List of audiobooks I have of the novels that are also listed on my profile
-- [ ] Edge of darkness
-     - Insatiable
-     - Voracious
-     - Restitution
-     - Psychotic Obsession 
+# List of Audiobooks I found 
+- [ ] Edge of Darkness
+     - *Insatiable [Book 1]*
+     - *Voracious [Book 2]*
+     - *Restitution [Book 3]*
+     - *Psychotic Obsession [Book 4]*
 - [ ] Cat and Mouse Duet 
-     - Hunting Adeline
-     - Haunting Adeline 
+     - *Hunting Adeline [Book 3]*
+     - *Haunting Adeline [Book 2]*
 - [ ] Legacy of Gods [First 3 Books]
-     - God of Malice
-     - God of Pain
-     - God of Wrath
-- [ ] Lights out [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)
+     - *God of Malice [Book 1]*
+     - *God of Pain [Book 2]*
+     - *God of Wrath [Book 3]*
 - [ ] Indebted
-      - Debt Inheritance [Book 1]
-      
-7. Noticadia
-8. Wrath of an Exile
-9. web of darkness duet [All]
-10. Alchemised
-11. Manacled
-12. Sicko [Download from anonmou later]
-13. Wicked
-14. Sabotage
-15. Gloves Off 
-16. [Penpal](https://open.spotify.com/episode/7DuPbaUT6crzQNtcCJM1fu)
-17. Kiss of the Basilisk Series [Kiss of the Basilisk, Between Two Kings]
-
+     - *Debt Inheritance [Book 1]*
+     - *Missing First Debt [Book 2]*
+     - *Second Debt [Book 3]*
+     - *Third Debt [Book 4]*
+     - *Fourth Debt [Book 5]*
+     - *Final Debt [Book 6]*
+     - *Missing Indebted Epilogue [Book 7]*
+- [ ] Web of Darkness Duet
+     - *Little Stranger [Book 1]*
+     - *Little Liar [Book 2]*
+- [ ] Kiss of the Basilisk Series
+     - *Kiss of the Basilisk [Book 1]*
+     - *Between Two Kings [Book 2]*
+---
+# Standalones
+- [ ] Alchemised
+- [ ] Manacled
+- [ ] Noticadia
+- [ ] Wrath of an Exile
+- [ ] Lights out [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)
+- [ ] Sicko [Download from anonmou later]
+- [ ] Wicked
+- [ ] Sabotage
+- [ ] Gloves Off 
+- [ ] [Penpal](https://open.spotify.com/episode/7DuPbaUT6crzQNtcCJM1fu)
