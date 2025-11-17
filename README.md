@@ -4,12 +4,17 @@
      - Voracious
      - Restitution
      - Psychotic Obsession 
-- [ ] Cat and mouse Duet
-       - Haunting Adeline
-       - Hunting Adeline 
-4. Legacy of Gods [First 3 Books]
-5. Lights out [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)
-6. Indebted [Books 1,3,4,5,6]
+- [ ] Cat and Mouse Duet 
+     - Hunting Adeline
+     - Haunting Adeline 
+- [ ] Legacy of Gods [First 3 Books]
+     - God of Malice
+     - God of Pain
+     - God of Wrath
+- [ ] Lights out [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)
+- [ ] Indebted
+      - Debt Inheritance [Book 1]
+      
 7. Noticadia
 8. Wrath of an Exile
 9. web of darkness duet [All]
