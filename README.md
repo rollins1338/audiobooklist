@@ -23,10 +23,14 @@
      - *Little Stranger*
      - *Little Liar*
 
-- [ ] Never After Series 
+- [ ] Never After Series [✓](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=bookmarks&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=bmkaDesc&tor%5BstartNumber%5D=0)
      - *Hooked*
      - *Scarred*
      - *Wretched*
+- [ ] Quarantined [✓](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=bookmarks&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=bmkaDesc&tor%5BstartNumber%5D=0)
+     - *Quarantined*
+     - *Isolation*
+     - *Essential*
 - [ ] Kiss of the Basilisk Series
      - *Kiss of the Basilisk*
      - *Between Two Kings*
