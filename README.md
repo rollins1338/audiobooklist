@@ -18,7 +18,7 @@
      - *Third Debt*
      - *Fourth Debt*
      - *Final Debt*
-     - *Missing Indebted Epilogue*
+     - **Missing Indebted Epilogue**
 - [x] Web of Darkness Duet
      - *Little Stranger*
      - *Little Liar*
