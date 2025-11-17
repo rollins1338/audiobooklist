@@ -1,13 +1,13 @@
 # List of Audiobooks I found 
-- [ ] Edge of Darkness
+- [x] Edge of Darkness
      - *Insatiable*
      - *Voracious*
      - *Restitution*
      - *Psychotic Obsession*
-- [ ] Cat and Mouse Duet 
+- [x] Cat and Mouse Duet 
      - *Hunting Adeline*
      - *Haunting Adeline*
-- [ ] Legacy of Gods
+- [x] Legacy of Gods
      - *God of Malice*
      - *God of Pain*
      - *God of Wrath*
@@ -19,7 +19,7 @@
      - *Fourth Debt*
      - *Final Debt*
      - *Missing Indebted Epilogue*
-- [ ] Web of Darkness Duet
+- [x] Web of Darkness Duet
      - *Little Stranger*
      - *Little Liar*
 - [ ] Kiss of the Basilisk Series
