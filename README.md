@@ -1,30 +1,30 @@
 # List of Audiobooks I found 
 - [ ] Edge of Darkness
-     - *Insatiable [Book 1]*
-     - *Voracious [Book 2]*
-     - *Restitution [Book 3]*
-     - *Psychotic Obsession [Book 4]*
+     - *Insatiable*
+     - *Voracious*
+     - *Restitution*
+     - *Psychotic Obsession*
 - [ ] Cat and Mouse Duet 
-     - *Hunting Adeline [Book 3]*
-     - *Haunting Adeline [Book 2]*
-- [ ] Legacy of Gods [First 3 Books]
-     - *God of Malice [Book 1]*
-     - *God of Pain [Book 2]*
-     - *God of Wrath [Book 3]*
+     - *Hunting Adeline*
+     - *Haunting Adeline*
+- [ ] Legacy of Gods
+     - *God of Malice*
+     - *God of Pain*
+     - *God of Wrath*
 - [ ] Indebted
-     - *Debt Inheritance [Book 1]*
-     - *Missing First Debt [Book 2]*
-     - *Second Debt [Book 3]*
-     - *Third Debt [Book 4]*
-     - *Fourth Debt [Book 5]*
-     - *Final Debt [Book 6]*
-     - *Missing Indebted Epilogue [Book 7]*
+     - *Debt Inheritance*
+     - **Missing Book 2**
+     - *Second Debt*
+     - *Third Debt*
+     - *Fourth Debt*
+     - *Final Debt*
+     - *Missing Indebted Epilogue*
 - [ ] Web of Darkness Duet
-     - *Little Stranger [Book 1]*
-     - *Little Liar [Book 2]*
+     - *Little Stranger*
+     - *Little Liar*
 - [ ] Kiss of the Basilisk Series
-     - *Kiss of the Basilisk [Book 1]*
-     - *Between Two Kings [Book 2]*
+     - *Kiss of the Basilisk*
+     - *Between Two Kings*
 ---
 # Standalones
 - [ ] Alchemised
