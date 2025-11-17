@@ -14,3 +14,5 @@
 13. Sabotage
 14. Gloves Off 
 15. [Penpal](https://open.spotify.com/episode/7DuPbaUT6crzQNtcCJM1fu)
+16. Kiss of the Basilisk Series [Kiss of the Basilisk, Between Two Kings]
+
