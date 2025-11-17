@@ -34,6 +34,10 @@
 - [ ] Kiss of the Basilisk Series
      - *Kiss of the Basilisk*
      - *Between Two Kings*
+- [ ] Torment Duet
+     - Part 1 [✓](https://www.myanonamouse.net/t/1182903)
+     - Part 2 [✓](https://www.myanonamouse.net/t/1182904)
+
 ---
 # Standalones
 - [ ] Alchemised
