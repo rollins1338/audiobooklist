@@ -18,12 +18,12 @@
      - *God of Wrath* ✓
 - [ ] Indebted
      - *Debt Inheritance* ✓
-     - **Missing Book 2**
+     - *First Debt* [x](https://www.myanonamouse.net/t/310694)
      - *Second Debt* ✓
      - *Third Debt* ✓
      - *Fourth Debt* ✓
      - *Final Debt* ✓
-     - **Missing Indebted Epilogue**
+     - *Indebted Epilogue* [x](https://www.myanonamouse.net/t/391719)
 - [x] Web of Darkness Duet
      - *Little Stranger* ✓
      - *Little Liar* ✓
