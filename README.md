@@ -35,15 +35,21 @@
      - *Kiss of the Basilisk*
      - *Between Two Kings*
 - [ ] Monster's in the Dark
-     - Tears of Tess [DONE]
-     - Quintessentially Q [✓](https://www.myanonamouse.net/t/350302)
-     - Twisted Together [Missing]
+     - *Tears of Tess* [DONE]
+     - *Quintessentially Q* [✓](https://www.myanonamouse.net/t/350302)
+     - *Twisted Together* [Missing]
 - [ ] Made Series
+     - *The Sweetest Oblivion*
+     - *The Maddest Obsession*
+     - *The Darkest Temptation*
 - [ ] The Brethren Lords
-     - Deviant [DONE]
-     - Depravity [✓](https://www.myanonamouse.net/t/1185958)
+     - *Deviant* [DONE]
+     - *Depravity* [✓](https://www.myanonamouse.net/t/1185958)
      - Degradation [✓](https://www.myanonamouse.net/t/1194976)
 - [ ] Deception Trilogy by Rina Kent
+     - Vow of Deception
+     - Tempted by Deception
+     - Consumed by Deception 
 - [ ] The Dark
      - Captive [✓](https://www.myanonamouse.net/t/716046)
      - Seduced [✓](https://www.myanonamouse.net/t/716047)
