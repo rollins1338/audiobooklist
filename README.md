@@ -85,7 +85,7 @@
      - *Black Knight [Book 4]* ✓
      - *Vicious Prince [Book 5]* ✓
      - *Ruthless Empire [Book 6]* ✓
-     - *Royal Elite Epilogue [Book 7]* ✓
+     - *Royal Elites Epilogue [Book 7]* ✓
 - [ ] The Hollow Boys Series [Standalones]
      - *The Lies We Steal* [x](https://www.myanonamouse.net/t/1030627)
      - *The Truths We Burn*
