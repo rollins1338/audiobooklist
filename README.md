@@ -48,9 +48,9 @@
      - *The Maddest Obsession*
      - *The Darkest Temptation*
 - [ ] The Brethren Lords
-     - *Deviant* [DONE]
+     - *Deviant* 
      - *Depravity* [x](https://www.myanonamouse.net/t/1185958)
-     - *Degradation* [x](https://www.myanonamouse.net/t/1194976)
+     - *Degradation*
 - [ ] Deception Trilogy by Rina Kent
      - *Vow of Deception*
      - *Tempted by Deception*
