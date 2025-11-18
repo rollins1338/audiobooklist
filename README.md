@@ -39,7 +39,7 @@ x > Need to Download and Add
      - *Between Two Kings* ✓
 - [ ] Monster's in the Dark
      - *Tears of Tess* [DONE]
-     - *Quintessentially Q* [✓](https://www.myanonamouse.net/t/350302)
+     - *Quintessentially Q* [x](https://www.myanonamouse.net/t/350302)
      - *Twisted Together* [Missing]
 - [ ] Made Series
      - *The Sweetest Oblivion*
