@@ -92,7 +92,6 @@
 - [x] **Gloves Off ✓**
 - [x] **Penpal ✓**
 - [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
-- [ ] **Ruthless Empire [x](https://www.myanonamouse.net/t/657711)**
 - [x] **That Sik Luv ✓**
 - [x] **Under Your Scars ✓**
 
