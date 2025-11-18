@@ -90,7 +90,7 @@
 - [ ] **Sicko [x](https://www.myanonamouse.net/t/1164476)**
 - [ ] **Wicked ✓**
 - [ ] **Gloves Off ✓**
-- [ ] [Penpal](https://open.spotify.com/episode/7DuPbaUT6crzQNtcCJM1fu)
+- [ ] **Penpal**
 - [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
 - [ ] **Ruthless Empire [x](https://www.myanonamouse.net/t/657711)**
 - [ ] **That Sik Luv ✓**
