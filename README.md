@@ -40,7 +40,7 @@
      - Twisted Together [Missing]
 - [ ] Made Series
 - [ ] The Brethren Lords
-     - Deviant 
+     - Deviant [DONE]
      - Depravity [✓](https://www.myanonamouse.net/t/1185958)
      - Degradation [✓](https://www.myanonamouse.net/t/1194976)
 - [ ] Deception Trilogy by Rina Kent
