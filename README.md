@@ -79,7 +79,7 @@
      - *Black Knight [Book 4]*
      - *Vicious Prince [Book 5]*
      - *Ruthless Empire [Book 6]*
-     - *Royal Elite Epilogue [Book 7]**
+     - *Royal Elite Epilogue [Book 7]*
 ---
 # Standalones
 - [ ] **Alchemised ✓**
@@ -90,7 +90,7 @@
 - [ ] **Sicko [x](https://www.myanonamouse.net/t/1164476)**
 - [ ] **Wicked ✓**
 - [ ] **Gloves Off ✓**
-- [ ] **Penpal**
+- [ ] **Penpal ✓**
 - [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
 - [ ] **Ruthless Empire [x](https://www.myanonamouse.net/t/657711)**
 - [ ] **That Sik Luv ✓**
