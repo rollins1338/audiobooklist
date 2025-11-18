@@ -56,7 +56,7 @@
      - *The Darkest Temptation* ✓
 - [ ] The Brethren Lords
      - *Deviant*  ✓
-     - *Depravity* [x](https://www.myanonamouse.net/t/1185958)
+     - *Depravity* ✓
      - *Degradation* ✓
 - [x] Deception Trilogy by Rina Kent
      - *Vow of Deception*  ✓
