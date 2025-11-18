@@ -29,8 +29,8 @@
      - *Little Liar* ✓
 - [ ] The Ruinous Love Trilogy [Standalones]
      - *Butcher & Blackbird* ✓
-     - *Leather & Lark*
-     - *Scythe & Sparrow*
+     - *Leather & Lark* ✓
+     - *Scythe & Sparrow* ✓
 - [ ] Never After Series [Standalones]
      - *Hooked* [x](https://www.myanonamouse.net/t/793704)
      - *Scarred* [x](https://www.myanonamouse.net/t/875496)
