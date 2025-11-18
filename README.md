@@ -109,6 +109,7 @@
 - [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
 - [x] **That Sik Luv ✓**
 - [x] **Under Your Scars ✓**
+- [x] **Hate Me ✓** 
 
 ---
 # [Drive Link [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
