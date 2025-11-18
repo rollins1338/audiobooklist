@@ -27,8 +27,11 @@
 - [x] Web of Darkness Duet
      - *Little Stranger* ✓
      - *Little Liar* ✓
-
-- [ ] Never After Series 
+- [ ] The Ruinous Love Trilogy [Standalones]
+     - *Butcher & Blackbird* ✓
+     - *Leather & Lark*
+     - *Scythe & Sparrow*
+- [ ] Never After Series [Standalones]
      - *Hooked* [x](https://www.myanonamouse.net/t/793704)
      - *Scarred* [x](https://www.myanonamouse.net/t/875496)
      - *Wretched* [x](https://www.myanonamouse.net/t/876436)
@@ -71,7 +74,8 @@
      - *Part 1* [x](https://www.myanonamouse.net/t/1182903)
      - *Part 2* [x](https://www.myanonamouse.net/t/1182904)
 
-- [x] Royal Elites [#0-#7] 
+
+- [x] Royal Elites [Standalones
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
      - *Steel Princess [Book 2]* ✓
