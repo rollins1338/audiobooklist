@@ -91,7 +91,7 @@
      - *The Truths We Burn* ✓
      - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2* ✓
-     - *The Oath We Give* [x](https://www.myanonamouse.net/t/1192837)
+     - *The Oath We Give* ✓
 - [ ] River Styx Heathens Series [Hollow Boys Universe]
      - *Wrath of an Exile* ✓
      - *Whisper of a Shadow* [**Expected 5 Aug 26**]
