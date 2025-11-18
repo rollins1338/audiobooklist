@@ -34,6 +34,10 @@
 - [ ] Kiss of the Basilisk Series
      - *Kiss of the Basilisk*
      - *Between Two Kings*
+- [ ] Monster's in the Dark
+     - Tears of Tess [DONE]
+     - Quintessentially Q [✓](https://www.myanonamouse.net/t/350302)
+     - Twisted Together [Missing]
 - [ ] Made Series
 - [ ] Deception Trilogy by Rina Kent
 - [ ] Devil's Night Series
