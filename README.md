@@ -43,9 +43,9 @@
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
 - [ ] Monster Triology [Standalones]
-     - *Blood of My Monster*
-     - *Lies of My Monster*
-     - *Heart of My Monster*
+     - *Blood of My Monster* ✓
+     - *Lies of My Monster* ✓
+     - *Heart of My Monster* ✓
 - [ ] Monster's in the Dark
      - *Tears of Tess* ✓
      - *Quintessentially Q* [x](https://www.myanonamouse.net/t/350302)
@@ -89,7 +89,7 @@
 - [ ] The Hollow Boys Series [Standalones]
      - *The Lies We Steal* [x](https://www.myanonamouse.net/t/1030627)
      - *The Truths We Burn*
-     - *The Blood We Crave: Part 1*
+     - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2*
      - *The Oath We Give* [x](https://www.myanonamouse.net/t/1192837)
 - [ ] River Styx Heathens Series [Hollow Boys Universe]
