@@ -88,9 +88,9 @@
      - *Royal Elites Epilogue [Book 7]* ✓
 - [ ] The Hollow Boys Series [Standalones]
      - *The Lies We Steal* [x](https://www.myanonamouse.net/t/1030627)
-     - *The Truths We Burn*
+     - *The Truths We Burn* ✓
      - *The Blood We Crave: Part 1* ✓
-     - *The Blood We Crave: Part 2*
+     - *The Blood We Crave: Part 2* ✓
      - *The Oath We Give* [x](https://www.myanonamouse.net/t/1192837)
 - [ ] River Styx Heathens Series [Hollow Boys Universe]
      - *Wrath of an Exile* ✓
@@ -112,4 +112,4 @@
 - [x] **Hate Me ✓** 
 
 ---
-# [Drive Link [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
+# [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
