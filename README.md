@@ -42,6 +42,10 @@
 - [x] Kiss of the Basilisk Series
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
+- [ ] Monster Triology [Standalones]
+     - *Blood of My Monster*
+     - *Lies of My Monster*
+     - *Heart of My Monster*
 - [ ] Monster's in the Dark
      - *Tears of Tess* ✓
      - *Quintessentially Q* [x](https://www.myanonamouse.net/t/350302)
