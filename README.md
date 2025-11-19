@@ -23,7 +23,7 @@
      - *Third Debt* ✓
      - *Fourth Debt* ✓
      - *Final Debt* ✓
-     - *Indebted Epilogue* [x](https://www.myanonamouse.net/t/391719)
+     - *Indebted Epilogue* ✓
 - [x] Web of Darkness Duet
      - *Little Stranger* ✓
      - *Little Liar* ✓
@@ -54,7 +54,7 @@
      - *The Sweetest Oblivion* ✓
      - *The Maddest Obsession* ✓
      - *The Darkest Temptation* ✓
-- [ ] The Brethren Lords
+- [x] The Brethren Lords
      - *Deviant*  ✓
      - *Depravity* ✓
      - *Degradation* ✓
