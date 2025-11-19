@@ -107,6 +107,13 @@
      - *Snaring Emberly*
      - *Breaking Rosalind*
      - *Stalking Ginevra*
+- [ ] The Dark Verse Duet
+     - *The Predetor [Book 1]*
+     - *The Reaper[Book 2]*
+- [ ] Hockey Gods [Standalones]
+     - *Brutal Obsession [Book 1]* [x](https://www.myanonamouse.net/t/889066)
+     - *Devious Obsession [Book 2]* [x](https://www.myanonamouse.net/t/983613)
+ 
 ---
 # Standalones
 - [x] **Alchemised ✓**
