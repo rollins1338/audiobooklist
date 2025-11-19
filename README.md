@@ -74,13 +74,14 @@
      - *Nightfall [Book 4]* ✓
        * *Fire Night [Book 4.5]* ✓
 - [ ] Consequences Series
-     - *Consequences [Book 1]*
-       * *Behind His Eyes [Book 1.5]*
-     - *Truth [Books 2 & 2.5]*
-     - *Convicted [Book 3]*
-     - *Revealed: The Missing Years [Book 4]*
-     - *Beyond The Consequences [Book 5]*
-     - *Ripples [Book 6]*
+     - *Consequences [Book 1]* ✓
+       * *Behind His Eyes [Book 1.5]* ✓
+     - *Truth [Books 2]* ✓
+       * *Book 2.5* [x](https://www.myanonamouse.net/t/204048)
+     - *Convicted [Book 3]* [x](https://www.myanonamouse.net/t/179485)
+     - *Revealed: The Missing Years [Book 4]* [x](https://www.myanonamouse.net/t/204046)
+     - *Beyond The Consequences [Book 5]* [x](https://www.myanonamouse.net/t/315283)
+     - *Ripples [Book 6]* [x](https://www.myanonamouse.net/t/449085)
 - [ ] The Bleeding Hearts Duet
      - *Part 1* [x](https://www.myanonamouse.net/t/1182903)
      - *Part 2* [x](https://www.myanonamouse.net/t/1182904)
