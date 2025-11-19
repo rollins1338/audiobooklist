@@ -103,12 +103,12 @@
 - [ ] River Styx Heathens Series [Hollow Boys Universe]
      - *Wrath of an Exile* ✓
      - *Whisper of a Shadow* [**Expected 5 Aug 26**]
-- [ ] Morally Dark Series [Standalones]
+- [x] Morally Dark Series [Standalones]
      - *Taming Seraphine* ✓
      - *Snaring Emberly* ✓
      - *Breaking Rosalind* ✓
      - *Stalking Ginevra* ✓
-- [ ] The Dark Verse Duet
+- [x] The Dark Verse Duet
      - *The Predetor [Book 1]* ✓
      - *The Reaper[Book 2]* ✓
 - [ ] Hockey Gods [Standalones]
