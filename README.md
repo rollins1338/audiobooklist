@@ -133,6 +133,7 @@
 - [x] **That Sik Luv ✓**
 - [x] **Under Your Scars ✓**
 - [x] **Hate Me ✓**
+- [x] **Requiem ✓**
 
 ---
 
