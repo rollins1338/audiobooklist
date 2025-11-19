@@ -128,7 +128,7 @@
 
 - [ ] Zodiac Academy Series
    - *Origins of an Academy Bully [Book 0.5]*
-   - * The Awakening[Book 1]*
+   - *The Awakening[Book 1]*
    - *The Awakening as Told by the Boys [Book 2]*
    - *Ruthless Fae [Book 3]*
    - *The Reckoning [Book 4]*
