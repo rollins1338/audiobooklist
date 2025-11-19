@@ -125,7 +125,6 @@
 - [x] **Wicked ✓**
 - [x] **Gloves Off ✓**
 - [x] **Penpal ✓**
-- [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
 - [x] **That Sik Luv ✓**
 - [x] **Under Your Scars ✓**
 - [x] **Hate Me ✓**
