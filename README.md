@@ -120,7 +120,25 @@
 - [ ] **Devious Obsession [x](https://www.myanonamouse.net/t/983613)**
 - [x] **That Sik Luv ✓**
 - [x] **Under Your Scars ✓**
-- [x] **Hate Me ✓** 
+- [x] **Hate Me ✓**
+
+---
+
+# Trying out Fantasy Romance
+
+- [ ] Zodiac Academy Series
+   - *Origins of an Academy Bully [Book 0.5]*
+   - * The Awakening[Book 1]*
+   - *The Awakening as Told by the Boys [Book 2]*
+   - *Ruthless Fae [Book 3]*
+   - *The Reckoning [Book 4]*
+   - *Shadow Princess [Book 5]*
+   - *Cursed Fates [Book 6]*
+   - *Fated Throne [Book 7]*
+   - *Heartless Sky [Book 8]* 
+   - *Beyond the Veil [Book 8.5]*
+   - *Restless Stars [Book 9]*
+
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
