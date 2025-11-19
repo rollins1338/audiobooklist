@@ -115,10 +115,10 @@
      - *Brutal Obsession [Book 1]* [x](https://www.myanonamouse.net/t/889066)
      - *Devious Obsession [Book 2]* [x](https://www.myanonamouse.net/t/983613)
 - [ ] Coastal Elite Series [Standalones]
-     - *Even if It Hurts [Book 1]*
-     - *Undertow [Book 2]*
-     - *Contempt [Book 3]*
-     - *Sophie's Surrender [Book 4]* 
+     - *Even if It Hurts [Book 1]* ✓
+     - *Undertow [Book 2]* ✓
+     - *Contempt [Book 3]* ✓
+     - *Sophie's Surrender [Book 4]*  ✓
 
 ---
 # Standalones
@@ -140,23 +140,23 @@
 # Trying out Fantasy Romance
 
 - [ ] Zodiac Academy Series
-   - *Origins of an Academy Bully [Book 0.5]*
-   - *The Awakening [Book 1]*
-     * *The Awakening as Told by the Boys [Book 1.5]*
-   - *Ruthless Fae [Book 2]*
-   - *The Reckoning [Book 3]*
-   - *Shadow Princess [Book 4]*
-   - *Cursed Fates [Book 5]*
-   - *Fated Throne [Book 6]*
-   - *Heartless Sky [Book 7]*
-   - *Sorrow and Sarlight [ Book 8]* 
-     * *Beyond the Veil [Book 8.5]*
-   - *Restless Stars [Book 9]*
+   - *Origins of an Academy Bully [Book 0.5]* ✓
+   - *The Awakening [Book 1]* ✓
+     * *The Awakening as Told by the Boys [Book 1.5]* ✓
+   - *Ruthless Fae [Book 2]* ✓
+   - *The Reckoning [Book 3]* ✓
+   - *Shadow Princess [Book 4]* ✓
+   - *Cursed Fates [Book 5]* ✓
+   - *Fated Throne [Book 6]* ✓
+   - *Heartless Sky [Book 7]* ✓
+   - *Sorrow and Sarlight [ Book 8]* ✓
+     * *Beyond the Veil [Book 8.5]* ✓
+   - *Restless Stars [Book 9]* ✓
 
 - [ ] Fae and ALchemy
-   - *Quicksilver[Book 1]*
-     * *[Quicksilver Bonus Scenes Book 1.5]*
-   - *Brimstone [Book 2]*
+   - *Quicksilver[Book 1]* ✓
+     * *[Quicksilver Bonus Scenes Book 1.5]* ✓
+   - *Brimstone [Book 2]* ✓
    - *Untitled 3rd Book* **Expected 10 Nov 26**
     
 
