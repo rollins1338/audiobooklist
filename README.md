@@ -75,7 +75,7 @@
        * *Fire Night [Book 4.5]* ✓
 - [ ] Consequences Series
      - *Consequences [Book 1]*
-     - *Behind His Eyes[Book 1.5]*
+       * *Behind His Eyes [Book 1.5]*
      - *Truth [Books 2 & 2.5]*
      - *Convicted [Book 3]*
      - *Revealed: The Missing Years [Book 4]*
