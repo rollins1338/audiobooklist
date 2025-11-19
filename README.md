@@ -114,7 +114,12 @@
 - [ ] Hockey Gods [Standalones]
      - *Brutal Obsession [Book 1]* [x](https://www.myanonamouse.net/t/889066)
      - *Devious Obsession [Book 2]* [x](https://www.myanonamouse.net/t/983613)
- 
+- [ ] Coastal Elite Series [Standalones]
+     - *Even if It Hurts [Book 1]*
+     - *Undertow [Book 2]*
+     - *Contempt [Book 3]*
+     - *Sophie's Surrender [Book 4]* 
+
 ---
 # Standalones
 - [x] **Alchemised ✓**
