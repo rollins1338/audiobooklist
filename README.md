@@ -70,9 +70,9 @@
      - *Corrupt [Book 1]* ✓
      - *Hideaway [Book 2]* ✓
      - *Kill Switch [Book 3]* ✓
-     - *Conclave [Book 3.5]* ✓
+       * *Conclave [Book 3.5]* ✓
      - *Nightfall [Book 4]* ✓
-     - *Fire Night [Book 4.5]* ✓
+       * *Fire Night [Book 4.5]* ✓
 - [ ] Consequences Series
      - *Consequences [Book 1]*
      - *Behind His Eyes[Book 1.5]*
@@ -128,15 +128,16 @@
 
 - [ ] Zodiac Academy Series
    - *Origins of an Academy Bully [Book 0.5]*
-   - *The Awakening[Book 1]*
-   - *The Awakening as Told by the Boys [Book 2]*
-   - *Ruthless Fae [Book 3]*
-   - *The Reckoning [Book 4]*
-   - *Shadow Princess [Book 5]*
-   - *Cursed Fates [Book 6]*
-   - *Fated Throne [Book 7]*
-   - *Heartless Sky [Book 8]* 
-   - *Beyond the Veil [Book 8.5]*
+   - *The Awakening [Book 1]*
+     * *The Awakening as Told by the Boys [Book 1.5]*
+   - *Ruthless Fae [Book 2]*
+   - *The Reckoning [Book 3]*
+   - *Shadow Princess [Book 4]*
+   - *Cursed Fates [Book 5]*
+   - *Fated Throne [Book 6]*
+   - *Heartless Sky [Book 7]*
+   - *Sorrow and Sarlight [ Book 8]* 
+     * *Beyond the Veil [Book 8.5]*
    - *Restless Stars [Book 9]*
 
 
