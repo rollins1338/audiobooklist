@@ -147,7 +147,7 @@
    - *The Reckoning [Book 3]* ✓
    - *Shadow Princess [Book 4]* ✓
    - *Cursed Fates [Book 5]* ✓
-   - *Fated Throne [Book 6]* ✓
+   - *Fated Throne [Book 6]*
    - *Heartless Sky [Book 7]* ✓
    - *Sorrow and Sarlight [ Book 8]* ✓
      * *Beyond the Veil [Book 8.5]* ✓
