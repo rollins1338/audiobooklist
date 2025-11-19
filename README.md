@@ -152,6 +152,12 @@
      * *Beyond the Veil [Book 8.5]*
    - *Restless Stars [Book 9]*
 
+- [ ] Fae and ALchemy
+   - *Quicksilver[Book 1]*
+     * *[Quicksilver Bonus Scenes Book 1.5]*
+   - *Brimstone [Book 2]*
+   - *Untitled 3rd Book* **Expected 10 Nov 26**
+    
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
