@@ -123,6 +123,13 @@
      - Saint [x](https://www.myanonamouse.net/t/1134640)
      - Eternal [x](https://www.myanonamouse.net/t/1184068)
      - Atone [x](https://www.myanonamouse.net/t/1184069)
+     - Revere [No Audiobook Available Yet]
+- [ ] Redwood Kings Triology
+     - The Darkest Note [x](https://www.myanonamouse.net/t/1181374)
+     - The Ruthless Note [x](https://www.myanonamouse.net/t/1181375)
+     - The Broken Note [x](https://www.myanonamouse.net/t/1181376)
+
+
 ---
 # Standalones
 - [x] **Alchemised ✓**
