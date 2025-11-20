@@ -91,7 +91,7 @@
      - Ashes
      - Mercy
      - Echo 
-- [x] Royal Elites [Standalones] [📓]()
+- [x] Royal Elites [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4)
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
      - *Steel Princess [Book 2]* ✓
@@ -100,37 +100,37 @@
      - *Vicious Prince [Book 5]* ✓
      - *Ruthless Empire [Book 6]* ✓
      - *Royal Elites Epilogue [Book 7]* ✓
-- [ ] The Hollow Boys Series [Standalones] [📓]()
+- [ ] The Hollow Boys Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371544-hollow-boys&ved=2ahUKEwjRpv6x3oGRAxWXVmwGHdeYLagQFnoECBAQAQ&usg=AOvVaw2l9WJcm6YRYiwDeu8vCmc2)
      - *The Lies We Steal* 
      - *The Truths We Burn* ✓
      - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2* ✓
      - *The Oath We Give* ✓
-- [ ] River Styx Heathens Series [Hollow Boys Universe] [📓]()
+- [ ] River Styx Heathens Series [Hollow Boys Universe] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/404444-river-styx-heathens&ved=2ahUKEwj1u7293oGRAxXRV3ADHcjnApMQFnoECB0QAQ&usg=AOvVaw3QpBjrsicESgeCKDjvNOsZ)
      - *Wrath of an Exile* ✓
      - *Whisper of a Shadow* [**Expected 5 Aug 26**]
-- [x] Morally Dark Series [Standalones] [📓]()
+- [x] Morally Black Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/399339-morally-black&ved=2ahUKEwjBts7L3oGRAxVHTWwGHdG_ECYQFnoECCkQAQ&usg=AOvVaw1kFOG6asWPfxG_hRLz_-3f)
      - *Taming Seraphine* ✓
      - *Snaring Emberly* ✓
      - *Breaking Rosalind* ✓
      - *Stalking Ginevra* ✓
-- [x] The Dark Verse Duet [📓]()
+- [x] The Dark Verse Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
      - *The Predetor [Book 1]* ✓
      - *The Reaper[Book 2]* ✓
-- [ ] Hockey Gods [Standalones] [📓]()
+- [ ] Hockey Gods [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
      - *Brutal Obsession [Book 1]* 
      - *Devious Obsession [Book 2]* 
-- [ ] Coastal Elite Series [Standalones] [📓]()
+- [ ] Coastal Elite Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT)
      - *Even if It Hurts [Book 1]* ✓
      - *Undertow [Book 2]* ✓
      - *Contempt [Book 3]* ✓
      - *Sophie's Surrender [Book 4]*  ✓
-- [ ] Sigma Sin [📓]()
+- [ ] Sigma Sin [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP)
      - *Saint*
      - *Eternal*
      - *Atone* 
      - Revere [No Audiobook Available Yet]
-- [ ] Redwood Kings Triology [📓]()
+- [ ] Redwood Kings Triology [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat)
      - *The Darkest Note*
      - *The Ruthless Note*
      - *The Broken Note*
@@ -154,9 +154,9 @@
 
 ---
 
-# Trying out Fantasy Romance [📓]()
+# Trying out Fantasy Romance 
 
-- [x] Zodiac Academy Series
+- [x] Zodiac Academy Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/264317-zodiac-academy&ved=2ahUKEwi7-5yi34GRAxUtUGcHHSiNCU0QFnoECGMQAQ&usg=AOvVaw01TASEjROJuE02M6QhzOML)
    - *Origins of an Academy Bully [Book 0.5]* ✓
    - *The Awakening [Book 1]* ✓
      * *The Awakening as Told by the Boys [Book 1.5]* ✓
@@ -170,7 +170,7 @@
      * *Beyond the Veil [Book 8.5]* ✓
    - *Restless Stars [Book 9]* ✓
 
-- [ ] Fae and ALchemy [📓]()
+- [ ] Fae and Alchemy [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/392242-fae-alchemy&ved=2ahUKEwi6oIGs34GRAxXwUGwGHSEuDZIQFnoECB0QAQ&usg=AOvVaw1S7b2K9sFc45ZiIiwldADY)
    - *Quicksilver[Book 1]* ✓
      * *[Quicksilver Bonus Scenes Book 1.5]* ✓
    - *Brimstone [Book 2]* ✓
