@@ -144,13 +144,13 @@
 - [x] **Under Your Scars ✓**
 - [x] **Hate Me ✓**
 - [x] **Requiem ✓**
-- [x] **Still Beating**
+- [ ] **Still Beating**
 
 ---
 
 # Trying out Fantasy Romance
 
-- [ ] Zodiac Academy Series
+- [x] Zodiac Academy Series
    - *Origins of an Academy Bully [Book 0.5]* ✓
    - *The Awakening [Book 1]* ✓
      * *The Awakening as Told by the Boys [Book 1.5]* ✓
