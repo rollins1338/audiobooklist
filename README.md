@@ -119,7 +119,10 @@
      - *Undertow [Book 2]* ✓
      - *Contempt [Book 3]* ✓
      - *Sophie's Surrender [Book 4]*  ✓
-
+- [ ] Sigma Sin
+     - Saint [x](https://www.myanonamouse.net/t/1134640)
+     - Eternal [x](https://www.myanonamouse.net/t/1184068)
+     - Atone [x](https://www.myanonamouse.net/t/1184069)
 ---
 # Standalones
 - [x] **Alchemised ✓**
