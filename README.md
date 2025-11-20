@@ -36,7 +36,7 @@
      - *Scarred* 
      - *Wretched* 
 - [ ] Quarantined 
-     - *Quarantined* [x](https://www.myanonamouse.net/t/1029335)
+     - *Quarantined* 
      - **Missing Book 2** (like actually)
      - **Missing Book 3** (like actually)
 - [x] Kiss of the Basilisk Series
