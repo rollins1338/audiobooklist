@@ -49,34 +49,34 @@
      - *Blood of My Monster* ✓
      - *Lies of My Monster* ✓
      - *Heart of My Monster* ✓
-- [ ] Monster's in the Dark [📓]()
+- [ ] Monster's in the Dark [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/111164-monsters-in-the-dark&ved=2ahUKEwj-hZm93IGRAxVbwzgGHRB6G2UQFnoECCMQAQ&usg=AOvVaw248cNwDMbU88bYRlQeXoxa)
      - *Tears of Tess* ✓
      - *Quintessentially Q* 
      - *Twisted Together* [Missing]
-- [x] Made Series [📓]()
+- [x] Made Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
      - *The Sweetest Oblivion* ✓
      - *The Maddest Obsession* ✓
      - *The Darkest Temptation* ✓
-- [x] The Brethren Lords [📓]()
+- [x] The Brethren Lords [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/400784-the-brethren-lords&ved=2ahUKEwirnfvh3IGRAxUk2TgGHTi1PGEQFnoECA8QAQ&usg=AOvVaw2D6G2OR1ANK0RD1823NaH1)
      - *Deviant*  ✓
      - *Depravity* ✓
      - *Degradation* ✓
-- [x] Deception Trilogy by Rina Kent [📓]()
+- [x] Deception Trilogy [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/310160-deception-trilogy&ved=2ahUKEwiZhc3y3IGRAxXHxzgGHbdxBqgQFnoECB8QAQ&usg=AOvVaw2VSarWuHkybihZhNOvdWTf)
      - *Vow of Deception*  ✓
      - *Tempted by Deception* ✓
      - *Consumed by Deception* ✓
-- [ ] The Dark [📓]() 
+- [ ] The Dark Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
      - *Captive* 
      - *Seduced* 
      - *Epilogue* 
-- [x] Devil's Night Series [📓]()
+- [x] Devil's Night Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow)
      - *Corrupt [Book 1]* ✓
      - *Hideaway [Book 2]* ✓
      - *Kill Switch [Book 3]* ✓
        * *Conclave [Book 3.5]* ✓
      - *Nightfall [Book 4]* ✓
        * *Fire Night [Book 4.5]* ✓
-- [ ] Consequences Series [📓]()
+- [ ] Consequences Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7)
      - *Consequences [Book 1]* ✓
        * *Behind His Eyes [Book 1.5]* ✓
      - *Truth [Books 2]* ✓
@@ -85,9 +85,12 @@
      - *Revealed: The Missing Years [Book 4]* 
      - *Beyond The Consequences [Book 5]* 
      - *Ripples [Book 6]* 
-- [ ] The Bleeding Hearts Duet [📓]()
-     - *Part 1* 
-     - *Part 2* 
+- [ ] The Bleeding Hearts Series [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
+     - *Torment Part 1* 
+     - *Torment 2*
+     - Ashes
+     - Mercy
+     - Echo 
 - [x] Royal Elites [Standalones] [📓]()
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
