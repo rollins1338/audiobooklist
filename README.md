@@ -144,6 +144,7 @@
 - [x] **Under Your Scars ✓**
 - [x] **Hate Me ✓**
 - [x] **Requiem ✓**
+- [x] **Still Beating ✓**
 
 ---
 
