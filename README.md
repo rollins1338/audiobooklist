@@ -7,19 +7,19 @@
 <br>
 **x > Need to Download and Add**
 ---
-- [x] **Edge of Darkness** [📓]()
+- [x] **Edge of Darkness** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/375718-the-edge-of-darkness-trilogy&ved=2ahUKEwjj5ov_2YGRAxWQxTgGHciSAcwQFnoECBEQAQ&usg=AOvVaw3r3k-_Ai9b-HrGC4IYESt0)
      - *Insatiable* ✓ 
      - *Voracious* ✓
      - *Restitution* ✓
      - *Psychotic Obsession* ✓
-- [x] Cat and Mouse Duet [📓]()
+- [x] Cat and Mouse Duet [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
      - *Hunting Adeline* ✓
      - *Haunting Adeline* ✓
-- [x] Legacy of Gods [📓]()
+- [x] Legacy of Gods [📓](https://www.goodreads.com/series/342937-legacy-of-gods)
      - *God of Malice* ✓
      - *God of Pain* ✓
      - *God of Wrath* ✓
-- [ ] Indebted [📓]()
+- [ ] Indebted [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/124092-indebted&ved=2ahUKEwj6nO7Y2oGRAxV2zzgGHeODE6kQFnoECA8QAQ&usg=AOvVaw0nfn29grTOW0DyoLpLa-YX)
      - *Debt Inheritance* ✓
      - *First Debt*
      - *Second Debt* ✓
@@ -27,25 +27,25 @@
      - *Fourth Debt* ✓
      - *Final Debt* ✓
      - *Indebted Epilogue* ✓
-- [x] Web of Darkness Duet [📓]()
+- [x] Web of Silence Duet [📓](https://www.goodreads.com/series/394029-the-web-of-silence-duet)
      - *Little Stranger* ✓
      - *Little Liar* ✓
-- [ ] The Ruinous Love Trilogy [Standalones] [📓]()
+- [ ] The Ruinous Love Trilogy [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/376325-the-ruinous-love-trilogy&ved=2ahUKEwjSqo2Z24GRAxXQ2DgGHbeIFkcQFnoFCI0BEAE&usg=AOvVaw3f-fUxinmSnvMKqOB6oNJu)
      - *Butcher & Blackbird* ✓
      - *Leather & Lark* ✓
      - *Scythe & Sparrow* ✓
-- [ ] Never After Series [Standalones] [📓]()
+- [ ] Never After Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/339720-never-after&ved=2ahUKEwiNjqSt24GRAxWqzTgGHcZ5Ek0QFnoECCoQAQ&usg=AOvVaw0--Do1Mj3QluLb826L3qBZ)
      - *Hooked*
      - *Scarred* 
      - *Wretched* 
-- [ ] Quarantined [📓]()
+- [ ] Quarantined [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh)
      - *Quarantined* 
      - **Missing Book 2** (like actually)
      - **Missing Book 3** (like actually)
-- [x] Kiss of the Basilisk Series [📓]()
+- [x] Spit or Swallow [📓](https://www.goodreads.com/series/413642-split-or-swallow)
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
-- [ ] Monster Triology [Standalones] [📓]()
+- [ ] Monster Triology [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/356288-monster-trilogy&ved=2ahUKEwjP-tjx24GRAxWb4zgGHWR6CRQQFnoECCYQAQ&usg=AOvVaw0pmkLSLBzOAF9-rHu40yFd)
      - *Blood of My Monster* ✓
      - *Lies of My Monster* ✓
      - *Heart of My Monster* ✓
