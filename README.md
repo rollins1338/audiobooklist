@@ -18,7 +18,7 @@
      - *God of Wrath* ✓
 - [ ] Indebted
      - *Debt Inheritance* ✓
-     - *First Debt* [x](https://www.myanonamouse.net/t/310694)
+     - *First Debt*
      - *Second Debt* ✓
      - *Third Debt* ✓
      - *Fourth Debt* ✓
@@ -32,9 +32,9 @@
      - *Leather & Lark* ✓
      - *Scythe & Sparrow* ✓
 - [ ] Never After Series [Standalones]
-     - *Hooked* [x](https://www.myanonamouse.net/t/793704)
-     - *Scarred* [x](https://www.myanonamouse.net/t/875496)
-     - *Wretched* [x](https://www.myanonamouse.net/t/876436)
+     - *Hooked*
+     - *Scarred* 
+     - *Wretched* 
 - [ ] Quarantined 
      - *Quarantined* [x](https://www.myanonamouse.net/t/1029335)
      - **Missing Book 2** (like actually)
@@ -48,7 +48,7 @@
      - *Heart of My Monster* ✓
 - [ ] Monster's in the Dark
      - *Tears of Tess* ✓
-     - *Quintessentially Q* [x](https://www.myanonamouse.net/t/350302)
+     - *Quintessentially Q* 
      - *Twisted Together* [Missing]
 - [x] Made Series
      - *The Sweetest Oblivion* ✓
@@ -63,9 +63,9 @@
      - *Tempted by Deception* ✓
      - *Consumed by Deception* ✓
 - [ ] The Dark 
-     - *Captive* [x](https://www.myanonamouse.net/t/716046)
-     - *Seduced* [x](https://www.myanonamouse.net/t/716047)
-     - *Epilogue* [x](https://www.myanonamouse.net/t/716048)
+     - *Captive* 
+     - *Seduced* 
+     - *Epilogue* 
 - [x] Devil's Night Series
      - *Corrupt [Book 1]* ✓
      - *Hideaway [Book 2]* ✓
@@ -77,14 +77,14 @@
      - *Consequences [Book 1]* ✓
        * *Behind His Eyes [Book 1.5]* ✓
      - *Truth [Books 2]* ✓
-       * *Book 2.5* [x](https://www.myanonamouse.net/t/204048)
-     - *Convicted [Book 3]* [x](https://www.myanonamouse.net/t/179485)
-     - *Revealed: The Missing Years [Book 4]* [x](https://www.myanonamouse.net/t/204046)
-     - *Beyond The Consequences [Book 5]* [x](https://www.myanonamouse.net/t/315283)
-     - *Ripples [Book 6]* [x](https://www.myanonamouse.net/t/449085)
+       * *Book 2.5* 
+     - *Convicted [Book 3]* 
+     - *Revealed: The Missing Years [Book 4]* 
+     - *Beyond The Consequences [Book 5]* 
+     - *Ripples [Book 6]* 
 - [ ] The Bleeding Hearts Duet
-     - *Part 1* [x](https://www.myanonamouse.net/t/1182903)
-     - *Part 2* [x](https://www.myanonamouse.net/t/1182904)
+     - *Part 1* 
+     - *Part 2* 
 - [x] Royal Elites [Standalones]
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
@@ -95,7 +95,7 @@
      - *Ruthless Empire [Book 6]* ✓
      - *Royal Elites Epilogue [Book 7]* ✓
 - [ ] The Hollow Boys Series [Standalones]
-     - *The Lies We Steal* [x](https://www.myanonamouse.net/t/1030627)
+     - *The Lies We Steal* 
      - *The Truths We Burn* ✓
      - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2* ✓
@@ -112,22 +112,22 @@
      - *The Predetor [Book 1]* ✓
      - *The Reaper[Book 2]* ✓
 - [ ] Hockey Gods [Standalones]
-     - *Brutal Obsession [Book 1]* [x](https://www.myanonamouse.net/t/889066)
-     - *Devious Obsession [Book 2]* [x](https://www.myanonamouse.net/t/983613)
+     - *Brutal Obsession [Book 1]* 
+     - *Devious Obsession [Book 2]* 
 - [ ] Coastal Elite Series [Standalones]
      - *Even if It Hurts [Book 1]* ✓
      - *Undertow [Book 2]* ✓
      - *Contempt [Book 3]* ✓
      - *Sophie's Surrender [Book 4]*  ✓
 - [ ] Sigma Sin
-     - Saint [x](https://www.myanonamouse.net/t/1134640)
-     - Eternal [x](https://www.myanonamouse.net/t/1184068)
-     - Atone [x](https://www.myanonamouse.net/t/1184069)
+     - Saint 
+     - Eternal 
+     - Atone 
      - Revere [No Audiobook Available Yet]
 - [ ] Redwood Kings Triology
-     - The Darkest Note [x](https://www.myanonamouse.net/t/1181374)
-     - The Ruthless Note [x](https://www.myanonamouse.net/t/1181375)
-     - The Broken Note [x](https://www.myanonamouse.net/t/1181376)
+     - The Darkest Note 
+     - The Ruthless Note 
+     - The Broken Note 
 
 
 ---
