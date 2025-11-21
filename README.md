@@ -30,7 +30,7 @@
 - [x] Web of Silence Duet [📓](https://www.goodreads.com/series/394029-the-web-of-silence-duet)
      - *Little Stranger* ✓
      - *Little Liar* ✓
-- [ ] The Ruinous Love Trilogy [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/376325-the-ruinous-love-trilogy&ved=2ahUKEwjSqo2Z24GRAxXQ2DgGHbeIFkcQFnoFCI0BEAE&usg=AOvVaw3f-fUxinmSnvMKqOB6oNJu)
+- [x] The Ruinous Love Trilogy [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/376325-the-ruinous-love-trilogy&ved=2ahUKEwjSqo2Z24GRAxXQ2DgGHbeIFkcQFnoFCI0BEAE&usg=AOvVaw3f-fUxinmSnvMKqOB6oNJu)
      - *Butcher & Blackbird* ✓
      - *Leather & Lark* ✓
      - *Scythe & Sparrow* ✓
