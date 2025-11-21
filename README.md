@@ -19,9 +19,9 @@
      - *God of Malice* ✓
      - *God of Pain* ✓
      - *God of Wrath* ✓
-- [ ] Indebted [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/124092-indebted&ved=2ahUKEwj6nO7Y2oGRAxV2zzgGHeODE6kQFnoECA8QAQ&usg=AOvVaw0nfn29grTOW0DyoLpLa-YX)
+- [x] Indebted [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/124092-indebted&ved=2ahUKEwj6nO7Y2oGRAxV2zzgGHeODE6kQFnoECA8QAQ&usg=AOvVaw0nfn29grTOW0DyoLpLa-YX)
      - *Debt Inheritance* ✓
-     - *First Debt*
+     - *First Debt* ✓
      - *Second Debt* ✓
      - *Third Debt* ✓
      - *Fourth Debt* ✓
@@ -34,12 +34,12 @@
      - *Butcher & Blackbird* ✓
      - *Leather & Lark* ✓
      - *Scythe & Sparrow* ✓
-- [ ] Never After Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/339720-never-after&ved=2ahUKEwiNjqSt24GRAxWqzTgGHcZ5Ek0QFnoECCoQAQ&usg=AOvVaw0--Do1Mj3QluLb826L3qBZ)
-     - *Hooked*
-     - *Scarred* 
-     - *Wretched* 
+- [x] Never After Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/339720-never-after&ved=2ahUKEwiNjqSt24GRAxWqzTgGHcZ5Ek0QFnoECCoQAQ&usg=AOvVaw0--Do1Mj3QluLb826L3qBZ)
+     - *Hooked* ✓
+     - *Scarred* ✓ 
+     - *Wretched* ✓ 
 - [ ] Quarantined [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh)
-     - *Quarantined* 
+     - *Quarantined* ✓ 
      - **Missing Book 2** (like actually)
      - **Missing Book 3** (like actually)
 - [x] Spit or Swallow [📓](https://www.goodreads.com/series/413642-split-or-swallow)
@@ -51,7 +51,7 @@
      - *Heart of My Monster* ✓
 - [ ] Monster's in the Dark [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/111164-monsters-in-the-dark&ved=2ahUKEwj-hZm93IGRAxVbwzgGHRB6G2UQFnoECCMQAQ&usg=AOvVaw248cNwDMbU88bYRlQeXoxa)
      - *Tears of Tess* ✓
-     - *Quintessentially Q* 
+     - *Quintessentially Q* ✓ 
      - *Twisted Together* [Missing]
 - [x] Made Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
      - *The Sweetest Oblivion* ✓
@@ -66,9 +66,9 @@
      - *Tempted by Deception* ✓
      - *Consumed by Deception* ✓
 - [ ] The Dark Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
-     - *Captive* 
-     - *Seduced* 
-     - *Epilogue* 
+     - *Captive* ✓ 
+     - *Seduced* ✓ 
+     - *Epilogue* ✓ 
 - [x] Devil's Night Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow)
      - *Corrupt [Book 1]* ✓
      - *Hideaway [Book 2]* ✓
@@ -76,18 +76,18 @@
        * *Conclave [Book 3.5]* ✓
      - *Nightfall [Book 4]* ✓
        * *Fire Night [Book 4.5]* ✓
-- [ ] Consequences Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7)
+- [x] Consequences Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7)
      - *Consequences [Book 1]* ✓
        * *Behind His Eyes [Book 1.5]* ✓
      - *Truth [Books 2]* ✓
-       * *Book 2.5* 
-     - *Convicted [Book 3]* 
-     - *Revealed: The Missing Years [Book 4]* 
-     - *Beyond The Consequences [Book 5]* 
-     - *Ripples [Book 6]* 
+       * *Book 2.5* ✓ 
+     - *Convicted [Book 3]* ✓ 
+     - *Revealed: The Missing Years [Book 4]* ✓ 
+     - *Beyond The Consequences [Book 5]* ✓ 
+     - *Ripples [Book 6]* ✓ 
 - [ ] The Bleeding Hearts Series [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
-     - *Torment Part 1* 
-     - *Torment 2*
+     - *Torment Part 1* ✓
+     - *Torment 2* ✓
      - Ashes
      - Mercy
      - Echo 
@@ -100,8 +100,8 @@
      - *Vicious Prince [Book 5]* ✓
      - *Ruthless Empire [Book 6]* ✓
      - *Royal Elites Epilogue [Book 7]* ✓
-- [ ] The Hollow Boys Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371544-hollow-boys&ved=2ahUKEwjRpv6x3oGRAxWXVmwGHdeYLagQFnoECBAQAQ&usg=AOvVaw2l9WJcm6YRYiwDeu8vCmc2)
-     - *The Lies We Steal* 
+- [x] The Hollow Boys Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371544-hollow-boys&ved=2ahUKEwjRpv6x3oGRAxWXVmwGHdeYLagQFnoECBAQAQ&usg=AOvVaw2l9WJcm6YRYiwDeu8vCmc2)
+     - *The Lies We Steal* ✓ 
      - *The Truths We Burn* ✓
      - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2* ✓
@@ -117,23 +117,23 @@
 - [x] The Dark Verse Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
      - *The Predetor [Book 1]* ✓
      - *The Reaper[Book 2]* ✓
-- [ ] Hockey Gods [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
-     - *Brutal Obsession [Book 1]* 
-     - *Devious Obsession [Book 2]* 
-- [ ] Coastal Elite Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT)
+- [x] Hockey Gods [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
+     - *Brutal Obsession [Book 1]* ✓ 
+     - *Devious Obsession [Book 2]* ✓
+- [x] Coastal Elite Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT)
      - *Even if It Hurts [Book 1]* ✓
      - *Undertow [Book 2]* ✓
      - *Contempt [Book 3]* ✓
-     - *Sophie's Surrender [Book 4]*  ✓
-- [ ] Sigma Sin [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP)
-     - *Saint*
-     - *Eternal*
-     - *Atone* 
+     - *Sophie's Surrender [Book 4]* ✓
+- [x] Sigma Sin [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP)
+     - *Saint* ✓
+     - *Eternal* ✓
+     - *Atone* ✓
      - Revere [No Audiobook Available Yet]
-- [ ] Redwood Kings Triology [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat)
-     - *The Darkest Note*
-     - *The Ruthless Note*
-     - *The Broken Note*
+- [x] Redwood Kings Triology [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat)
+     - *The Darkest Note* ✓
+     - *The Ruthless Note* ✓
+     - *The Broken Note* ✓
 
 
 ---
@@ -141,7 +141,7 @@
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
 - [x] **Noticadia ✓**  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
 - [x] **Lights out ✓** [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)  [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
-- [ ] **Sicko** [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
+- [x] **Sicko** ✓ [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
 - [x] **Wicked ✓** [📓](https://www.goodreads.com/book/show/62057629-wicked?ref=nav_sb_ss_3_10)
 - [x] **Gloves Off ✓** [📓](https://www.goodreads.com/book/show/220637398-gloves-off?ref=nav_sb_ss_1_10)
 - [x] **Penpal ✓** [📓](https://www.goodreads.com/book/show/60192737-pen-pal?ref=nav_sb_ss_1_7)
@@ -174,7 +174,14 @@
      * *[Quicksilver Bonus Scenes Book 1.5]* ✓
    - *Brimstone [Book 2]* ✓
    - *Untitled 3rd Book* **Expected 10 Nov 26**
-    
+- [ ] The Empyrean Series
+   - *Fourth Wing* ✓
+   - *Iron Flame* ✓
+   - *Onyx Storm* ✓
+   - **[Unrelased Book 4]**
+   - **[Unrelased Book 5]**
+
+   
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
