@@ -138,19 +138,18 @@
 
 ---
 # Standalones
-- [x] **Alchemised ✓**  [📓]()
-- [x] **Manacled ✓** [📓]()
-- [x] **Noticadia ✓**  [📓]()
-- [x] **Lights out ✓** [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)  [📓]()
-- [ ] **Sicko** [📓]()
-- [x] **Wicked ✓** [📓]()
-- [x] **Gloves Off ✓** [📓]()
-- [x] **Penpal ✓** [📓]()
-- [x] **That Sik Luv ✓** [📓]()
-- [x] **Under Your Scars ✓** [📓]()
-- [x] **Hate Me ✓** [📓]()
-- [x] **Requiem ✓** [📓]()
-- [x] **Still Beating ✓** [📓]()
+- [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
+- [x] **Noticadia ✓**  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
+- [x] **Lights out ✓** [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)  [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
+- [ ] **Sicko** [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
+- [x] **Wicked ✓** [📓](https://www.goodreads.com/book/show/62057629-wicked?ref=nav_sb_ss_3_10)
+- [x] **Gloves Off ✓** [📓](https://www.goodreads.com/book/show/220637398-gloves-off?ref=nav_sb_ss_1_10)
+- [x] **Penpal ✓** [📓](https://www.goodreads.com/book/show/60192737-pen-pal?ref=nav_sb_ss_1_7)
+- [x] **That Sik Luv ✓** [📓](https://www.goodreads.com/book/show/122753589-that-sik-luv?ref=nav_sb_ss_1_12)
+- [x] **Under Your Scars ✓** [📓](https://www.goodreads.com/book/show/177121503-under-your-scars?ref=nav_sb_ss_1_16)
+- [x] **Hate Me ✓** [📓](https://www.goodreads.com/book/show/55628131-hate-me?ac=1&from_search=true&qid=h3tm7jjEuf&rank=3)
+- [x] **Requiem ✓** [📓](https://www.goodreads.com/book/show/61436434-requiem)
+- [x] **Still Beating ✓** [📓](https://www.goodreads.com/search?page=2&q=Requiem+&qid=dnIMu2m4v4&ref=nav_sb_ss_l_8&tab=books#)
 
 ---
 
