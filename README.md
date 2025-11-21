@@ -174,7 +174,7 @@
      * *[Quicksilver Bonus Scenes Book 1.5]* ✓
    - *Brimstone [Book 2]* ✓
    - *Untitled 3rd Book* **Expected 10 Nov 26**
-- [ ] The Empyrean Series
+- [ ] The Empyrean Series [📓](https://www.goodreads.com/series/362915-the-empyrean)
    - *Fourth Wing* ✓
    - *Iron Flame* ✓
    - *Onyx Storm* ✓
