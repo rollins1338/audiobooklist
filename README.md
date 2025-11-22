@@ -134,7 +134,7 @@
      - *The Darkest Note* ✓
      - *The Ruthless Note* ✓
      - *The Broken Note* ✓
-- [ ] Silver Falls University Series [Standalones]
+- [ ] Silver Falls University Series [Standalones] [📓](https://www.goodreads.com/series/399248-silver-falls-university)
      - *Loving the Liar*
      - *Loving the Reaper* [Audiobook Release Soon]
      - *Loving the Tormentor* [Audiobook Not Released Yet]
