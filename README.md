@@ -152,6 +152,7 @@
 - [x] **Hate Me ✓** [📓](https://www.goodreads.com/book/show/55628131-hate-me?ac=1&from_search=true&qid=h3tm7jjEuf&rank=3)
 - [x] **Requiem ✓** [📓](https://www.goodreads.com/book/show/61436434-requiem)
 - [x] **Still Beating ✓** [📓](https://www.goodreads.com/search?page=2&q=Requiem+&qid=dnIMu2m4v4&ref=nav_sb_ss_l_8&tab=books#)
+- [ ] **Fairydale** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 
 ---
 
