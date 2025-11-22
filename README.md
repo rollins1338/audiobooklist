@@ -13,8 +13,11 @@
      - *Restitution* ✓
      - *Psychotic Obsession* ✓
 - [x] Cat and Mouse Duet [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
+     - [Book 0] Phantom
+     - [Book 0.5] Satan's Affair
      - *Hunting Adeline* ✓
      - *Haunting Adeline* ✓
+     - [Book 2.5] Where's Molly ✓
 - [x] Legacy of Gods [📓](https://www.goodreads.com/series/342937-legacy-of-gods)
      - *God of Malice* ✓
      - *God of Pain* ✓
@@ -131,8 +134,10 @@
      - *The Darkest Note* ✓
      - *The Ruthless Note* ✓
      - *The Broken Note* ✓
-
-
+- [ ] Silver Falls University Series [Standalones]
+     - *Loving the Liar*
+     - *Loving the Reaper* [Audiobook Release Soon]
+     - *Loving the Tormentor* [Audiobook Not Released Yet]
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -177,7 +182,11 @@
    - *Onyx Storm* ✓
    - **[Unrelased Book 4]**
    - **[Unrelased Book 5]**
-
+- [ ] Legacy Series [📓](https://www.goodreads.com/series/372028-legacy)
+   - *Rain of Shadows and Endings*
+   - *Strom of Secrets and Sorrow*
+   - *Tempest of Wrath and Vengeance*
+   - *Dawn of Chaos and Fury* [Audiobook Not Released Yet]
    
 
 ---
