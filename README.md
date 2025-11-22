@@ -187,7 +187,7 @@
    - *Strom of Secrets and Sorrow* ✓
    - *Tempest of Wrath and Vengeance* ✓
    - *Dawn of Chaos and Fury* [Audiobook Not Released Yet]
-- [ ] Red Rising Saga
+- [ ] Red Rising Saga [📓](https://www.goodreads.com/series/117100-red-rising-saga)
    - *Red Rising* 
    - *Golden Son* 
    - *Morning Star* 
@@ -195,7 +195,7 @@
    - *Dark Age* [Part 2, 3 not released] [Updates](https://www.graphicaudiointernational.net/red-rising-saga-series-set.html)
    - *Light Bringer*
    - Red God [Expected 1 Jul 26]
-- [ ] The Four Horsemen
+- [ ] The Four Horsemen [📓](https://www.goodreads.com/series/223002-the-four-horsemen)
    - *Pestilence*
    - *War*
    - *Famine*
