@@ -88,9 +88,6 @@
 - [ ] The Bleeding Hearts Series [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
      - *Torment Part 1* ✓
      - *Torment 2* ✓
-     - Ashes
-     - Mercy
-     - Echo 
 - [x] Royal Elites [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4)
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
