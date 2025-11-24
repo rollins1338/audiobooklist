@@ -139,30 +139,32 @@
      - *Loving the Reaper* [Audiobook Release Soon]
      - *Loving the Tormentor* [Audiobook Not Released Yet]
 - [ ] Bratva Bride Series [📓](https://www.goodreads.com/series/367571-bratva-series)
-     - *Bratva Bride*
-     - *Bratva Prince*
+     - *Bratva Bride* ✓
+     - *Bratva Prince* ✓
      - *Bratva Knight* [Audiobook release Dec 02, 26]
      - Bratva Butcher [No Audiobook Yet]
      -  Bratva Menace [No Audiobook Yet]
-- [ ] Blackthorn Elite Series
+- [ ] Blackthorn Elite Series [�](https://www.goodreads.com/series/276046-blackthorn-elite)�
      - *Hating You* ✓
      - *Breaking You* ✓
      - *Hurting You* ✓
      - *Regretting You* ✓
-- [ ] Corium University Trilogy
-     - *King of Corium*
-     - *Drop Dead Queen*
-     - *Broken Kingdom*
+- [ ] Corium University Trilogy [📓](https://www.goodreads.com/series/330109-corium-university)
+     - *King of Corium* ✓
+     - *Drop Dead Queen* ✓
+     - *Broken Kingdom* ✓
        
-       > **Standalones**
-         - *Ruins of Temptation*
-         - *Reign of Freedom*
+       > **Standalones** 
+         - *Ruins of Temptation* ✓
+         - *Reign of Freedom* ✓
          - *Corium Ever After* [Read PDF]
        
        > **Hate and Chaos Duet**
-         - *Touch of Hate*
-         - *Touch of Chaos*
- 
+         - *Touch of Hate* ✓
+         - *Touch of Chaos* ✓
+ - [ ] Fated Fixation [📓](https://www.goodreads.com/series/416764-fated-fixation)
+      - *Limerence*
+      - *Redamancy* [Audiobook Release Dec 09, 25]
         
 ---
 # Standalones
