@@ -135,9 +135,16 @@
      - *The Ruthless Note* ✓
      - *The Broken Note* ✓
 - [ ] Silver Falls University Series [Standalones] [📓](https://www.goodreads.com/series/399248-silver-falls-university)
-     - *Loving the Liar*
+     - *Loving the Liar* ✓
      - *Loving the Reaper* [Audiobook Release Soon]
      - *Loving the Tormentor* [Audiobook Not Released Yet]
+- [ ] Bratva Bride Series [📓](https://www.goodreads.com/series/367571-bratva-series)
+     - *Bratva Bride*
+     - *Bratva Prince*
+     - *Bratva Knight* [ Audiobook release Dec 02, 26]
+     - Bratva Butcher [No Audiobook Yet]
+     - Bratva Menace [No Audiobook Yet]
+
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
