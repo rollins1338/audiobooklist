@@ -148,7 +148,7 @@
      - *Hating You* ✓
      - *Breaking You* ✓
      - *Hurting You* ✓
-     - *Holding You* ✓
+     - *Regretting You* ✓
 - [ ] Corium University Trilogy
      - *King of Corium*
      - *Drop Dead Queen*
