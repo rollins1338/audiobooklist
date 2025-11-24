@@ -143,8 +143,27 @@
      - *Bratva Prince*
      - *Bratva Knight* [Audiobook release Dec 02, 26]
      - Bratva Butcher [No Audiobook Yet]
-     - Bratva Menace [No Audiobook Yet]
-
+     -  Bratva Menace [No Audiobook Yet]
+- [ ] Blackthorn Elite Series
+     - *Hating You* ✓
+     - *Breaking You* ✓
+     - *Hurting You* ✓
+     - *Holding You* ✓
+- [ ] Corium University Trilogy
+     - *King of Corium*
+     - *Drop Dead Queen*
+     - *Broken Kingdom*
+       
+       > **Standalones**
+         - *Ruins of Temptation*
+         - *Reign of Freedom*
+         - *Corium Ever After* [Read PDF]
+       
+       > **Hate and Chaos Duet**
+         - *Touch of Hate*
+         - *Touch of Chaos*
+ 
+        
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
