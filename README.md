@@ -179,6 +179,7 @@
 - [x] **Still Beating ✓** [📓](https://www.goodreads.com/search?page=2&q=Requiem+&qid=dnIMu2m4v4&ref=nav_sb_ss_l_8&tab=books#)
 - [x] **Fairydale ✓** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
+- [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
 
 ---
 
