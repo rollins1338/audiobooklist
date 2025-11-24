@@ -144,12 +144,12 @@
      - *Bratva Knight* [Audiobook release Dec 02, 26]
      - Bratva Butcher [No Audiobook Yet]
      -  Bratva Menace [No Audiobook Yet]
-- [ ] Blackthorn Elite Series [�](https://www.goodreads.com/series/276046-blackthorn-elite)�
+- [x] Blackthorn Elite Series [�](https://www.goodreads.com/series/276046-blackthorn-elite)�
      - *Hating You* ✓
      - *Breaking You* ✓
      - *Hurting You* ✓
      - *Regretting You* ✓
-- [ ] Corium University Trilogy [📓](https://www.goodreads.com/series/330109-corium-university)
+- [x] Corium University Trilogy [📓](https://www.goodreads.com/series/330109-corium-university)
      - *King of Corium* ✓
      - *Drop Dead Queen* ✓
      - *Broken Kingdom* ✓
