@@ -141,7 +141,7 @@
 - [ ] Bratva Bride Series [📓](https://www.goodreads.com/series/367571-bratva-series)
      - *Bratva Bride*
      - *Bratva Prince*
-     - *Bratva Knight* [ Audiobook release Dec 02, 26]
+     - *Bratva Knight* [Audiobook release Dec 02, 26]
      - Bratva Butcher [No Audiobook Yet]
      - Bratva Menace [No Audiobook Yet]
 
