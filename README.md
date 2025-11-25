@@ -172,9 +172,9 @@
       - *Twist* ✓
       - *Dismount* ✓ 
  - [ ] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
-      - *Ruthless King*
-      - *Defiant Queen*
-      - *Sinful Empire*
+      - *Ruthless King* ✓
+      - *Defiant Queen* ✓
+      - *Sinful Empire* ✓
  - [ ] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
       - *Luca Vitiello*
       - *Bound by Honor*
