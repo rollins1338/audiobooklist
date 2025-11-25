@@ -230,6 +230,18 @@
    - *War* ✓
    - *Famine* ✓
    - Death [Release Dec 29, 26]
-
+- [ ] A Court of Thorns and Roses Series [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
+   - *A Court of Thorns and Roses [Book 1]*
+   - *A Court of Mist and Fury [Book 2]*
+   - *A Court of Wings and Ruin [Book 3]*
+     * *A Court of Frost and Starlight [Book 3.5]*
+   - *A ​Court of Silver Flames [Book 4]*
+- [ ] Blood and Ash Series [📓](https://www.goodreads.com/series/321784-blood-and-ash)
+   - *From Blood and Ash*
+   - *A Kingdom of Flesh and Fire*
+   - *The ​Crown of Gilded Bones*
+   - *The War of Two Queens*
+   - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
+   - The Primal of Blood and Bone [Audiobook Unrelased]
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
