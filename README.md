@@ -171,6 +171,30 @@
       - *Release*
       - *Execution*
       - *Dismount*    
+ - [ ] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
+      - *Ruthless King*
+      - *Defiant Queen*
+      - *Sinful Empire*
+ - [ ] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
+      - *Luca Vitiello*
+      - *Bound by Honor*
+      - *Bound by Duty*
+      - *Bound by Hatred*
+      - *Bound by Temptation*
+      - *Bound by Vengeance*
+      - *Bound by Love*
+      - *Bound by the Past*
+ - [ ] The Camorra Chronicles [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
+      - *Twisted Loyalties* x
+      - *Twisted Emotions* x
+      - *Twisted Pride* x
+      - *Twisted Bonds* x
+      - *Twisted Hearts* x
+      - *Twisted Cravings* x
+ - [ ] Acquisition Triology
+      - *Counsellor* x
+      - *Magnate* x
+      - *Sovereign* x
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
