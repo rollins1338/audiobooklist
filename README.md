@@ -229,7 +229,7 @@
    - *Pestilence* ✓
    - *War* ✓
    - *Famine* ✓
-   - Death [Release Dec 29, 26]
+   - Death [Release Dec 29, 25]
 - [ ] A Court of Thorns and Roses Series [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
    - *A Court of Thorns and Roses [Book 1]*
    - *A Court of Mist and Fury [Book 2]*
