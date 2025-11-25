@@ -178,7 +178,6 @@
 - [x] **That Sik Luv ✓** [📓](https://www.goodreads.com/book/show/122753589-that-sik-luv?ref=nav_sb_ss_1_12)
 - [x] **Under Your Scars ✓** [📓](https://www.goodreads.com/book/show/177121503-under-your-scars?ref=nav_sb_ss_1_16)
 - [x] **Requiem ✓** [📓](https://www.goodreads.com/book/show/61436434-requiem)
-- [x] **Still Beating ✓** [📓](https://www.goodreads.com/search?page=2&q=Requiem+&qid=dnIMu2m4v4&ref=nav_sb_ss_l_8&tab=books#)
 - [x] **Fairydale ✓** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
