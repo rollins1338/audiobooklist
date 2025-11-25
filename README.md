@@ -166,11 +166,11 @@
       - *Limerence* ✓
       - *Redamancy* [Audiobook Release Dec 09, 25]
  - [ ] Off Balance Series [📓](https://www.goodreads.com/series/130844-off-balance)
-      - *Balance*
-      - *Execution*
-      - *Release*
-      - *Execution*
-      - *Dismount*    
+      - *Balance* ✓
+      - *Execution* ✓
+      - *Release* ✓
+      - *Twist* ✓
+      - *Dismount* ✓ 
  - [ ] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
       - *Ruthless King*
       - *Defiant Queen*
