@@ -165,7 +165,12 @@
  - [ ] Fated Fixation [📓](https://www.goodreads.com/series/416764-fated-fixation)
       - *Limerence* ✓
       - *Redamancy* [Audiobook Release Dec 09, 25]
-        
+ - [ ] Off Balance Series [📓](https://www.goodreads.com/series/130844-off-balance)
+      - *Balance*
+      - *Execution*
+      - *Release*
+      - *Execution*
+      - *Dismount*    
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -181,6 +186,7 @@
 - [x] **Fairydale ✓** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
+- [ ] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
 
 ---
 
