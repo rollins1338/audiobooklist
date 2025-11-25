@@ -163,7 +163,7 @@
          - *Touch of Hate* ✓
          - *Touch of Chaos* ✓
  - [ ] Fated Fixation [📓](https://www.goodreads.com/series/416764-fated-fixation)
-      - *Limerence*
+      - *Limerence* ✓
       - *Redamancy* [Audiobook Release Dec 09, 25]
         
 ---
@@ -195,7 +195,7 @@
    - *The Reckoning [Book 3]* ✓
    - *Shadow Princess [Book 4]* ✓
    - *Cursed Fates [Book 5]* ✓
-   - *Fated Throne [Book 6]*
+   - *Fated Throne [Book 6]* ✓
    - *Heartless Sky [Book 7]* ✓
    - *Sorrow and Sarlight [ Book 8]* ✓
      * *Beyond the Veil [Book 8.5]* ✓
@@ -231,16 +231,16 @@
    - *Famine* ✓
    - Death [Release Dec 29, 25]
 - [ ] A Court of Thorns and Roses Series [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
-   - *A Court of Thorns and Roses [Book 1]*
-   - *A Court of Mist and Fury [Book 2]*
-   - *A Court of Wings and Ruin [Book 3]*
-     * *A Court of Frost and Starlight [Book 3.5]*
-   - *A ​Court of Silver Flames [Book 4]*
+   - *A Court of Thorns and Roses [Book 1]* ✓
+   - *A Court of Mist and Fury [Book 2]* ✓
+   - *A Court of Wings and Ruin [Book 3]* ✓
+     * *A Court of Frost and Starlight [Book 3.5]* ✓
+   - *A ​Court of Silver Flames [Book 4]* ✓
 - [ ] Blood and Ash Series [📓](https://www.goodreads.com/series/321784-blood-and-ash)
    - *From Blood and Ash*
-   - *A Kingdom of Flesh and Fire*
-   - *The ​Crown of Gilded Bones*
-   - *The War of Two Queens*
+   - *A Kingdom of Flesh and Fire* ✓
+   - *The ​Crown of Gilded Bones* ✓
+   - *The War of Two Queens* ✓
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
 ---
