@@ -176,25 +176,25 @@
       - *Defiant Queen* ✓
       - *Sinful Empire* ✓
  - [ ] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
-      - *Luca Vitiello*
-      - *Bound by Honor*
-      - *Bound by Duty*
-      - *Bound by Hatred*
-      - *Bound by Temptation*
-      - *Bound by Vengeance*
-      - *Bound by Love*
-      - *Bound by the Past*
+      - *Luca Vitiello* ✓
+      - *Bound by Honor* ✓
+      - *Bound by Duty* ✓
+      - *Bound by Hatred* ✓
+      - *Bound by Temptation* ✓
+      - *Bound by Vengeance* ✓
+      - *Bound by Love* ✓
+      - *Bound by the Past* ✓
  - [ ] The Camorra Chronicles [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
-      - *Twisted Loyalties* x
-      - *Twisted Emotions* x
-      - *Twisted Pride* x
-      - *Twisted Bonds* x
-      - *Twisted Hearts* x
-      - *Twisted Cravings* x
- - [ ] Acquisition Triology
-      - *Counsellor* x
-      - *Magnate* x
-      - *Sovereign* x
+      - *Twisted Loyalties* ✓
+      - *Twisted Emotions* ✓
+      - *Twisted Pride* ✓
+      - *Twisted Bonds* ✓
+      - *Twisted Hearts*v
+      - *Twisted Cravings* ✓
+ - [ ] Acquisition Triology [📓](https://www.goodreads.com/series/230701-acquisition)
+      - *Counsellor* ✓
+      - *Magnate* ✓
+      - *Sovereign* ✓
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -272,5 +272,10 @@
    - *The War of Two Queens* ✓
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
+- [ ] Crescent City Series [📓](https://www.goodreads.com/series/233335-crescent-city)
+   - *House of Earth and Blood*
+   - *House of Sky and Breath*
+   - *House of Flame and Shadow*
+
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
