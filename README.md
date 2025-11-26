@@ -141,10 +141,10 @@
 - [ ] Bratva Bride Series [📓](https://www.goodreads.com/series/367571-bratva-series)
      - *Bratva Bride* ✓
      - *Bratva Prince* ✓
-     - *Bratva Knight* [Audiobook release Dec 02, 26]
+     - *Bratva Knight* [Audiobook release Dec 02, 25]
      - Bratva Butcher [No Audiobook Yet]
      -  Bratva Menace [No Audiobook Yet]
-- [x] Blackthorn Elite Series [�](https://www.goodreads.com/series/276046-blackthorn-elite)�
+- [x] Blackthorn Elite Series [📓](https://www.goodreads.com/series/276046-blackthorn-elite)
      - *Hating You* ✓
      - *Breaking You* ✓
      - *Hurting You* ✓
