@@ -12,17 +12,17 @@
      - *Voracious* ✓
      - *Restitution* ✓
      - *Psychotic Obsession* ✓
-- [x] Cat and Mouse Duet [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
+- [x] **Cat and Mouse Duet** [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
      - [Book 0] Phantom
      - [Book 0.5] Satan's Affair
      - *Hunting Adeline* ✓
      - *Haunting Adeline* ✓
      - [Book 2.5] Where's Molly ✓
-- [x] Legacy of Gods [📓](https://www.goodreads.com/series/342937-legacy-of-gods)
+- [x] **Legacy of Gods** [📓](https://www.goodreads.com/series/342937-legacy-of-gods)
      - *God of Malice* ✓
      - *God of Pain* ✓
      - *God of Wrath* ✓
-- [x] Indebted [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/124092-indebted&ved=2ahUKEwj6nO7Y2oGRAxV2zzgGHeODE6kQFnoECA8QAQ&usg=AOvVaw0nfn29grTOW0DyoLpLa-YX)
+- [x] **Indebted** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/124092-indebted&ved=2ahUKEwj6nO7Y2oGRAxV2zzgGHeODE6kQFnoECA8QAQ&usg=AOvVaw0nfn29grTOW0DyoLpLa-YX)
      - *Debt Inheritance* ✓
      - *First Debt* ✓
      - *Second Debt* ✓
@@ -30,56 +30,56 @@
      - *Fourth Debt* ✓
      - *Final Debt* ✓
      - *Indebted Epilogue* ✓
-- [x] Web of Silence Duet [📓](https://www.goodreads.com/series/394029-the-web-of-silence-duet)
+- [x] **Web of Silence Duet** [📓](https://www.goodreads.com/series/394029-the-web-of-silence-duet)
      - *Little Stranger* ✓
      - *Little Liar* ✓
-- [x] The Ruinous Love Trilogy [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/376325-the-ruinous-love-trilogy&ved=2ahUKEwjSqo2Z24GRAxXQ2DgGHbeIFkcQFnoFCI0BEAE&usg=AOvVaw3f-fUxinmSnvMKqOB6oNJu)
+- [x] **The Ruinous Love Trilogy** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/376325-the-ruinous-love-trilogy&ved=2ahUKEwjSqo2Z24GRAxXQ2DgGHbeIFkcQFnoFCI0BEAE&usg=AOvVaw3f-fUxinmSnvMKqOB6oNJu)
      - *Butcher & Blackbird* ✓
      - *Leather & Lark* ✓
      - *Scythe & Sparrow* ✓
-- [x] Never After Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/339720-never-after&ved=2ahUKEwiNjqSt24GRAxWqzTgGHcZ5Ek0QFnoECCoQAQ&usg=AOvVaw0--Do1Mj3QluLb826L3qBZ)
+- [x] **Never After Series** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/339720-never-after&ved=2ahUKEwiNjqSt24GRAxWqzTgGHcZ5Ek0QFnoECCoQAQ&usg=AOvVaw0--Do1Mj3QluLb826L3qBZ)
      - *Hooked* ✓
      - *Scarred* ✓ 
      - *Wretched* ✓ 
-- [ ] Quarantined [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh)
+- [ ] **Quarantined** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh)
      - *Quarantined* ✓ 
      - **Missing Book 2** (like actually)
      - **Missing Book 3** (like actually)
-- [x] Spit or Swallow [📓](https://www.goodreads.com/series/413642-split-or-swallow)
+- [x] **Spit or Swallow** [📓](https://www.goodreads.com/series/413642-split-or-swallow)
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
-- [ ] Monster Triology [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/356288-monster-trilogy&ved=2ahUKEwjP-tjx24GRAxWb4zgGHWR6CRQQFnoECCYQAQ&usg=AOvVaw0pmkLSLBzOAF9-rHu40yFd)
+- [ ] **Monster Triology** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/356288-monster-trilogy&ved=2ahUKEwjP-tjx24GRAxWb4zgGHWR6CRQQFnoECCYQAQ&usg=AOvVaw0pmkLSLBzOAF9-rHu40yFd)
      - *Blood of My Monster* ✓
      - *Lies of My Monster* ✓
      - *Heart of My Monster* ✓
-- [ ] Monster's in the Dark [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/111164-monsters-in-the-dark&ved=2ahUKEwj-hZm93IGRAxVbwzgGHRB6G2UQFnoECCMQAQ&usg=AOvVaw248cNwDMbU88bYRlQeXoxa)
+- [ ] **Monster's in the Dark** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/111164-monsters-in-the-dark&ved=2ahUKEwj-hZm93IGRAxVbwzgGHRB6G2UQFnoECCMQAQ&usg=AOvVaw248cNwDMbU88bYRlQeXoxa)
      - *Tears of Tess* ✓
      - *Quintessentially Q* ✓ 
      - *Twisted Together* [Missing]
-- [x] Made Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
+- [x] **Made Seriesv [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
      - *The Sweetest Oblivion* ✓
      - *The Maddest Obsession* ✓
      - *The Darkest Temptation* ✓
-- [x] The Brethren Lords [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/400784-the-brethren-lords&ved=2ahUKEwirnfvh3IGRAxUk2TgGHTi1PGEQFnoECA8QAQ&usg=AOvVaw2D6G2OR1ANK0RD1823NaH1)
+- [x] **The Brethren Lords** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/400784-the-brethren-lords&ved=2ahUKEwirnfvh3IGRAxUk2TgGHTi1PGEQFnoECA8QAQ&usg=AOvVaw2D6G2OR1ANK0RD1823NaH1)
      - *Deviant*  ✓
      - *Depravity* ✓
      - *Degradation* ✓
-- [x] Deception Trilogy [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/310160-deception-trilogy&ved=2ahUKEwiZhc3y3IGRAxXHxzgGHbdxBqgQFnoECB8QAQ&usg=AOvVaw2VSarWuHkybihZhNOvdWTf)
+- [x] **Deception Trilogy** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/310160-deception-trilogy&ved=2ahUKEwiZhc3y3IGRAxXHxzgGHbdxBqgQFnoECB8QAQ&usg=AOvVaw2VSarWuHkybihZhNOvdWTf)
      - *Vow of Deception*  ✓
      - *Tempted by Deception* ✓
      - *Consumed by Deception* ✓
-- [ ] The Dark Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
+- [ ] **The Dark Duet** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
      - *Captive* ✓ 
      - *Seduced* ✓ 
      - *Epilogue* ✓ 
-- [x] Devil's Night Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow)
+- [x] **Devil's Night Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow)
      - *Corrupt [Book 1]* ✓
      - *Hideaway [Book 2]* ✓
      - *Kill Switch [Book 3]* ✓
        * *Conclave [Book 3.5]* ✓
      - *Nightfall [Book 4]* ✓
        * *Fire Night [Book 4.5]* ✓
-- [x] Consequences Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7)
+- [x] **Consequences Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7)
      - *Consequences [Book 1]* ✓
        * *Behind His Eyes [Book 1.5]* ✓
      - *Truth [Books 2]* ✓
@@ -88,10 +88,10 @@
      - *Revealed: The Missing Years [Book 4]* ✓ 
      - *Beyond The Consequences [Book 5]* ✓ 
      - *Ripples [Book 6]* ✓ 
-- [ ] The Bleeding Hearts Series [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
+- [ ] **The Bleeding Hearts Series** [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
      - *Torment Part 1* ✓
      - *Torment 2* ✓
-- [x] Royal Elites [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4)
+- [x] **Royal Elites** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4)
      - *Cruel King [Book 0]* ✓
      - *Deviant King [Book 1]* ✓
      - *Steel Princess [Book 2]* ✓
@@ -106,50 +106,50 @@
      - *The Blood We Crave: Part 1* ✓
      - *The Blood We Crave: Part 2* ✓
      - *The Oath We Give* ✓
-- [ ] River Styx Heathens Series [Hollow Boys Universe] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/404444-river-styx-heathens&ved=2ahUKEwj1u7293oGRAxXRV3ADHcjnApMQFnoECB0QAQ&usg=AOvVaw3QpBjrsicESgeCKDjvNOsZ)
+- [ ] **River Styx Heathens Series** [Hollow Boys Universe] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/404444-river-styx-heathens&ved=2ahUKEwj1u7293oGRAxXRV3ADHcjnApMQFnoECB0QAQ&usg=AOvVaw3QpBjrsicESgeCKDjvNOsZ)
      - *Wrath of an Exile* ✓
      - *Whisper of a Shadow* [**Expected 5 Aug 26**]
-- [x] Morally Black Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/399339-morally-black&ved=2ahUKEwjBts7L3oGRAxVHTWwGHdG_ECYQFnoECCkQAQ&usg=AOvVaw1kFOG6asWPfxG_hRLz_-3f)
+- [x] **Morally Black Series** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/399339-morally-black&ved=2ahUKEwjBts7L3oGRAxVHTWwGHdG_ECYQFnoECCkQAQ&usg=AOvVaw1kFOG6asWPfxG_hRLz_-3f)
      - *Taming Seraphine* ✓
      - *Snaring Emberly* ✓
      - *Breaking Rosalind* ✓
      - *Stalking Ginevra* ✓
-- [x] The Dark Verse Duet [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
+- [x] **The Dark Verse Duet** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
      - *The Predetor [Book 1]* ✓
      - *The Reaper[Book 2]* ✓
-- [x] Hockey Gods [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
+- [x] **Hockey Gods** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
      - *Brutal Obsession [Book 1]* ✓ 
      - *Devious Obsession [Book 2]* ✓
-- [x] Coastal Elite Series [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT)
+- [x] **Coastal Elite Series** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT)
      - *Even if It Hurts [Book 1]* ✓
      - *Undertow [Book 2]* ✓
      - *Contempt [Book 3]* ✓
      - *Sophie's Surrender [Book 4]* ✓
-- [x] Sigma Sin [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP)
+- [x] **Sigma Sin** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP)
      - *Saint* ✓
      - *Eternal* ✓
      - *Atone* ✓
      - Revere [No Audiobook Available Yet]
-- [x] Redwood Kings Triology [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat)
+- [x] **Redwood Kings Triology** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat)
      - *The Darkest Note* ✓
      - *The Ruthless Note* ✓
      - *The Broken Note* ✓
-- [ ] Silver Falls University Series [Standalones] [📓](https://www.goodreads.com/series/399248-silver-falls-university)
+- [ ] **Silver Falls University Series** [Standalones] [📓](https://www.goodreads.com/series/399248-silver-falls-university)
      - *Loving the Liar* ✓
      - *Loving the Reaper* [Audiobook Release Soon]
      - *Loving the Tormentor* [Audiobook Not Released Yet]
-- [ ] Bratva Bride Series [📓](https://www.goodreads.com/series/367571-bratva-series)
+- [ ] **Bratva Bride Series** [📓](https://www.goodreads.com/series/367571-bratva-series)
      - *Bratva Bride* ✓
      - *Bratva Prince* ✓
      - *Bratva Knight* [Audiobook release Dec 02, 25]
      - Bratva Butcher [No Audiobook Yet]
      -  Bratva Menace [No Audiobook Yet]
-- [x] Blackthorn Elite Series [📓](https://www.goodreads.com/series/276046-blackthorn-elite)
+- [x] **Blackthorn Elite Series** [📓](https://www.goodreads.com/series/276046-blackthorn-elite)
      - *Hating You* ✓
      - *Breaking You* ✓
      - *Hurting You* ✓
      - *Regretting You* ✓
-- [x] Corium University Trilogy [📓](https://www.goodreads.com/series/330109-corium-university)
+- [x] **Corium University Trilogy** [📓](https://www.goodreads.com/series/330109-corium-university)
      - *King of Corium* ✓
      - *Drop Dead Queen* ✓
      - *Broken Kingdom* ✓
@@ -162,20 +162,20 @@
        > **Hate and Chaos Duet**
          - *Touch of Hate* ✓
          - *Touch of Chaos* ✓
- - [ ] Fated Fixation [📓](https://www.goodreads.com/series/416764-fated-fixation)
+ - [ ] **Fated Fixation** [📓](https://www.goodreads.com/series/416764-fated-fixation)
       - *Limerence* ✓
       - *Redamancy* [Audiobook Release Dec 09, 25]
- - [x] Off Balance Series [📓](https://www.goodreads.com/series/130844-off-balance)
+ - [x] **Off Balance Series** [📓](https://www.goodreads.com/series/130844-off-balance)
       - *Balance* ✓
       - *Execution* ✓
       - *Release* ✓
       - *Twist* ✓
       - *Dismount* ✓ 
- - [x] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
+ - [x] **Mount Trilogy** [📓](https://www.goodreads.com/series/211602-mount-trilogy)
       - *Ruthless King* ✓
       - *Defiant Queen* ✓
       - *Sinful Empire* ✓
- - [x] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
+ - [x] **Born in Blood** [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
       - *Luca Vitiello* ✓
       - *Bound by Honor* ✓
       - *Bound by Duty* ✓
@@ -184,14 +184,14 @@
       - *Bound by Vengeance* ✓
       - *Bound by Love* ✓
       - *Bound by the Past* ✓
- - [x] The Camorra Chronicles [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
+ - [x] **The Camorra Chronicles** [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
       - *Twisted Loyalties* ✓
       - *Twisted Emotions* ✓
       - *Twisted Pride* ✓
       - *Twisted Bonds* ✓
       - *Twisted Hearts* ✓
       - *Twisted Cravings* ✓
- - [x] Acquisition Triology [📓](https://www.goodreads.com/series/230701-acquisition)
+ - [x] **Acquisition Triology** [📓](https://www.goodreads.com/series/230701-acquisition)
       - *Counsellor* ✓
       - *Magnate* ✓
       - *Sovereign* ✓
@@ -216,7 +216,7 @@
 
 # Trying out Fantasy Romance 
 
-- [x] Zodiac Academy Series [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/264317-zodiac-academy&ved=2ahUKEwi7-5yi34GRAxUtUGcHHSiNCU0QFnoECGMQAQ&usg=AOvVaw01TASEjROJuE02M6QhzOML)
+- [x] **Zodiac Academy Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/264317-zodiac-academy&ved=2ahUKEwi7-5yi34GRAxUtUGcHHSiNCU0QFnoECGMQAQ&usg=AOvVaw01TASEjROJuE02M6QhzOML)
    - *Origins of an Academy Bully [Book 0.5]* ✓
    - *The Awakening [Book 1]* ✓
      * *The Awakening as Told by the Boys [Book 1.5]* ✓
@@ -230,23 +230,23 @@
      * *Beyond the Veil [Book 8.5]* ✓
    - *Restless Stars [Book 9]* ✓
 
-- [ ] Fae and Alchemy [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/392242-fae-alchemy&ved=2ahUKEwi6oIGs34GRAxXwUGwGHSEuDZIQFnoECB0QAQ&usg=AOvVaw1S7b2K9sFc45ZiIiwldADY)
+- [ ] **Fae and Alchemy** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/392242-fae-alchemy&ved=2ahUKEwi6oIGs34GRAxXwUGwGHSEuDZIQFnoECB0QAQ&usg=AOvVaw1S7b2K9sFc45ZiIiwldADY)
    - *Quicksilver[Book 1]* ✓
      * *[Quicksilver Bonus Scenes Book 1.5]* ✓
    - *Brimstone [Book 2]* ✓
    - *Untitled 3rd Book* **Expected 10 Nov 26**
-- [ ] The Empyrean Series [📓](https://www.goodreads.com/series/362915-the-empyrean)
+- [ ] **The Empyrean Series** [📓](https://www.goodreads.com/series/362915-the-empyrean)
    - *Fourth Wing* ✓
    - *Iron Flame* ✓
    - *Onyx Storm* ✓
    - **[Unrelased Book 4]**
    - **[Unrelased Book 5]**
-- [ ] Legacy Series [📓](https://www.goodreads.com/series/372028-legacy)
+- [ ] **Legacy Series** [📓](https://www.goodreads.com/series/372028-legacy)
    - *Rain of Shadows and Endings* ✓
    - *Strom of Secrets and Sorrow* ✓
    - *Tempest of Wrath and Vengeance* ✓
    - *Dawn of Chaos and Fury* [Audiobook Not Released Yet]
-- [ ] Red Rising Saga [📓](https://www.goodreads.com/series/117100-red-rising-saga)
+- [ ] **Red Rising Saga** [📓](https://www.goodreads.com/series/117100-red-rising-saga)
    - *Red Rising* ✓ 
    - *Golden Son* ✓
    - *Morning Star* ✓
@@ -254,41 +254,41 @@
    - *Dark Age* [Part 2, 3 not released] [Updates](https://www.graphicaudiointernational.net/red-rising-saga-series-set.html)
    - *Light Bringer*
    - Red God [Expected 1 Jul 26]
-- [ ] The Four Horsemen [📓](https://www.goodreads.com/series/223002-the-four-horsemen)
+- [ ] **The Four Horsemen** [📓](https://www.goodreads.com/series/223002-the-four-horsemen)
    - *Pestilence* ✓
    - *War* ✓
    - *Famine* ✓
    - Death [Release Dec 29, 25]
-- [ ] A Court of Thorns and Roses Series [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
+- [ ] **A Court of Thorns and Roses Series** [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
    - *A Court of Thorns and Roses [Book 1]* ✓
    - *A Court of Mist and Fury [Book 2]* ✓
    - *A Court of Wings and Ruin [Book 3]* ✓
      * *A Court of Frost and Starlight [Book 3.5]* ✓
    - *A ​Court of Silver Flames [Book 4]* ✓
-- [ ] Blood and Ash Series [📓](https://www.goodreads.com/series/321784-blood-and-ash)
+- [ ] **Blood and Ash Series** [📓](https://www.goodreads.com/series/321784-blood-and-ash)
    - *From Blood and Ash* ✓
    - *A Kingdom of Flesh and Fire* ✓
    - *The ​Crown of Gilded Bones* ✓
    - *The War of Two Queens* ✓
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
-- [ ] Crescent City Series [📓](https://www.goodreads.com/series/233335-crescent-city)
+- [ ] **Crescent City Series** [📓](https://www.goodreads.com/series/233335-crescent-city)
    - *House of Earth and Blood*
    - *House of Sky and Breath*
    - *House of Flame and Shadow*
-- [ ] Gods & Monsters Series [📓](https://www.goodreads.com/series/344354-gods-monsters)
+- [ ] **Gods & Monsters Series** [📓](https://www.goodreads.com/series/344354-gods-monsters)
    - *The Book of Azrael*
    - *The Throne of Broken Gods*
    - *The Dawn of the Cursed Queen*
    - *The Wrath of the Fallen*
-- [ ] House of Devils Series [📓](https://www.goodreads.com/series/335398-house-of-devils)
+- [ ] **House of Devils Series** [📓](https://www.goodreads.com/series/335398-house-of-devils)
    - *City of Gods and Monsters*
    - *City of Souls and Sinners*
    - *City of Lies and Legends*
    - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
    - Unreleased Book 5
    - Unreleased Book 6
-- [ ] The War of Lost Hearts Series [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
+- [ ] **The War of Lost Hearts Series** [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
    - *Daughter of No Worlds*
    - *Children of Fallen Gods*
    - *Mother of Death & Dawn*
