@@ -165,17 +165,17 @@
  - [ ] Fated Fixation [📓](https://www.goodreads.com/series/416764-fated-fixation)
       - *Limerence* ✓
       - *Redamancy* [Audiobook Release Dec 09, 25]
- - [ ] Off Balance Series [📓](https://www.goodreads.com/series/130844-off-balance)
+ - [x] Off Balance Series [📓](https://www.goodreads.com/series/130844-off-balance)
       - *Balance* ✓
       - *Execution* ✓
       - *Release* ✓
       - *Twist* ✓
       - *Dismount* ✓ 
- - [ ] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
+ - [x] Mount Trilogy [📓](https://www.goodreads.com/series/211602-mount-trilogy)
       - *Ruthless King* ✓
       - *Defiant Queen* ✓
       - *Sinful Empire* ✓
- - [ ] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
+ - [x] Born in Blood [📓](https://www.goodreads.com/series/142672-born-in-blood-mafia-chronicles)
       - *Luca Vitiello* ✓
       - *Bound by Honor* ✓
       - *Bound by Duty* ✓
@@ -184,14 +184,14 @@
       - *Bound by Vengeance* ✓
       - *Bound by Love* ✓
       - *Bound by the Past* ✓
- - [ ] The Camorra Chronicles [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
+ - [x] The Camorra Chronicles [📓](https://www.goodreads.com/series/244934-the-camorra-chronicles) 
       - *Twisted Loyalties* ✓
       - *Twisted Emotions* ✓
       - *Twisted Pride* ✓
       - *Twisted Bonds* ✓
-      - *Twisted Hearts*v
+      - *Twisted Hearts* ✓
       - *Twisted Cravings* ✓
- - [ ] Acquisition Triology [📓](https://www.goodreads.com/series/230701-acquisition)
+ - [x] Acquisition Triology [📓](https://www.goodreads.com/series/230701-acquisition)
       - *Counsellor* ✓
       - *Magnate* ✓
       - *Sovereign* ✓
@@ -210,7 +210,7 @@
 - [x] **Fairydale ✓** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
-- [ ] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
+- [x] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
 
 ---
 
@@ -266,7 +266,7 @@
      * *A Court of Frost and Starlight [Book 3.5]* ✓
    - *A ​Court of Silver Flames [Book 4]* ✓
 - [ ] Blood and Ash Series [📓](https://www.goodreads.com/series/321784-blood-and-ash)
-   - *From Blood and Ash*
+   - *From Blood and Ash* ✓
    - *A Kingdom of Flesh and Fire* ✓
    - *The ​Crown of Gilded Bones* ✓
    - *The War of Two Queens* ✓
@@ -276,6 +276,18 @@
    - *House of Earth and Blood*
    - *House of Sky and Breath*
    - *House of Flame and Shadow*
+- [ ] Gods & Monsters Series [📓](https://www.goodreads.com/series/344354-gods-monsters)
+   - *The Book of Azrael*
+   - *The Throne of Broken Gods*
+   - *The Dawn of the Cursed Queen*
+   - *The Wrath of the Fallen*
+- [ ] House of Devils Series [📓](https://www.goodreads.com/series/335398-house-of-devils)
+   - *City of Gods and Monsters*
+   - *City of Souls and Sinners*
+   - *City of Lies and Legends*
+   - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
+   - Unreleased Book 5
+   - Unreleased Book 6
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
