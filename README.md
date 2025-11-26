@@ -259,7 +259,7 @@
    - *War* ✓
    - *Famine* ✓
    - Death [Release Dec 29, 25]
-- [ ] **A Court of Thorns and Roses Series** [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
+- [x] **A Court of Thorns and Roses Series** [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
    - *A Court of Thorns and Roses [Book 1]* ✓
    - *A Court of Mist and Fury [Book 2]* ✓
    - *A Court of Wings and Ruin [Book 3]* ✓
@@ -272,11 +272,11 @@
    - *The War of Two Queens* ✓
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
-- [ ] **Crescent City Series** [📓](https://www.goodreads.com/series/233335-crescent-city)
+- [x] **Crescent City Series** [📓](https://www.goodreads.com/series/233335-crescent-city)
    - *House of Earth and Blood* ✓
    - *House of Sky and Breath* ✓
    - *House of Flame and Shadow* ✓
-- [ ] **Gods & Monsters Series** [📓](https://www.goodreads.com/series/344354-gods-monsters)
+- [x] **Gods & Monsters Series** [📓](https://www.goodreads.com/series/344354-gods-monsters)
    - *The Book of Azrael* ✓
    - *The Throne of Broken Gods* ✓
    - *The Dawn of the Cursed Queen* ✓
@@ -288,7 +288,7 @@
    - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
    - Unreleased Book 5
    - Unreleased Book 6
-- [ ] **The War of Lost Hearts Series** [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
+- [x] **The War of Lost Hearts Series** [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
    - *Daughter of No Worlds* ✓
    - *Children of Fallen Gods* ✓
    - *Mother of Death & Dawn* ✓
