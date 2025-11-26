@@ -273,24 +273,24 @@
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
 - [ ] **Crescent City Series** [📓](https://www.goodreads.com/series/233335-crescent-city)
-   - *House of Earth and Blood*
-   - *House of Sky and Breath*
-   - *House of Flame and Shadow*
+   - *House of Earth and Blood* ✓
+   - *House of Sky and Breath* ✓
+   - *House of Flame and Shadow* ✓
 - [ ] **Gods & Monsters Series** [📓](https://www.goodreads.com/series/344354-gods-monsters)
-   - *The Book of Azrael*
-   - *The Throne of Broken Gods*
-   - *The Dawn of the Cursed Queen*
-   - *The Wrath of the Fallen*
+   - *The Book of Azrael* ✓
+   - *The Throne of Broken Gods* ✓
+   - *The Dawn of the Cursed Queen* ✓
+   - *The Wrath of the Fallen* ✓
 - [ ] **House of Devils Series** [📓](https://www.goodreads.com/series/335398-house-of-devils)
-   - *City of Gods and Monsters*
-   - *City of Souls and Sinners*
-   - *City of Lies and Legends*
+   - *City of Gods and Monsters* ✓
+   - *City of Souls and Sinners* ✓
+   - *City of Lies and Legends* ✓
    - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
    - Unreleased Book 5
    - Unreleased Book 6
 - [ ] **The War of Lost Hearts Series** [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
-   - *Daughter of No Worlds*
-   - *Children of Fallen Gods*
-   - *Mother of Death & Dawn*
+   - *Daughter of No Worlds* ✓
+   - *Children of Fallen Gods* ✓
+   - *Mother of Death & Dawn* ✓
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
