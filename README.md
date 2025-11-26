@@ -195,6 +195,13 @@
       - *Counsellor* ✓
       - *Magnate* ✓
       - *Sovereign* ✓
+ - [ ] Fall Away Series [📓](https://www.goodreads.com/series/106249-fall-away)
+      - *Bully [Book 1]*
+      - *Until You [Book 1.5]*
+      - *Rival [Book 2]*
+      - *Falling Away [Book 3]*
+      - *Aflame [Book 4]*
+      - *Next to Never [Book 4.5]*
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -211,8 +218,8 @@
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
 - [x] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
-- [ ] Notice
-- [ ] Whispers and Roars
+- [ ] Notice [📓](https://www.goodreads.com/book/show/35336562-notice)
+- [ ] Whispers and Roars [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
 
 ---
 
@@ -294,5 +301,10 @@
    - *Daughter of No Worlds* ✓
    - *Children of Fallen Gods* ✓
    - *Mother of Death & Dawn* ✓
+- [ ] **Coven of Bones Series** [📓](https://www.goodreads.com/series/360602-coven-of-bones)
+   - *The Coven*
+   - *The Cursed*
+   - *The Damned*
+ 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
