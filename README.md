@@ -288,6 +288,9 @@
    - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
    - Unreleased Book 5
    - Unreleased Book 6
-
+- [ ] The War of Lost Hearts Series [📓](https://www.goodreads.com/series/279494-the-war-of-lost-hearts)
+   - *Daughter of No Worlds*
+   - *Children of Fallen Gods*
+   - *Mother of Death & Dawn*
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
