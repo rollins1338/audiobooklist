@@ -195,13 +195,28 @@
       - *Counsellor* ✓
       - *Magnate* ✓
       - *Sovereign* ✓
- - [ ] Fall Away Series [📓](https://www.goodreads.com/series/106249-fall-away)
-      - *Bully [Book 1]*
-      - *Until You [Book 1.5]*
-      - *Rival [Book 2]*
-      - *Falling Away [Book 3]*
-      - *Aflame [Book 4]*
-      - *Next to Never [Book 4.5]*
+ - [ ] **Fall Away Series** [📓](https://www.goodreads.com/series/106249-fall-away)
+      - *Bully [Book 1]* ✓
+      - *Until You [Book 1.5]* ✓
+      - *Rival [Book 2]* ✓
+      - *Falling Away [Book 3]* ✓
+      - *Aflame [Book 4]* ✓
+      - *Next to Never [Book 4.5]* ✓
+ - [ ] **Broken Love Series** [📓](https://www.goodreads.com/series/145743-broken-love)
+      - *Fear Me*
+      - *Fear You*
+      - *Fear Us*
+      - *Breaking Love*
+      - *Fearless*
+ - [ ] **Throne Due** [📓](https://www.goodreads.com/series/303595-throne-duet)
+      - *Throne of Power*
+      - *Throne of Vengeance*
+ - [ ] **The Wild Duet** [📓](https://www.goodreads.com/series/280230-the-wild)
+      - *The Wild*
+      - *The Free*
+        * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
+     
+
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
