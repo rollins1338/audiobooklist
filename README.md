@@ -234,7 +234,7 @@
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
 - [x] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
 - [x] Notice [📓](https://www.goodreads.com/book/show/35336562-notice)
-- [ ] Whispers and Roars [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
+- [x] Whispers and Roars [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
 
 ---
 
