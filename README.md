@@ -203,17 +203,17 @@
       - *Aflame [Book 4]* ✓
       - *Next to Never [Book 4.5]* ✓
  - [ ] **Broken Love Series** [📓](https://www.goodreads.com/series/145743-broken-love)
-      - *Fear Me*
-      - *Fear You*
-      - *Fear Us*
-      - *Breaking Love*
-      - *Fearless*
+      - *Fear Me* ✓
+      - *Fear You* ✓
+      - *Fear Us* ✓
+      - *Breaking Love* ✓
+      - *Fearless* ✓
  - [ ] **Throne Due** [📓](https://www.goodreads.com/series/303595-throne-duet)
-      - *Throne of Power*
-      - *Throne of Vengeance*
+      - *Throne of Power* ✓
+      - *Throne of Vengeance* ✓
  - [ ] **The Wild Duet** [📓](https://www.goodreads.com/series/280230-the-wild)
-      - *The Wild*
-      - *The Free*
+      - *The Wild* ✓
+      - *The Free* ✓
         * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
 
 ---
@@ -231,9 +231,9 @@
 - [x] **Fairydale ✓** [📓](https://www.goodreads.com/book/show/58411935-fairydale)
 - [x] Captive ✓ [📓](https://www.goodreads.com/book/show/51184894-captive)
 - [x] Stepbrother Dearest ✓ [📓](https://www.goodreads.com/book/show/22843341-stepbrother-dearest)
-- [x] Dark Notes [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
-- [x] Notice [📓](https://www.goodreads.com/book/show/35336562-notice)
-- [x] Whispers and Roars [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
+- [x] Dark Notes ✓ [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
+- [x] Notice ✓ [📓](https://www.goodreads.com/book/show/35336562-notice)
+- [x] Whispers and Roars ✓ [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
 
 ---
 
