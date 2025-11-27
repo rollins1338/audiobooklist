@@ -215,7 +215,6 @@
       - *The Wild*
       - *The Free*
         * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
-     
 
 ---
 # Standalones
@@ -317,9 +316,9 @@
    - *Children of Fallen Gods* ✓
    - *Mother of Death & Dawn* ✓
 - [ ] **Coven of Bones Series** [📓](https://www.goodreads.com/series/360602-coven-of-bones)
-   - *The Coven*
-   - *The Cursed*
-   - *The Damned*
+   - *The Coven* ✓
+   - *The Cursed* ✓
+   - *The Damned* ✓
  
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
