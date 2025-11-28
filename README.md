@@ -234,6 +234,8 @@
 - [x] Dark Notes ✓ [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
 - [x] Notice ✓ [📓](https://www.goodreads.com/book/show/35336562-notice)
 - [x] Whispers and Roars ✓ [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
+- [ ] What Was Meant to Be [📓](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be)
+- [ ] Tell me Pretty Lies [📓](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies)
 
 ---
 
