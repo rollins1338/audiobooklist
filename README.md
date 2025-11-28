@@ -215,28 +215,28 @@
       - *The Wild* ✓
       - *The Free* ✓
         * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
- - [ ] Pucking Wrong Series [](https://www.goodreads.com/series/371071-pucking-wrong)
-      - *The Pucking Wrong Number [Book 1]*
-      - *The Pucking Wrong Date [Book 3]*
-      - *The Pucking Wrong Rookie [Book 5]*
- - [ ] **Molotov Obsession Duet** [📓](https://www.goodreads.com/series/305581-molotov-obsession)
-      - *Devil’s Lair*
-      - *Angel's Cage*
- - [ ] **Tormentor Mine Series**[📓](https://www.goodreads.com/series/202919-tormentor-mine)
-      - *Tormentor Mine*
-      - *Obsession Mine*
+ - [x] Pucking Wrong Series [](https://www.goodreads.com/series/371071-pucking-wrong)
+      - *The Pucking Wrong Number [Book 1]* ✓
+      - *The Pucking Wrong Date [Book 3]* ✓
+      - *The Pucking Wrong Rookie [Book 5]* ✓
+ - [x] **Molotov Obsession Duet** [📓](https://www.goodreads.com/series/305581-molotov-obsession)
+      - *Devil’s Lair* ✓
+      - *Angel's Cage* ✓
+ - [x] **Tormentor Mine Series**[📓](https://www.goodreads.com/series/202919-tormentor-mine)
+      - *Tormentor Mine* ✓
+      - *Obsession Mine* ✓
       - *Destiny Mine* x
-      - *Forever Mine*
- - [ ] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me)
-      - *Capture Me*
-      - *Bind Me*
-      - *Claim Me*
- - [ ] **Sins of the Fathers Series**[📓](https://www.goodreads.com/series/314700-sins-of-the-fathers)
-      - *By Sin I Rise: Part One*
-      - *By Sin I Rise: Part Two*
-      - *By Virtue I Fall*
-      - *By Fate I Conquer*
-      - *By Frenzy I Ruin*
+      - *Forever Mine* ✓
+ - [x] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me)
+      - *Capture Me* ✓
+      - *Bind Me* ✓
+      - *Claim Me* ✓
+ - [x] **Sins of the Fathers Series**[📓](https://www.goodreads.com/series/314700-sins-of-the-fathers)
+      - *By Sin I Rise: Part One* ✓
+      - *By Sin I Rise: Part Two* ✓
+      - *By Virtue I Fall* ✓
+      - *By Fate I Conquer* ✓
+      - *By Frenzy I Ruin* ✓
 
 ---
 # Standalones
@@ -344,19 +344,19 @@
    - *The Coven* ✓
    - *The Cursed* ✓
    - *The Damned* ✓
-- [ ] **Souls Trilogy** [📓](https://www.goodreads.com/series/315325-souls-trilogy)
-   - *Her Soul to Take*
-   - *Her Soul for Revenge*
-   - *Soul of a Witch*
+- [x] **Souls Trilogy** [📓](https://www.goodreads.com/series/315325-souls-trilogy)
+   - *Her Soul to Take* ✓
+   - *Her Soul for Revenge* ✓
+   - *Soul of a Witch* ✓
 - [ ] **Adrian x Isolde Series** [📓](https://www.goodreads.com/series/308761-adrian-x-isolde)
-   - *King of Battle and Blood*
-   - *Queen of Myth and Monsters*
+   - *King of Battle and Blood* ✓
+   - *Queen of Myth and Monsters* ✓
    - *Kingdom of Spirit and Shadow [Expected Jan '26]*
-- [ ] **Of Flesh & Bone Series** [📓](https://www.goodreads.com/series/329019-of-flesh-bone)
-   - *What Lies Beyond the Veil*
-   - *What Hunts Inside the Shadows*
-   - *What Lurks Between the Fates*
-   - *What Sleeps Within the Cove*
+- [x] **Of Flesh & Bone Series** [📓](https://www.goodreads.com/series/329019-of-flesh-bone)
+   - *What Lies Beyond the Veil* ✓
+   - *What Hunts Inside the Shadows* ✓
+   - *What Lurks Between the Fates* ✓
+   - *What Sleeps Within the Cove* ✓
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
