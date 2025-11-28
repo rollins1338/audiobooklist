@@ -215,12 +215,34 @@
       - *The Wild* ✓
       - *The Free* ✓
         * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
+ - [ ] Pucking Wrong Series [](https://www.goodreads.com/series/371071-pucking-wrong)
+      - *The Pucking Wrong Number [Book 1]*
+      - *The Pucking Wrong Date [Book 3]*
+      - *The Pucking Wrong Rookie [Book 5]*
+ - [ ] **Molotov Obsession Duet** [📓](https://www.goodreads.com/series/305581-molotov-obsession)
+      - *Devil’s Lair*
+      - *Angel's Cage*
+ - [ ] **Tormentor Mine Series**[📓](https://www.goodreads.com/series/202919-tormentor-mine)
+      - *Tormentor Mine*
+      - *Obsession Mine*
+      - *Destiny Mine* x
+      - *Forever Mine*
+ - [ ] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me)
+      - *Capture Me*
+      - *Bind Me*
+      - *Claim Me*
+ - [ ] **Sins of the Fathers Series**[📓](https://www.goodreads.com/series/314700-sins-of-the-fathers)
+      - *By Sin I Rise: Part One*
+      - *By Sin I Rise: Part Two*
+      - *By Virtue I Fall*
+      - *By Fate I Conquer*
+      - *By Frenzy I Ruin*
 
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
 - [x] **Noticadia ✓**  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
-- [x] **Lights out ✓** [FL ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=2598&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=39&tor%5Bcat%5D%5B%5D=49&tor%5Bcat%5D%5B%5D=50&tor%5Bcat%5D%5B%5D=83&tor%5Bcat%5D%5B%5D=51&tor%5Bcat%5D%5B%5D=97&tor%5Bcat%5D%5B%5D=40&tor%5Bcat%5D%5B%5D=41&tor%5Bcat%5D%5B%5D=106&tor%5Bcat%5D%5B%5D=42&tor%5Bcat%5D%5B%5D=52&tor%5Bcat%5D%5B%5D=98&tor%5Bcat%5D%5B%5D=54&tor%5Bcat%5D%5B%5D=55&tor%5Bcat%5D%5B%5D=43&tor%5Bcat%5D%5B%5D=99&tor%5Bcat%5D%5B%5D=84&tor%5Bcat%5D%5B%5D=44&tor%5Bcat%5D%5B%5D=56&tor%5Bcat%5D%5B%5D=45&tor%5Bcat%5D%5B%5D=57&tor%5Bcat%5D%5B%5D=85&tor%5Bcat%5D%5B%5D=87&tor%5Bcat%5D%5B%5D=119&tor%5Bcat%5D%5B%5D=88&tor%5Bcat%5D%5B%5D=58&tor%5Bcat%5D%5B%5D=59&tor%5Bcat%5D%5B%5D=46&tor%5Bcat%5D%5B%5D=47&tor%5Bcat%5D%5B%5D=53&tor%5Bcat%5D%5B%5D=89&tor%5Bcat%5D%5B%5D=100&tor%5Bcat%5D%5B%5D=108&tor%5Bcat%5D%5B%5D=48&tor%5Bcat%5D%5B%5D=111&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0) [ML ALL](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BnarratorID%5D=15774&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)  [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
+- [x] **Lights out ✓** [FL ALL](https://05od2.mrd.ninja/2NLw) [ML ALL](https://05od2.mrd.ninja/DbP9)  [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
 - [x] **Sicko** ✓ [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
 - [x] **Wicked ✓** [📓](https://www.goodreads.com/book/show/62057629-wicked?ref=nav_sb_ss_3_10)
 - [x] **Gloves Off ✓** [📓](https://www.goodreads.com/book/show/220637398-gloves-off?ref=nav_sb_ss_1_10)
@@ -322,6 +344,19 @@
    - *The Coven* ✓
    - *The Cursed* ✓
    - *The Damned* ✓
- 
+- [ ] **Souls Trilogy** [📓](https://www.goodreads.com/series/315325-souls-trilogy)
+   - *Her Soul to Take*
+   - *Her Soul for Revenge*
+   - *Soul of a Witch*
+- [ ] **Adrian x Isolde Series** [📓](https://www.goodreads.com/series/308761-adrian-x-isolde)
+   - *King of Battle and Blood*
+   - *Queen of Myth and Monsters*
+   - *Kingdom of Spirit and Shadow [Expected Jan '26]*
+- [ ] **Of Flesh & Bone Series** [📓](https://www.goodreads.com/series/329019-of-flesh-bone)
+   - *What Lies Beyond the Veil*
+   - *What Hunts Inside the Shadows*
+   - *What Lurks Between the Fates*
+   - *What Sleeps Within the Cove*
+
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
