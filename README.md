@@ -236,6 +236,7 @@
 - [x] Whispers and Roars ✓ [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
 - [x] What Was Meant to Be [📓](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be)
 - [x] Tell me Pretty Lies [📓](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies)
+- [x] **Desire in His Blood** [📓](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
 
 ---
 
