@@ -248,8 +248,51 @@
       - *Silent Lies*
       - *Darkest Sins*
       - *Sweet Prison*
-      - *Precious Hazard [Expected Jan 06, 26]* 
-
+      - *Precious Hazard [Expected Jan 06, 26]*
+ - [ ] Twist Me Series [📓](https://www.goodreads.com/series/122460-twist-me)
+      - *Twist Me*
+      - *Keep Me*
+      - *Hold Me*
+ - [ ] Sinners Series [📓](https://www.goodreads.com/series/327040-sinners)
+      - *There Are No Saints*
+      - *There Is No Devil*
+ - [ ] **Buttons Series** [📓](https://www.goodreads.com/series/199888-buttons)
+      - *Buttons & Lace*
+      - *Buttons & Hate*
+      - *Buttons & Pain*
+      - *Buttons & Shame*
+      - *Buttons & Blame*
+      - *Buttons & Grace*
+ - [ ] **Brutal Birthright Series** [📓](https://www.goodreads.com/series/295948-brutal-birthright)
+      - *Brutal Prince*
+      - *Stolen Heir*
+      - *Savage Lover*
+      - *Bloody Heart*
+      - *Broken Vow*
+      - *Heavy Crown*
+ - [ ] **Criminals & Captives Series** [📓](https://www.goodreads.com/series/131887-criminals-captives)
+      - *Prisoner*
+      - *Hostage*
+ - [ ] **Diamond Magnate Series** [📓](https://www.goodreads.com/series/297140-diamond-magnate)
+     - *Beauty in the Broken [Book 0}* 
+  
+       > **Diamonds are Forever Trilogy** 
+         - *Diamonds in the Dust*
+         - *Diamonds in the Rough* 
+         - *Diamonds are Forever*
+           
+       > **Beauty in the Stolen Trilogy**
+         - *Stolen Lust*
+         - *Stolen Life*
+         - *Stolen Love*
+           
+       > **Beauty in Imperfection Duet**
+         - *Imperfect Intentions*
+         - *Imperfect Affections*
+ - [ ] **The Loan Shark Duet** [📓](https://www.goodreads.com/series/209998-the-loan-shark-duet)
+      - *Dubious*
+      - *Consent*
+  
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -278,7 +321,9 @@
 - [ ] Coerce [📓](https://www.goodreads.com/book/show/58362816-coerce)
 - [ ] Eyes on Me [📓](https://www.goodreads.com/book/show/60797616-eyes-on-me)
 - [ ] Burn for Me [📓](https://www.goodreads.com/book/show/217469514-burn-for-me)
-- [ ] The Bad Guy [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy) 
+- [ ] The Bad Guy [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy)
+- [ ] Does It Hurt? [📓](https://www.goodreads.com/book/show/61795526-does-it-hurt)
+- [ ] Forget Your Morals [📓](https://www.goodreads.com/book/show/167490050-forget-your-morals)
 
 ---
 
