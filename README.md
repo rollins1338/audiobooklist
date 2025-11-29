@@ -293,10 +293,33 @@
       - *Dubious* ✓
       - *Consent* ✓
  - [ ] **Tales of Obsession Series** [📓](https://www.goodreads.com/series/383283-tales-of-obsession)
-      - *5000 Nights of Obsession*
+      - *5000 Nights of Obsession* ✓
       - *Fatal Obsession* **[No Audiobook Yet**
       - *Unapologetic Obsession* **[No Audiobook Yet**
-  
+ - [ ] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage)
+      - *Collateral* ✓
+      - *Damage* ✓
+ - [ ] **Bellandi Crime Syndicate Series** [📓](https://www.goodreads.com/series/281416-bellandi-crime-syndicate)
+      - *Bloodied Hands* x
+      - *Forgivable Sins* x
+      - *Grieved Loss* ✓
+      - *Shielded Wrongs* ✓
+      - *Scarred Regrets* ✓
+ - [ ] **Ruthless Obsession Series** [📓](https://www.goodreads.com/series/315804-ruthless-obsession)
+      - *Sweet Cruelty*
+      - *Sweet Depravity*
+      - *Sweet Savagery*
+      - *Sweet Brutality*
+      - *Sweet Ferocity*
+      - *Sweet Intensity*
+      - *Sweet Severity*
+      - *Sweet Animosity*
+  - [ ] **Boston Underworld Series** [📓](https://www.goodreads.com/series/172678-boston-underworld)
+      - *Crow [Book 1]*
+      - *Reaper [Book 2]*
+      - *Ghost [Book 3]*
+      - *Thief [Book 5]*       
+
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -328,6 +351,8 @@
 - [x] The Bad Guy ✓ [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy)
 - [x] Does It Hurt? ✓ [📓](https://www.goodreads.com/book/show/61795526-does-it-hurt)
 - [x] Forget Your Morals ✓ [📓](https://www.goodreads.com/book/show/167490050-forget-your-morals)
+- [ ] Fear Me, Love Me [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4)
+- [ ] Desperate Measures [📓](https://www.goodreads.com/book/show/206299177-desperate-measures)
 
 ---
 
