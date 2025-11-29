@@ -56,7 +56,7 @@
      - *Tears of Tess* ✓
      - *Quintessentially Q* ✓ 
      - *Twisted Together* [Missing]
-- [x] **Made Seriesv [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
+- [x] **Made Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/229732-made&ved=2ahUKEwi1r5TN3IGRAxUnxDgGHUf8PPQQFnoECCwQAQ&usg=AOvVaw2_7ZWjrneqQIcVrRWcTq7e)
      - *The Sweetest Oblivion* ✓
      - *The Maddest Obsession* ✓
      - *The Darkest Temptation* ✓
