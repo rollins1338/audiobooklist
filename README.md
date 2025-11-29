@@ -48,7 +48,7 @@
 - [x] **Spit or Swallow** [📓](https://www.goodreads.com/series/413642-split-or-swallow)
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
-- [ ] **Monster Triology** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/356288-monster-trilogy&ved=2ahUKEwjP-tjx24GRAxWb4zgGHWR6CRQQFnoECCYQAQ&usg=AOvVaw0pmkLSLBzOAF9-rHu40yFd)
+- [x] **Monster Triology** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/356288-monster-trilogy&ved=2ahUKEwjP-tjx24GRAxWb4zgGHWR6CRQQFnoECCYQAQ&usg=AOvVaw0pmkLSLBzOAF9-rHu40yFd)
      - *Blood of My Monster* ✓
      - *Lies of My Monster* ✓
      - *Heart of My Monster* ✓
@@ -237,61 +237,61 @@
       - *By Virtue I Fall* ✓
       - *By Fate I Conquer* ✓
       - *By Frenzy I Ruin* ✓
- - [ ] **Perfectly Imperfect Series** [📓](https://www.goodreads.com/series/343844-perfectly-imperfect)
-      - *Painted Scars*
-      - *Broken Whispers*
-      - *Hidden Truths*
-      - *Ruined Secrets*
-      - *Stolen Touches*
-      - *Fractured Souls*
-      - *Burned Dreams*
-      - *Silent Lies*
-      - *Darkest Sins*
-      - *Sweet Prison*
+ - [x] **Perfectly Imperfect Series** [📓](https://www.goodreads.com/series/343844-perfectly-imperfect)
+      - *Painted Scars* ✓
+      - *Broken Whispers* ✓
+      - *Hidden Truths* ✓
+      - *Ruined Secrets* ✓
+      - *Stolen Touches* ✓
+      - *Fractured Souls* ✓
+      - *Burned Dreams* ✓
+      - *Silent Lies* ✓
+      - *Darkest Sins* ✓
+      - *Sweet Prison* ✓
       - *Precious Hazard [Expected Jan 06, 26]*
- - [ ] Twist Me Series [📓](https://www.goodreads.com/series/122460-twist-me)
-      - *Twist Me*
-      - *Keep Me*
-      - *Hold Me*
- - [ ] Sinners Series [📓](https://www.goodreads.com/series/327040-sinners)
-      - *There Are No Saints*
-      - *There Is No Devil*
- - [ ] **Buttons Series** [📓](https://www.goodreads.com/series/199888-buttons)
-      - *Buttons & Lace*
-      - *Buttons & Hate*
-      - *Buttons & Pain*
-      - *Buttons & Shame*
-      - *Buttons & Blame*
-      - *Buttons & Grace*
- - [ ] **Brutal Birthright Series** [📓](https://www.goodreads.com/series/295948-brutal-birthright)
-      - *Brutal Prince*
-      - *Stolen Heir*
-      - *Savage Lover*
-      - *Bloody Heart*
-      - *Broken Vow*
-      - *Heavy Crown*
- - [ ] **Criminals & Captives Series** [📓](https://www.goodreads.com/series/131887-criminals-captives)
-      - *Prisoner*
-      - *Hostage*
- - [ ] **Diamond Magnate Series** [📓](https://www.goodreads.com/series/297140-diamond-magnate)
-     - *Beauty in the Broken [Book 0]* 
+ - [x] Twist Me Series [📓](https://www.goodreads.com/series/122460-twist-me)
+      - *Twist Me* ✓
+      - *Keep Me* ✓
+      - *Hold Me* ✓
+ - [x] Sinners Series [📓](https://www.goodreads.com/series/327040-sinners)
+      - *There Are No Saints* ✓
+      - *There Is No Devil* ✓
+ - [x] **Buttons Series** [📓](https://www.goodreads.com/series/199888-buttons)
+      - *Buttons & Lace* ✓
+      - *Buttons & Hate* ✓
+      - *Buttons & Pain* ✓
+      - *Buttons & Shame* ✓
+      - *Buttons & Blame* ✓
+      - *Buttons & Grace* ✓
+ - [x] **Brutal Birthright Series** [📓](https://www.goodreads.com/series/295948-brutal-birthright)
+      - *Brutal Prince* ✓
+      - *Stolen Heir* ✓
+      - *Savage Lover* ✓
+      - *Bloody Heart* ✓
+      - *Broken Vow* ✓
+      - *Heavy Crown* ✓
+ - [x] **Criminals & Captives Series** [📓](https://www.goodreads.com/series/131887-criminals-captives)
+      - *Prisoner* ✓
+      - *Hostage* ✓
+ - [x] **Diamond Magnate Series** [📓](https://www.goodreads.com/series/297140-diamond-magnate)
+     - *Beauty in the Broken [Book 0]* ✓
   
        > **Diamonds are Forever Trilogy** 
-         - *Diamonds in the Dust*
-         - *Diamonds in the Rough* 
-         - *Diamonds are Forever*
+         - *Diamonds in the Dust* ✓
+         - *Diamonds in the Rough* ✓
+         - *Diamonds are Forever* ✓
            
        > **Beauty in the Stolen Trilogy**
-         - *Stolen Lust*
-         - *Stolen Life*
-         - *Stolen Love*
+         - *Stolen Lust* ✓
+         - *Stolen Life* ✓
+         - *Stolen Love* ✓
            
        > **Beauty in Imperfection Duet**
-         - *Imperfect Intentions*
-         - *Imperfect Affections*
- - [ ] **The Loan Shark Duet** [📓](https://www.goodreads.com/series/209998-the-loan-shark-duet)
-      - *Dubious*
-      - *Consent*
+         - *Imperfect Intentions* ✓
+         - *Imperfect Affections* ✓
+ - [x] **The Loan Shark Duet** [📓](https://www.goodreads.com/series/209998-the-loan-shark-duet)
+      - *Dubious* ✓
+      - *Consent* ✓
   
 ---
 # Standalones
@@ -311,19 +311,19 @@
 - [x] Dark Notes ✓ [📓](https://www.goodreads.com/book/show/28435457-dark-notes)
 - [x] Notice ✓ [📓](https://www.goodreads.com/book/show/35336562-notice)
 - [x] Whispers and Roars ✓ [📓](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1)
-- [x] What Was Meant to Be [📓](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be)
-- [x] Tell me Pretty Lies [📓](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies)
-- [x] **Desire in His Blood** [📓](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
-- [ ] Viciously Yours [📓](https://goodreads.com/book/show/202082942-viciously-yours)
-- [ ] Kingdom of Villains [📓](https://www.goodreads.com/book/show/54164103-kingdom-of-villains)
-- [ ] The Danger You Know [📓](https://www.goodreads.com/book/show/51180445-the-danger-you-know)
-- [ ] Run Posy Run [📓](https://www.goodreads.com/book/show/57488034-run-posy-run)
-- [ ] Coerce [📓](https://www.goodreads.com/book/show/58362816-coerce)
-- [ ] Eyes on Me [📓](https://www.goodreads.com/book/show/60797616-eyes-on-me)
-- [ ] Burn for Me [📓](https://www.goodreads.com/book/show/217469514-burn-for-me)
-- [ ] The Bad Guy [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy)
-- [ ] Does It Hurt? [📓](https://www.goodreads.com/book/show/61795526-does-it-hurt)
-- [ ] Forget Your Morals [📓](https://www.goodreads.com/book/show/167490050-forget-your-morals)
+- [x] What Was Meant to Be ✓ [📓](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be)
+- [x] Tell me Pretty Lies ✓ [📓](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies)
+- [x] **Desire in His Blood** ✓ [📓](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
+- [x] Viciously Yours ✓ [📓](https://goodreads.com/book/show/202082942-viciously-yours)
+- [x] Kingdom of Villains ✓ [📓](https://www.goodreads.com/book/show/54164103-kingdom-of-villains)
+- [x] The Danger You Know ✓ [📓](https://www.goodreads.com/book/show/51180445-the-danger-you-know)
+- [x] Run Posy Run ✓ [📓](https://www.goodreads.com/book/show/57488034-run-posy-run)
+- [x] Coerce ✓ [📓](https://www.goodreads.com/book/show/58362816-coerce)
+- [x] Eyes on Me ✓ [📓](https://www.goodreads.com/book/show/60797616-eyes-on-me)
+- [x] Burn for Me ✓ [📓](https://www.goodreads.com/book/show/217469514-burn-for-me)
+- [x] The Bad Guy ✓ [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy)
+- [x] Does It Hurt? ✓ [📓](https://www.goodreads.com/book/show/61795526-does-it-hurt)
+- [x] Forget Your Morals ✓ [📓](https://www.goodreads.com/book/show/167490050-forget-your-morals)
 
 ---
 
@@ -422,18 +422,18 @@
    - *What Hunts Inside the Shadows* ✓
    - *What Lurks Between the Fates* ✓
    - *What Sleeps Within the Cove* ✓
-- [ ] **Harrow Faire Series** [📓](https://www.goodreads.com/series/299614-harrow-faire)
-   - *The Contortionist*
-   - *The Puppeteer*
-   - *The Clown*
-   - *The Ringmaster*
-   - *The Faire*
-- [ ] **Deadly Divine Duet Series** [📓](https://www.goodreads.com/series/377527-deadly-divine-duet)
-   - *Nectar of the Wicked*
-   - *Wrath of the Damned*
-- [ ] The Dracula Duet [📓](https://www.goodreads.com/series/354776-the-dracula-duet)
-   - *Blood Orange*
-   - *Black Rose*
+- [x] **Harrow Faire Series** [📓](https://www.goodreads.com/series/299614-harrow-faire)
+   - *The Contortionist* ✓
+   - *The Puppeteer* ✓
+   - *The Clown* ✓
+   - *The Ringmaster* ✓
+   - *The Faire* ✓
+- [x] **Deadly Divine Duet Series** [📓](https://www.goodreads.com/series/377527-deadly-divine-duet)
+   - *Nectar of the Wicked* ✓
+   - *Wrath of the Damned* ✓
+- [x] The Dracula Duet [📓](https://www.goodreads.com/series/354776-the-dracula-duet)
+   - *Blood Orange* ✓
+   - *Black Rose* ✓
 
 
 
