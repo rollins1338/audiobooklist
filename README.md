@@ -292,6 +292,10 @@
  - [x] **The Loan Shark Duet** [📓](https://www.goodreads.com/series/209998-the-loan-shark-duet)
       - *Dubious* ✓
       - *Consent* ✓
+ - [ ] **Tales of Obsession Series** [📓](https://www.goodreads.com/series/383283-tales-of-obsession)
+      - *5000 Nights of Obsession*
+      - *Fatal Obsession* **[No Audiobook Yet**
+      - *Unapologetic Obsession* **[No Audiobook Yet**
   
 ---
 # Standalones
