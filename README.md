@@ -274,7 +274,7 @@
       - *Prisoner*
       - *Hostage*
  - [ ] **Diamond Magnate Series** [📓](https://www.goodreads.com/series/297140-diamond-magnate)
-     - *Beauty in the Broken [Book 0}* 
+     - *Beauty in the Broken [Book 0]* 
   
        > **Diamonds are Forever Trilogy** 
          - *Diamonds in the Dust*
