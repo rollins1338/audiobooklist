@@ -208,7 +208,7 @@
       - *Fear Us* ✓
       - *Breaking Love* ✓
       - *Fearless* ✓
- - [x] **Throne Due** [📓](https://www.goodreads.com/series/303595-throne-duet)
+ - [x] **Throne Duet** [📓](https://www.goodreads.com/series/303595-throne-duet)
       - *Throne of Power* ✓
       - *Throne of Vengeance* ✓
  - [x] **The Wild Duet** [📓](https://www.goodreads.com/series/280230-the-wild)
@@ -237,6 +237,18 @@
       - *By Virtue I Fall* ✓
       - *By Fate I Conquer* ✓
       - *By Frenzy I Ruin* ✓
+ - [ ] **Perfectly Imperfect Series** [📓](https://www.goodreads.com/series/343844-perfectly-imperfect)
+      - *Painted Scars*
+      - *Broken Whispers*
+      - *Hidden Truths*
+      - *Ruined Secrets*
+      - *Stolen Touches*
+      - *Fractured Souls*
+      - *Burned Dreams*
+      - *Silent Lies*
+      - *Darkest Sins*
+      - *Sweet Prison*
+      - *Precious Hazard [Expected Jan 06, 26]* 
 
 ---
 # Standalones
@@ -259,6 +271,14 @@
 - [x] What Was Meant to Be [📓](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be)
 - [x] Tell me Pretty Lies [📓](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies)
 - [x] **Desire in His Blood** [📓](https://www.goodreads.com/book/show/63130733-desire-in-his-blood)
+- [ ] Viciously Yours [📓](https://goodreads.com/book/show/202082942-viciously-yours)
+- [ ] Kingdom of Villains [📓](https://www.goodreads.com/book/show/54164103-kingdom-of-villains)
+- [ ] The Danger You Know [📓](https://www.goodreads.com/book/show/51180445-the-danger-you-know)
+- [ ] Run Posy Run [📓](https://www.goodreads.com/book/show/57488034-run-posy-run)
+- [ ] Coerce [📓](https://www.goodreads.com/book/show/58362816-coerce)
+- [ ] Eyes on Me [📓](https://www.goodreads.com/book/show/60797616-eyes-on-me)
+- [ ] Burn for Me [📓](https://www.goodreads.com/book/show/217469514-burn-for-me)
+- [ ] The Bad Guy [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy) 
 
 ---
 
@@ -357,6 +377,20 @@
    - *What Hunts Inside the Shadows* ✓
    - *What Lurks Between the Fates* ✓
    - *What Sleeps Within the Cove* ✓
+- [ ] **Harrow Faire Series** [📓](https://www.goodreads.com/series/299614-harrow-faire)
+   - *The Contortionist*
+   - *The Puppeteer*
+   - *The Clown*
+   - *The Ringmaster*
+   - *The Faire*
+- [ ] **Deadly Divine Duet Series** [📓](https://www.goodreads.com/series/377527-deadly-divine-duet)
+   - *Nectar of the Wicked*
+   - *Wrath of the Damned*
+- [ ] The Dracula Duet [📓](https://www.goodreads.com/series/354776-the-dracula-duet)
+   - *Blood Orange*
+   - *Black Rose*
+
+
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
