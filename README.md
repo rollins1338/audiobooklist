@@ -225,7 +225,7 @@
  - [x] **Tormentor Mine Series**[📓](https://www.goodreads.com/series/202919-tormentor-mine)
       - *Tormentor Mine* ✓
       - *Obsession Mine* ✓
-      - *Destiny Mine* x
+      - *Destiny Mine* ✓
       - *Forever Mine* ✓
  - [x] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me)
       - *Capture Me* ✓
@@ -351,8 +351,8 @@
 - [x] The Bad Guy ✓ [📓](https://www.goodreads.com/book/show/34464710-the-bad-guy)
 - [x] Does It Hurt? ✓ [📓](https://www.goodreads.com/book/show/61795526-does-it-hurt)
 - [x] Forget Your Morals ✓ [📓](https://www.goodreads.com/book/show/167490050-forget-your-morals)
-- [x] Fear Me, Love Me [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) ✓ 
-- [x] Desperate Measures [📓](https://www.goodreads.com/book/show/206299177-desperate-measures) ✓ 
+- [x] Fear Me, Love Me ✓ [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) ✓ 
+- [x] Desperate Measures ✓ [📓](https://www.goodreads.com/book/show/206299177-desperate-measures) ✓ 
 
 ---
 
