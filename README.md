@@ -344,16 +344,40 @@
       - *King* ✓
       - *Dom* ✓
       - *Hans* ✓
+---
+> **J.T Geissinger Irish Mafia Universe**
+ - [ ] **Beautifully Cruel Series** [📓](https://www.goodreads.com/series/294281-beautifully-cruel)
+      - *Beautifully Cruel*
+      - *Cruel Paradise*
+
  - [x] **Queens & Monsters Series** [📓](https://www.goodreads.com/series/311669-queens-monsters)
       - *Ruthless Creatures* ✓
       - *Carnal Urges* ✓
       - *Savage Hearts* ✓
       - *Brutal Vows* ✓
+
+ - [ ] **Morally Gray Series** [📓](https://www.goodreads.com/series/360942-morally-gray)
+      - *Liars Like Us*
+      - *Fall Into You*
+      - *Beg For Me*
+
+---
  - [x] **Hollow's Row Series** [📓](https://www.goodreads.com/series/319924-hollow-s-row)
       - *Lovely Bad Things* ✓
       - *Lovely Violent Things* ✓
       - *Lovely Wicked Things* ✓
-
+ - [ ] **Kingmakers Series [Brutal Birthright Universe]** [📓](https://www.goodreads.com/series/310823-kingmakers)
+      - *Year One*
+      - *Year Two*
+      - *Year Three*
+      - *Year Four*
+      - *Graduation*
+ - [ ] **Mindf*ck Series** [📓](https://www.goodreads.com/series/198785-mindf-ck)
+      - *The Risk*
+      - *Sidetracked*
+      - *Scarlet Angel*
+      - *All the Lies*
+      - *Paint It All Red*
 
 ---
 # Standalones
@@ -391,6 +415,8 @@
 - [x] Lust by Derethi Anis ✓ [📓](https://www.goodreads.com/book/show/60063261-lust)
 - [ ] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
 - [ ] Enigma by RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
+- [ ] Punk 57 [📓](https://www.goodreads.com/book/show/41021967-punk-57)
+- [ ] Icebreaker [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 
 ---
 
@@ -501,8 +527,18 @@
 - [x] The Dracula Duet [📓](https://www.goodreads.com/series/354776-the-dracula-duet)
    - *Blood Orange* ✓
    - *Black Rose* ✓
-
-
+ - [ ] **Bewitched Series** [📓](https://www.goodreads.com/series/346457-bewitched)
+      - *Bewitched*
+      - *Bespelled*
+      - *The Curse that Binds*
+      - **Bedeviled [Book Unreleased]** 
+ - [ ] **Prince of Sin Series** [📓](https://www.goodreads.com/series/386472-prince-of-sin)
+      - *Throne of the Fallen*
+      - *Throne of Secrets*
+      - *Throne of Nightmares*
+ - [ ] **Dark Eyes Series** [📓](https://www.goodreads.com/series/316476-dark-eyes)
+      - *Black Sunshine*
+      - *The Blood is Love*
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
