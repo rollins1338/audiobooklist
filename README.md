@@ -114,9 +114,13 @@
      - *Snaring Emberly* ✓
      - *Breaking Rosalind* ✓
      - *Stalking Ginevra* ✓
-- [x] **The Dark Verse Duet** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
-     - *The Predetor [Book 1]* ✓
-     - *The Reaper[Book 2]* ✓
+- [x] **Dark Verse Series by RuNyx** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
+     - *The Predetor* ✓
+     - *The Reaper* ✓
+     - *The Emperor*
+     - *The Finisher*
+     - *The Annihilator*
+     - *The Syndicater*
 - [x] **Hockey Gods** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
      - *Brutal Obsession [Book 1]* ✓ 
      - *Devious Obsession [Book 2]* ✓
@@ -385,6 +389,7 @@
 - [x] Fear Me, Love Me ✓ [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) 
 - [x] Desperate Measures ✓ [📓](https://www.goodreads.com/book/show/206299177-desperate-measures)
 - [x] Lust by Derethi Anis ✓ [📓](https://www.goodreads.com/book/show/60063261-lust)
+- [ ] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
 
 ---
 
