@@ -413,8 +413,8 @@
 - [x] Fear Me, Love Me ✓ [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) 
 - [x] Desperate Measures ✓ [📓](https://www.goodreads.com/book/show/206299177-desperate-measures)
 - [x] Lust by Derethi Anis ✓ [📓](https://www.goodreads.com/book/show/60063261-lust)
-- [ ] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
-- [ ] Enigma by RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
+- [x] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
+- [x] Enigma by RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
 - [ ] Punk 57 [📓](https://www.goodreads.com/book/show/41021967-punk-57)
 - [ ] Icebreaker [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 
