@@ -296,7 +296,7 @@
       - *5000 Nights of Obsession* ✓
       - *Fatal Obsession* **[No Audiobook Yet**
       - *Unapologetic Obsession* **[No Audiobook Yet**
- - [ ] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage)
+ - [x] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage)
       - *Collateral* ✓
       - *Damage* ✓
  - [ ] **Bellandi Crime Syndicate Series** [📓](https://www.goodreads.com/series/281416-bellandi-crime-syndicate)
@@ -314,18 +314,18 @@
       - *Sweet Intensity* ✓ 
       - *Sweet Severity* ✓ 
       - *Sweet Animosity* ✓ 
-  - [ ] **Boston Underworld Series** [📓](https://www.goodreads.com/series/172678-boston-underworld)
-      - *Crow [Book 1]*  
+  - [x] **Boston Underworld Series** [📓](https://www.goodreads.com/series/172678-boston-underworld)
+      - *Crow [Book 1]* ✓  
       - *Reaper [Book 2]* ✓ 
       - *Ghost [Book 3]* ✓ 
       - *Thief [Book 5]* ✓
- - [ ] **Sinners Series** [📓](https://www.goodreads.com/series/335012-sinners)
+ - [x] **Sinners Series** [📓](https://www.goodreads.com/series/335012-sinners)
       - *Taken by a Sinner* ✓
       - *Owned by a Sinner* ✓
       - *Stolen by a Sinner* ✓
       - *Chosen by a Sinner* ✓
       - *Captured by a Sinner* ✓
- - [ ] **Deliver Series** [📓](https://www.goodreads.com/series/124986-deliver)
+ - [x] **Deliver Series** [📓](https://www.goodreads.com/series/124986-deliver)
       - *Deliver* ✓
       - *Vanqish* ✓
       - *Disclaim* ✓
@@ -335,17 +335,17 @@
       - *Unshackle* ✓
       - *Dominate* ✓
       - *Complicate* ✓
- - [ ] **Alliance Series** [📓](https://www.goodreads.com/series/362029-alliance)
+ - [x] **Alliance Series** [📓](https://www.goodreads.com/series/362029-alliance)
       - *Nero* ✓
-      - *King*v
+      - *King* ✓
       - *Dom* ✓
       - *Hans* ✓
- - [ ] **Queens & Monsters Series** [📓](https://www.goodreads.com/series/311669-queens-monsters)
-      - *Ruthless Creatures*
+ - [x] **Queens & Monsters Series** [📓](https://www.goodreads.com/series/311669-queens-monsters)
+      - *Ruthless Creatures* ✓
       - *Carnal Urges* ✓
       - *Savage Hearts* ✓
       - *Brutal Vows* ✓
- - [ ] **Hollow's Row Series** [📓](https://www.goodreads.com/series/319924-hollow-s-row)
+ - [x] **Hollow's Row Series** [📓](https://www.goodreads.com/series/319924-hollow-s-row)
       - *Lovely Bad Things* ✓
       - *Lovely Violent Things* ✓
       - *Lovely Wicked Things* ✓
