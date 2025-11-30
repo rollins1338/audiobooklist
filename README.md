@@ -318,7 +318,38 @@
       - *Crow [Book 1]*  
       - *Reaper [Book 2]* ✓ 
       - *Ghost [Book 3]* ✓ 
-      - *Thief [Book 5]* ✓      
+      - *Thief [Book 5]* ✓
+ - [ ] **Sinners Series** [📓](https://www.goodreads.com/series/335012-sinners)
+      - *Taken by a Sinner* ✓
+      - *Owned by a Sinner* ✓
+      - *Stolen by a Sinner* ✓
+      - *Chosen by a Sinner* ✓
+      - *Captured by a Sinner* ✓
+ - [ ] **Deliver Series** [📓](https://www.goodreads.com/series/124986-deliver)
+      - *Deliver* ✓
+      - *Vanqish* ✓
+      - *Disclaim* ✓
+      - *Devastate* ✓
+      - *Take* ✓
+      - *Manipulate* ✓
+      - *Unshackle* ✓
+      - *Dominate* ✓
+      - *Complicate* ✓
+ - [ ] **Alliance Series** [📓](https://www.goodreads.com/series/362029-alliance)
+      - *Nero* ✓
+      - *King*v
+      - *Dom* ✓
+      - *Hans* ✓
+ - [ ] **Queens & Monsters Series** [📓](https://www.goodreads.com/series/311669-queens-monsters)
+      - *Ruthless Creatures*
+      - *Carnal Urges* ✓
+      - *Savage Hearts* ✓
+      - *Brutal Vows* ✓
+ - [ ] **Hollow's Row Series** [📓](https://www.goodreads.com/series/319924-hollow-s-row)
+      - *Lovely Bad Things* ✓
+      - *Lovely Violent Things* ✓
+      - *Lovely Wicked Things* ✓
+
 
 ---
 # Standalones
