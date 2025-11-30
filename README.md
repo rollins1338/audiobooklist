@@ -390,6 +390,7 @@
 - [x] Desperate Measures ✓ [📓](https://www.goodreads.com/book/show/206299177-desperate-measures)
 - [x] Lust by Derethi Anis ✓ [📓](https://www.goodreads.com/book/show/60063261-lust)
 - [ ] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
+- [ ] Enigma ny RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
 
 ---
 
