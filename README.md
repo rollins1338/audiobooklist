@@ -382,22 +382,22 @@
       - *Little Dove* ✓
       - *Little Sunshine* ✓
  - [ ] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690)
-      - *24690*
-      - *White Out*
-      - *Welcome to Whitlock*
-      - *Black Out*
+      - *24690* ✓
+      - *White Out* ✓
+      - *Welcome to Whitlock* ✓
+      - *Black Out* ✓
  - [ ] **White Nights Series** [📓](https://www.goodreads.com/series/318492-white-nights)
-      - *White Nights*
-      - *Midnight Days*
+      - *White Nights* ✓
+      - *Midnight Days* ✓
  - [ ] **Scarlet Scars Series** [📓](https://www.goodreads.com/series/196106-scarlet-scars)
-      - *Menace*
-      - *Grievous*
+      - *Menace* ✓
+      - *Grievous* ✓
  - [ ] **Hades Hangmen Series** [📓](https://www.goodreads.com/series/128581-hades-hangmen)
-      - *It Ain't Me, Babe*
-      - *Heart Recaptured*
-      - *Souls Unfractured*
-      - *Deep Redemption*
-      - *Damnable Grace*
+      - *It Ain't Me, Babe* ✓
+      - *Heart Recaptured* ✓
+      - *Souls Unfractured* ✓
+      - *Deep Redemption* ✓
+      - *Damnable Grace* ✓
 
 ---
 
@@ -439,12 +439,12 @@
 - [x] Punk 57 ✓ [📓](https://www.goodreads.com/book/show/41021967-punk-57)
 - [x] Icebreaker ✓ [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 - [x] Skin of a Sinner ✓ [📓](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
-- [ ] Sweet Temptation [📓](
-- [ ] Cruel Intentions [📓](https://www.goodreads.com/book/show/221233161-cruel-intentions)
-- [ ] Shallow River [📓](https://www.goodreads.com/book/show/56354926-shallow-river)
-- [ ] Mercy [📓](https://www.goodreads.com/book/show/35712570-mercy)
-- [ ] Medicine Man [📓](https://www.goodreads.com/book/show/39095082-medicine-man)
-- [ ] Bass-Ackwards [📓](https://www.goodreads.com/book/show/44905051-bass-ackwards)
+- [ ] Sweet Temptation ✓ [📓](
+- [x] Cruel Intentions ✓ [📓](https://www.goodreads.com/book/show/221233161-cruel-intentions)
+- [x] Shallow River ✓ [📓](https://www.goodreads.com/book/show/56354926-shallow-river)
+- [x] Mercy ✓ [📓](https://www.goodreads.com/book/show/35712570-mercy)
+- [x] Medicine Man ✓ [📓](https://www.goodreads.com/book/show/39095082-medicine-man)
+- [x] Bass-Ackwards ✓ [📓](https://www.goodreads.com/book/show/44905051-bass-ackwards)
 ---
 
 # Trying out Fantasy Romance 
