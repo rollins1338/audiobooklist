@@ -346,7 +346,7 @@
       - *Hans* ✓
 ---
 > **J.T Geissinger Irish Mafia Universe**
- - [ ] **Beautifully Cruel Series** [📓](https://www.goodreads.com/series/294281-beautifully-cruel)
+ - [x] **Beautifully Cruel Series** [📓](https://www.goodreads.com/series/294281-beautifully-cruel)
       - *Beautifully Cruel* ✓
       - *Cruel Paradise* ✓
 
@@ -356,7 +356,7 @@
       - *Savage Hearts* ✓
       - *Brutal Vows* ✓
 
- - [ ] **Morally Gray Series** [📓](https://www.goodreads.com/series/360942-morally-gray)
+ - [x] **Morally Gray Series** [📓](https://www.goodreads.com/series/360942-morally-gray)
       - *Liars Like Us* ✓
       - *Fall Into You* ✓
       - *Beg For Me* ✓
