@@ -378,6 +378,9 @@
       - *Scarlet Angel*
       - *All the Lies*
       - *Paint It All Red*
+ - [ ] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
+      - *Little Dove*
+      - *Little Sunshine* [x](https://www.myanonamouse.net/t/1127078)
 
 ---
 # Standalones
@@ -417,7 +420,7 @@
 - [x] Enigma by RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
 - [ ] Punk 57 [📓](https://www.goodreads.com/book/show/41021967-punk-57)
 - [ ] Icebreaker [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
-
+- [ ] Skin of a Sinner [📓](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
 ---
 
 # Trying out Fantasy Romance 
@@ -539,6 +542,27 @@
  - [ ] **Dark Eyes Series** [📓](https://www.goodreads.com/series/316476-dark-eyes)
       - *Black Sunshine*
       - *The Blood is Love*
+ - [ ] **The Ever Seas Series** [📓](https://www.goodreads.com/series/376497-the-ever-seas)
+      - *The Ever King*
+      - *The Ever Queen*
+      - *The Mist Thief*
+      - **The Stolen Crown [Unrelased, Exp. FALL 2026]**
+ - [ ] **Kingdom of Lies Series** [📓](https://www.goodreads.com/series/364102-kingdom-of-lies)
+      - *A Court This Cruel & Lovely*
+      - *A Kingdom This Cursed and Empty*
+      - *A Crown This Cold and Heavy*
+      - *A Queen This Fierce and Deadly*
+ - [ ] **Fated Fae Series** [📓](https://www.goodreads.com/series/375632-fated-fae)
+      - *The Savage and the Swan*
+      - *The Wolf & the Wildflower* [x](https://www.myanonamouse.net/t/859683)
+ - [ ] **Legacy of the Nine Realms Series** [📓](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms)
+      - *Flames of Chaos*
+      - *Ashes of Chaos*
+      - *Ruins of Chaos*
+      - *Crown of Chaos*
+      - *Queen of Chaos*
+      - **King of Chaos [Audiobook Unreleased]**
+      - **Reign of Chaos [Audiobook Unreleased]**
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
