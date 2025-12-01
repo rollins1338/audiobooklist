@@ -347,8 +347,8 @@
 ---
 > **J.T Geissinger Irish Mafia Universe**
  - [ ] **Beautifully Cruel Series** [📓](https://www.goodreads.com/series/294281-beautifully-cruel)
-      - *Beautifully Cruel*
-      - *Cruel Paradise*
+      - *Beautifully Cruel* ✓
+      - *Cruel Paradise* ✓
 
  - [x] **Queens & Monsters Series** [📓](https://www.goodreads.com/series/311669-queens-monsters)
       - *Ruthless Creatures* ✓
@@ -357,27 +357,27 @@
       - *Brutal Vows* ✓
 
  - [ ] **Morally Gray Series** [📓](https://www.goodreads.com/series/360942-morally-gray)
-      - *Liars Like Us*
-      - *Fall Into You*
-      - *Beg For Me*
+      - *Liars Like Us* ✓
+      - *Fall Into You* ✓
+      - *Beg For Me* ✓
 
 ---
  - [x] **Hollow's Row Series** [📓](https://www.goodreads.com/series/319924-hollow-s-row)
       - *Lovely Bad Things* ✓
       - *Lovely Violent Things* ✓
       - *Lovely Wicked Things* ✓
- - [ ] **Kingmakers Series [Brutal Birthright Universe]** [📓](https://www.goodreads.com/series/310823-kingmakers)
-      - *Year One*
-      - *Year Two*
-      - *Year Three*
-      - *Year Four*
-      - *Graduation*
- - [ ] **Mindf*ck Series** [📓](https://www.goodreads.com/series/198785-mindf-ck)
-      - *The Risk*
-      - *Sidetracked*
-      - *Scarlet Angel*
-      - *All the Lies*
-      - *Paint It All Red*
+ - [x] **Kingmakers Series [Brutal Birthright Universe]** [📓](https://www.goodreads.com/series/310823-kingmakers)
+      - *Year One* ✓
+      - *Year Two* ✓
+      - *Year Three* ✓
+      - *Year Four* ✓
+      - *Graduation* ✓
+ - [x] **Mindf*ck Series** [📓](https://www.goodreads.com/series/198785-mindf-ck)
+      - *The Risk* ✓
+      - *Sidetracked* ✓
+      - *Scarlet Angel* ✓
+      - *All the Lies* ✓
+      - *Paint It All Red* ✓
  - [ ] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
       - *Little Dove*
       - *Little Sunshine* [x](https://www.myanonamouse.net/t/1127078)
@@ -416,10 +416,10 @@
 - [x] Fear Me, Love Me ✓ [📓](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4) 
 - [x] Desperate Measures ✓ [📓](https://www.goodreads.com/book/show/206299177-desperate-measures)
 - [x] Lust by Derethi Anis ✓ [📓](https://www.goodreads.com/book/show/60063261-lust)
-- [x] Gothiakana by RuNyx [📓](https://www.goodreads.com/book/show/57426932-gothikana)
-- [x] Enigma by RuNyx [📓](https://www.goodreads.com/book/show/214143805-enigma)
-- [ ] Punk 57 [📓](https://www.goodreads.com/book/show/41021967-punk-57)
-- [ ] Icebreaker [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
+- [x] Gothiakana by RuNyx ✓ [📓](https://www.goodreads.com/book/show/57426932-gothikana)
+- [x] Enigma by RuNyx ✓ [📓](https://www.goodreads.com/book/show/214143805-enigma)
+- [x] Punk 57 ✓ [📓](https://www.goodreads.com/book/show/41021967-punk-57)
+- [x] Icebreaker ✓ [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 - [ ] Skin of a Sinner [📓](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
 ---
 
@@ -531,17 +531,18 @@
    - *Blood Orange* ✓
    - *Black Rose* ✓
  - [ ] **Bewitched Series** [📓](https://www.goodreads.com/series/346457-bewitched)
-      - *Bewitched*
-      - *Bespelled*
-      - *The Curse that Binds*
+      - *Bewitched* ✓
+      - *Bespelled* ✓
+      - *The Curse that Binds* ✓
       - **Bedeviled [Book Unreleased]** 
  - [ ] **Prince of Sin Series** [📓](https://www.goodreads.com/series/386472-prince-of-sin)
-      - *Throne of the Fallen*
-      - *Throne of Secrets*
-      - *Throne of Nightmares*
- - [ ] **Dark Eyes Series** [📓](https://www.goodreads.com/series/316476-dark-eyes)
-      - *Black Sunshine*
-      - *The Blood is Love*
+      - *Throne of the Fallen* ✓
+      - *Throne of Secrets* ✓
+      - **Throne of Nightmares [Book Unreleased, Expected 12 Feb 26]
+**
+ - [x] **Dark Eyes Series** [📓](https://www.goodreads.com/series/316476-dark-eyes)
+      - *Black Sunshine* ✓
+      - *The Blood is Love* ✓
  - [ ] **The Ever Seas Series** [📓](https://www.goodreads.com/series/376497-the-ever-seas)
       - *The Ever King*
       - *The Ever Queen*
