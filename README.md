@@ -13,8 +13,8 @@
      - *Restitution* ✓
      - *Psychotic Obsession* ✓
 - [x] **Cat and Mouse Duet** [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
-     - [Book 0] Phantom
-     - [Book 0.5] Satan's Affair
+     - [Book 0] Phantom ✓ 
+     - [Book 0.5] Satan's Affair ✓ 
      - *Hunting Adeline* ✓
      - *Haunting Adeline* ✓
      - [Book 2.5] Where's Molly ✓
