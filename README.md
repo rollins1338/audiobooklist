@@ -380,8 +380,7 @@
       - *Paint It All Red* ✓
  - [ ] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
       - *Little Dove*
-      - *Little Sunshine* [x](https://www.myanonamouse.net/t/1127078)
-
+      - *Little Sunshine* 
 ---
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
@@ -555,7 +554,7 @@
       - *A Queen This Fierce and Deadly*
  - [ ] **Fated Fae Series** [📓](https://www.goodreads.com/series/375632-fated-fae)
       - *The Savage and the Swan*
-      - *The Wolf & the Wildflower* [x](https://www.myanonamouse.net/t/859683)
+      - *The Wolf & the Wildflower* 
  - [ ] **Legacy of the Nine Realms Series** [📓](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms)
       - *Flames of Chaos*
       - *Ashes of Chaos*
