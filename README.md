@@ -381,18 +381,18 @@
  - [x] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
       - *Little Dove* ✓
       - *Little Sunshine* ✓
- - [ ] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690)
+ - [x] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690)
       - *24690* ✓
       - *White Out* ✓
       - *Welcome to Whitlock* ✓
       - *Black Out* ✓
- - [ ] **White Nights Series** [📓](https://www.goodreads.com/series/318492-white-nights)
+ - [x] **White Nights Series** [📓](https://www.goodreads.com/series/318492-white-nights)
       - *White Nights* ✓
       - *Midnight Days* ✓
- - [ ] **Scarlet Scars Series** [📓](https://www.goodreads.com/series/196106-scarlet-scars)
+ - [x] **Scarlet Scars Series** [📓](https://www.goodreads.com/series/196106-scarlet-scars)
       - *Menace* ✓
       - *Grievous* ✓
- - [ ] **Hades Hangmen Series** [📓](https://www.goodreads.com/series/128581-hades-hangmen)
+ - [x] **Hades Hangmen Series** [📓](https://www.goodreads.com/series/128581-hades-hangmen)
       - *It Ain't Me, Babe* ✓
       - *Heart Recaptured* ✓
       - *Souls Unfractured* ✓
@@ -439,7 +439,7 @@
 - [x] Punk 57 ✓ [📓](https://www.goodreads.com/book/show/41021967-punk-57)
 - [x] Icebreaker ✓ [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 - [x] Skin of a Sinner ✓ [📓](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
-- [ ] Sweet Temptation ✓ [📓](
+- [x] Sweet Temptation ✓ [📓](https://www.goodreads.com/book/show/52226559-sweet-temptation)
 - [x] Cruel Intentions ✓ [📓](https://www.goodreads.com/book/show/221233161-cruel-intentions)
 - [x] Shallow River ✓ [📓](https://www.goodreads.com/book/show/56354926-shallow-river)
 - [x] Mercy ✓ [📓](https://www.goodreads.com/book/show/35712570-mercy)
@@ -562,8 +562,7 @@
  - [ ] **Prince of Sin Series** [📓](https://www.goodreads.com/series/386472-prince-of-sin)
       - *Throne of the Fallen* ✓
       - *Throne of Secrets* ✓
-      - **Throne of Nightmares [Book Unreleased, Expected 12 Feb 26]
-**
+      - **Throne of Nightmares [Book Unreleased, Expected 12 Feb 26]**
  - [x] **Dark Eyes Series** [📓](https://www.goodreads.com/series/316476-dark-eyes)
       - *Black Sunshine* ✓
       - *The Blood is Love* ✓
@@ -588,7 +587,7 @@
       - *Queen of Chaos* ✓
       - **King of Chaos [Audiobook Unreleased]**
       - **Reign of Chaos [Audiobook Unreleased]**
- - [ ] **Crystal Bloom Series** [📓](https://www.goodreads.com/series/323768-crystal-bloom)
+ - [x] **Crystal Bloom Series** [📓](https://www.goodreads.com/series/323768-crystal-bloom)
       - *To Bleed a Crystal Bloom* ✓
       - *To Snap a Silver Stem* ✓
       - *To Flame a Wild Flower* ✓
