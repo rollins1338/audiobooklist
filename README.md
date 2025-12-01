@@ -68,7 +68,7 @@
      - *Vow of Deception*  ✓
      - *Tempted by Deception* ✓
      - *Consumed by Deception* ✓
-- [ ] **The Dark Duet** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
+- [x] **The Dark Duet** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/70013-the-dark-duet&ved=2ahUKEwi09reB3YGRAxVbzzgGHRQlJDkQFnoECCAQAQ&usg=AOvVaw3AEB3dBdq519okerjN5qXl) 
      - *Captive* ✓ 
      - *Seduced* ✓ 
      - *Epilogue* ✓ 
@@ -88,7 +88,7 @@
      - *Revealed: The Missing Years [Book 4]* ✓ 
      - *Beyond The Consequences [Book 5]* ✓ 
      - *Ripples [Book 6]* ✓ 
-- [ ] **The Bleeding Hearts Series** [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
+- [x] **The Bleeding Hearts Series** [📓](https://www.goodreads.com/series/302702-the-bleeding-hearts)
      - *Torment Part 1* ✓
      - *Torment 2* ✓
 - [x] **Royal Elites** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4)
@@ -117,10 +117,10 @@
 - [x] **Dark Verse Series by RuNyx** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi)
      - *The Predetor* ✓
      - *The Reaper* ✓
-     - *The Emperor*
-     - *The Finisher*
-     - *The Annihilator*
-     - *The Syndicater*
+     - *The Emperor* ✓
+     - *The Finisher* ✓
+     - *The Annihilator* ✓
+     - *The Syndicater* ✓
 - [x] **Hockey Gods** [Standalones] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6)
      - *Brutal Obsession [Book 1]* ✓ 
      - *Devious Obsession [Book 2]* ✓
