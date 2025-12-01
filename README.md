@@ -564,9 +564,9 @@
       - **King of Chaos [Audiobook Unreleased]**
       - **Reign of Chaos [Audiobook Unreleased]**
  - [ ] **Crystal Bloom Series** [📓](https://www.goodreads.com/series/323768-crystal-bloom)
-      - *To Bleed a Crystal Bloom*
-      - *To Snap a Silver Stem*
-      - *To Flame a Wild Flower*
+      - *To Bleed a Crystal Bloom* ✓
+      - *To Snap a Silver Stem* ✓
+      - *To Flame a Wild Flower* ✓
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
