@@ -381,7 +381,26 @@
  - [x] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
       - *Little Dove* ✓
       - *Little Sunshine* ✓
+ - [ ] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690)
+      - *24690*
+      - *White Out*
+      - *Welcome to Whitlock*
+      - *Black Out*
+ - [ ] **White Nights Series** [📓](https://www.goodreads.com/series/318492-white-nights)
+      - *White Nights*
+      - *Midnight Days*
+ - [ ] **Scarlet Scars Series** [📓](https://www.goodreads.com/series/196106-scarlet-scars)
+      - *Menace*
+      - *Grievous*
+ - [ ] **Hades Hangmen Series** [📓](https://www.goodreads.com/series/128581-hades-hangmen)
+      - *It Ain't Me, Babe*
+      - *Heart Recaptured*
+      - *Souls Unfractured*
+      - *Deep Redemption*
+      - *Damnable Grace*
+
 ---
+
 # Standalones
 - [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
 - [x] **Noticadia ✓**  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
@@ -420,6 +439,12 @@
 - [x] Punk 57 ✓ [📓](https://www.goodreads.com/book/show/41021967-punk-57)
 - [x] Icebreaker ✓ [📓](https://www.goodreads.com/book/show/61767292-icebreaker)
 - [x] Skin of a Sinner ✓ [📓](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner)
+- [ ] Sweet Temptation [📓](
+- [ ] Cruel Intentions [📓](https://www.goodreads.com/book/show/221233161-cruel-intentions)
+- [ ] Shallow River [📓](https://www.goodreads.com/book/show/56354926-shallow-river)
+- [ ] Mercy [📓](https://www.goodreads.com/book/show/35712570-mercy)
+- [ ] Medicine Man [📓](https://www.goodreads.com/book/show/39095082-medicine-man)
+- [ ] Bass-Ackwards [📓](https://www.goodreads.com/book/show/44905051-bass-ackwards)
 ---
 
 # Trying out Fantasy Romance 
