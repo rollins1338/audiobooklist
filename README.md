@@ -378,7 +378,7 @@
       - *Scarlet Angel* ✓
       - *All the Lies* ✓
       - *Paint It All Red* ✓
- - [ ] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
+ - [x] **Black Resorts Series** [📓](https://www.goodreads.com/series/393302-black-resorts)
       - *Little Dove* ✓
       - *Little Sunshine* ✓
 ---
@@ -547,12 +547,12 @@
       - *The Ever Queen* ✓
       - *The Mist Thief* ✓
       - **The Stolen Crown [Unrelased, Exp. FALL 2026]**
- - [ ] **Kingdom of Lies Series** [📓](https://www.goodreads.com/series/364102-kingdom-of-lies)
+ - [x] **Kingdom of Lies Series** [📓](https://www.goodreads.com/series/364102-kingdom-of-lies)
       - *A Court This Cruel & Lovely* ✓
       - *A Kingdom This Cursed and Empty* ✓
       - *A Crown This Cold and Heavy* ✓
       - *A Queen This Fierce and Deadly* ✓
- - [ ] **Fated Fae Series** [📓](https://www.goodreads.com/series/375632-fated-fae)
+ - [x] **Fated Fae Series** [📓](https://www.goodreads.com/series/375632-fated-fae)
       - *The Savage and the Swan* ✓
       - *The Wolf & the Wildflower* ✓
  - [ ] **Legacy of the Nine Realms Series** [📓](https://www.goodreads.com/series/280964-legacy-of-the-nine-realms)
