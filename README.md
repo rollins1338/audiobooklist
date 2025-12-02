@@ -688,7 +688,7 @@
       - *Unraveling Destiny*
       - *Embracing Destiny*
       - *Crowning Destiny*
-      - *Whispers of Fate*
+      - *Whispers of Fate* **[No Audiobook]**
  - [ ] **Frost and Nectar Duet** [📓](https://www.goodreads.com/series/351192-frost-and-nectar)
       - *Frost*
       - *Ambrosia*
