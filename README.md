@@ -509,7 +509,6 @@
 - [x] Mind to Bend [📓](https://www.goodreads.com/book/show/78090892-mind-to-bend)
 - [x] Method [📓](https://www.goodreads.com/book/show/43444744-method)
 - [ ] A Ship of Bones and Teeth [📓](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth)
-- [ ] Apples Dipped in Gold [📓](https://www.goodreads.com/book/show/50702585-master-of-salt-bones)
 - [ ] Master of Salt & Bones [📓](https://www.goodreads.com/book/show/50702585-master-of-salt-bones)
 - [ ] Lessons in Sin [📓](https://www.goodreads.com/book/show/57985189-lessons-in-sin)
 - [ ] Darling Venom [📓](https://www.goodreads.com/book/show/59766350-darling-venom)
