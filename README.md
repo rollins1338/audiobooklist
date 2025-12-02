@@ -459,6 +459,12 @@
       - *Bad Saint*
       - *Fallen Saint*
       - *Forever My Saint*
+ - [ ] **When Rivals Play Series** [📓](https://www.goodreads.com/series/198081-when-rivals-play)
+      - *The Peer and the Puppet*
+      - *The Moth and the Flame*
+         - *Evermore*
+      - *The Punk and the Plaything*
+      - *The Prince and the Pawn*
 
 ---
 
