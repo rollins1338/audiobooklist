@@ -425,6 +425,40 @@
       - *Requiem of the Soul* ✓ 
       - *Reparation of Sin* ✓ 
       - *Resurrection of the Heart* ✓ 
+ - [ ] **Sinners of Saint Series** [📓](https://www.goodreads.com/series/189735-sinners-of-saint) [Only getting 2 books]
+      - *Vicious*
+      - *Ruckus*
+---
+
+> King Universe
+- [ ] **King Series** [📓](https://www.goodreads.com/series/154887-king)
+  - *King*
+  - *Tyrant* 
+  - *Lawless*
+  - *Soulless*
+  - *Preppy: The Life & Death of Samuel Clearwater, Part One* 
+  - *Preppy: The Life & Death of Samuel Clearwater, Part Two*
+  - *Preppy: The Life & Death of Samuel Clearwater, Part Three*
+- [ ] **The Outskirts Duet** [📓](https://www.goodreads.com/series/214106-the-outskirts-duet)
+  - *The Outskirts*
+  - *The Outliers*
+- [ ] King Series [Book 8]
+  - *Up in Smoke*
+- [ ] The Perversion Trilogy [📓](https://www.goodreads.com/series/228942-perversion-trilogy)
+  - *Perversion*
+  - *Possession*
+  - *Permission*
+- [ ] King Series Again [Books 9, 9.5] 
+  - *N9ne: The Tale of Kevin Clearwater* 
+  - *King of the Causeway*
+- [ ] The Pawn Duet [📓](https://www.goodreads.com/series/276094-the-pawn-duet)
+  - *Pike*
+  - *Pawn*
+---  
+ - [ ] **All The Pretty Things Series** [📓](https://www.goodreads.com/series/260673-all-the-pretty-things)
+      - *Bad Saint*
+      - *Fallen Saint*
+      - *Forever My Saint*
 
 ---
 
@@ -472,9 +506,16 @@
 - [x] Mercy ✓ [📓](https://www.goodreads.com/book/show/35712570-mercy)
 - [x] Medicine Man ✓ [📓](https://www.goodreads.com/book/show/39095082-medicine-man)
 - [x] Bass-Ackwards ✓ [📓](https://www.goodreads.com/book/show/44905051-bass-ackwards)
-- [ ] Mind to Bend [📓](https://www.goodreads.com/book/show/78090892-mind-to-bend)
-- [ ] Method [📓](https://www.goodreads.com/book/show/43444744-method)
-
+- [x] Mind to Bend [📓](https://www.goodreads.com/book/show/78090892-mind-to-bend)
+- [x] Method [📓](https://www.goodreads.com/book/show/43444744-method)
+- [ ] A Ship of Bones and Teeth [📓](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth)
+- [ ] Apples Dipped in Gold [📓](https://www.goodreads.com/book/show/50702585-master-of-salt-bones)
+- [ ] Master of Salt & Bones [📓](https://www.goodreads.com/book/show/50702585-master-of-salt-bones)
+- [ ] Lessons in Sin [📓](https://www.goodreads.com/book/show/57985189-lessons-in-sin)
+- [ ] Darling Venom [📓](https://www.goodreads.com/book/show/59766350-darling-venom)
+- [ ] Crawl [📓](https://www.goodreads.com/book/show/59725131-crawl)
+- [ ] Bait [📓](https://www.goodreads.com/book/show/36048300-bait)
+- [ ] Debt [📓](https://www.goodreads.com/book/show/23163343-debt)
 ---
 
 # Trying out Fantasy Romance 
@@ -621,6 +662,34 @@
       - *To Bleed a Crystal Bloom* ✓
       - *To Snap a Silver Stem* ✓
       - *To Flame a Wild Flower* ✓
+ - [ ] **Playing with Monsters Series** [📓](https://www.goodreads.com/series/155364-playing-with-monsters)
+      - *Playing with Monsters*
+      - *Sleeping with Monsters*
+      - *Becoming His Monster*
+      - *Revealing the Monster*
+ - [ ] **Maze of Shadows Series** [📓](https://www.goodreads.com/series/331563-maze-of-shadows)
+      - *The Unseelie Prince*
+      - *The Unseelie Crown*
+      - *The Unseelie Throne*
+      - *The Unseelie King*
+ - [ ] **Nightshade Duet** [📓](https://www.goodreads.com/series/346395-nightshade)
+      - *Nightshade*
+      - *Infernium*
+ - [ ] **The Fae Chronicles Series** [📓](https://www.goodreads.com/series/104874-the-fae-chronicles)
+      - *Fighting Destiny*
+      - *Taunting Destiny*
+      - *Escaping Destiny*
+      - *Seducing Destiny*
+      - *Unraveling Destiny*
+      - *Embracing Destiny*
+      - *Crowning Destiny*
+      - *Whispers of Fate*
+ - [ ] **Frost and Nectar Duet** [📓](https://www.goodreads.com/series/351192-frost-and-nectar)
+      - *Frost*
+      - *Ambrosia*
+ - [ ] **Fairy Tale Retelling Series** [📓](https://www.goodreads.com/series/389480-fairy-tale-retelling)
+      - *Mountains Made of Glass*
+      - *Apples Dipped in Gold*
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
