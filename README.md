@@ -399,32 +399,32 @@
       - *Deep Redemption* ✓
       - *Damnable Grace* ✓
  - [ ] **Dollar Series** [📓](https://www.goodreads.com/series/181737-dollar)
-      - *Pennies*
-      - *Dollars*
-      - *Hundreds*
-      - *Thousands*
-      - *Millions*
+      - *Pennies* ✓ 
+      - *Dollars*v
+      - *Hundreds* ✓ 
+      - *Thousands* ✓ 
+      - *Millions* ✓ 
  - [ ] **Dark Romance Series** [📓](https://www.goodreads.com/series/200320-dark-romance)
-      - *Bla1re: Blaire, Part 1*
-      - *Blai2e: Blaire, Part 2*
+      - *Bla1re: Blaire, Part 1* ✓ 
+      - *Blai2e: Blaire, Part 2* ✓ 
  - [ ] **Fallen Men Series** [📓](https://www.goodreads.com/series/220988-fallen-men)
-      - *Lessons in Corruption*
-      - *Welcome to the Dark Side*
-      - *Good Gone Bad* 
-      - *After the Fall*
-      - *Inked in Lies*
-      - *Dead Man Walking*
-      - *Caution to the Wind*
-      - *Asking for Trouble*
+      - *Lessons in Corruption* ✓ 
+      - *Welcome to the Dark Side* ✓ 
+      - *Good Gone Bad* ✓ 
+      - *After the Fall* ✓ 
+      - *Inked in Lies* ✓ 
+      - *Dead Man Walking* ✓ 
+      - *Caution to the Wind* ✓ 
+      - *Asking for Trouble* ✓ 
       - **Unreleased Book 9**
  - [ ] **The Royal Ballet Presents Series** [📓](https://www.goodreads.com/series/413010-the-royal-ballet-presents)
-      - *Dance, Sugarplum*
-      - *Scream, Snowdrop*
-      - *Run, Starlight*
+      - *Dance, Sugarplum* ✓ 
+      - *Scream, Snowdrop* ✓ 
+      - *Run, Starlight* ✓ 
  - [ ] **The Society Series** [📓](https://www.goodreads.com/series/311746-the-society)
-      - *Requiem of the Soul*
-      - *Reparation of Sin*
-      - *Resurrection of the Heart*
+      - *Requiem of the Soul* ✓ 
+      - *Reparation of Sin* ✓ 
+      - *Resurrection of the Heart* ✓ 
 
 ---
 
