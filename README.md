@@ -552,6 +552,8 @@
 - [x] Debt ✓  [📓](https://www.goodreads.com/book/show/23163343-debt)
 - [ ] Wanderlust [📓](https://www.goodreads.com/book/show/24753563-wanderlust)
 - [ ] Unethical [📓](https://www.goodreads.com/book/show/221348763-unethical)
+- [ ] Angry God [📓](https://www.goodreads.com/book/show/51317220-angry-god)
+- [ ] Bad Bishop [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
 
 ---
 
