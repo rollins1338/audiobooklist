@@ -643,7 +643,7 @@
 - [x] Forget Me Not ✓ [📓](https://www.goodreads.com/book/show/51523852-forget-me-not)
 - [x] Lotus ✓ [📓](https://www.goodreads.com/book/show/57359837-lotus)
 - [x] Lothaire ✓ [📓](https://www.goodreads.com/book/show/10790516-lothaire)
-- [x] Under the Bed [📓](https://www.goodreads.com/book/show/223364832-under-the-bed)
+- [x] Under the Bed ✓  [📓](https://www.goodreads.com/book/show/223364832-under-the-bed)
 
 ---
 
