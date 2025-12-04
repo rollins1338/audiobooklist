@@ -494,81 +494,81 @@
       - *Come Undone* ✓
       - *Come Alive* ✓
       - *Come Together* ✓
- - [ ] **Ruthless People Series** [📓](https://www.goodreads.com/series/125840-ruthless-people)
-      - *Ruthless People*
-      - *The Untouchables*
-      - *American Savages*
-      - *A Bloody Kingdom*
- - [ ] **Savage Trilogy** [📓](https://www.goodreads.com/series/222379-savage-trilogy)
-      - *Savage Prince*
-      - *Iron Princess*
-      - *Rogue Royalty*
- - [ ] **Bellandi Crime Syndicate Series** [📓]()
-      - *Bloodied Hands*
-      - *Forgivable Sins*
-      - *Grieved Loss*
-      - *Shielded Wrongs*
-      - *Scarred Regrets*
+ - [x] **Ruthless People Series** [📓](https://www.goodreads.com/series/125840-ruthless-people)
+      - *Ruthless People* ✓
+      - *The Untouchables* ✓
+      - *American Savages* ✓
+      - *A Bloody Kingdom* ✓
+ - [x] **Savage Trilogy** [📓](https://www.goodreads.com/series/222379-savage-trilogy)
+      - *Savage Prince* ✓
+      - *Iron Princess* ✓
+      - *Rogue Royalty* ✓
+ - [x] **Bellandi Crime Syndicate Series** [📓]()
+      - *Bloodied Hands* ✓
+      - *Forgivable Sins* ✓
+      - *Grieved Loss* ✓
+      - *Shielded Wrongs* ✓
+      - *Scarred Regrets* ✓
       - **[Book 6 Unreleased]**
- - [ ] **Benedetti Brothers Series** [📓](https://www.goodreads.com/series/231633-benedetti-brothers)
-      - *Salvatore*
-      - *Dominic*
-      - *Sergio*
-      - *Killian*
-      - *Giovanni*
+ - [x] **Benedetti Brothers Series** [📓](https://www.goodreads.com/series/231633-benedetti-brothers)
+      - *Salvatore* ✓
+      - *Dominic* ✓
+      - *Sergio* ✓
+      - *Killian* ✓
+      - *Giovanni* ✓
  - [ ] **Vipers Series** [📓](https://www.goodreads.com/series/404114-vipers)
-      - *Beautiful Venom*
-      - *Sweet Venom*
+      - *Beautiful Venom* ✓
+      - *Sweet Venom* ✓
       - **Tempting Venom [Book Unreleased,  Expected 1 Jul 26]**
- - [ ] **Lies & Truths Duet** [📓](https://www.goodreads.com/series/280612-lies-truths-duet)
-      - *All the Lies*
-      - *All the Truths*
- - [ ] **Darkly, Madly Series** [📓](https://www.goodreads.com/series/202779-darkly-madly)
-      - *Born, Darkly*
-      - *Born, Madly*
+ - [x] **Lies & Truths Duet** [📓](https://www.goodreads.com/series/280612-lies-truths-duet)
+      - *All the Lies* ✓
+      - *All the Truths* ✓
+ - [x] **Darkly, Madly Series** [📓](https://www.goodreads.com/series/202779-darkly-madly)
+      - *Born, Darkly* ✓
+      - *Born, Madly* ✓
  - [ ] **Sinners Anonymous Series** [📓](https://www.goodreads.com/series/338698-sinners-anonymous)
-      - *Sinners Anonymous*
-      - *Sinners Condemned*
-      - *Sinners Consumed*
+      - *Sinners Anonymous* ✓
+      - *Sinners Condemned* ✓
+      - *Sinners Consumed* ✓
       - **Sinners Atone [Audiobook Unreleased]**
       - **Sinners Absolve [Book Unreleased, release date TBA]**
- - [ ] **Trails of Sin Series** [📓](https://www.goodreads.com/series/224949-trails-of-sin)
-      - *Knotted*
-      - *Buckled*
-      - *Booted*
- - [ ] **Monsters & Muses Series** [📓](https://www.goodreads.com/series/324608-monsters-muses)
-      - *Promises and Pomegranates*
-      - *Vipers and Virtuosos*
-      - *Oaths and Omissions*
-      - *Arrows and Apologies*
-      - *Souls and Sorrows*
-      - *Liars and Liaisons*
- - [ ] **Boston Belles Series** [📓](https://www.goodreads.com/series/272781-boston-belles)
-      - *The Hunter*
-      - *The Villain*
-      - *The Monster*
-      - *The Rake*
- - [ ] **Lies, Hearts & Truths Series** [📓](https://www.goodreads.com/series/314752-lies-hearts-truths)
-      - *Little Lies*
-      - *Bitter Sweet Heart*
-      - *Shattered Truths*
- - [ ] **Secrets Series** [📓](https://www.goodreads.com/series/394340-secrets)
-      - *The Season of Secrets [Book 1]*
-      - *Our Little Secret [Book 3]*
- - [ ] **Kingdom Duet** [📓](https://www.goodreads.com/series/289624-kingdom-duet)
-      - *Reign of a King*
-      - *Rise of a Queen*
- - [ ] **Twisted Series** [📓](https://www.goodreads.com/series/314410-twisted)
-      - *Twisted Love*
-      - *Twisted Games*
-      - *Twisted Hate*
-      - *Twisted Lies*
+ - [x] **Trails of Sin Series** [📓](https://www.goodreads.com/series/224949-trails-of-sin)
+      - *Knotted* ✓
+      - *Buckled* ✓
+      - *Booted* ✓
+ - [x] **Monsters & Muses Series** [📓](https://www.goodreads.com/series/324608-monsters-muses)
+      - *Promises and Pomegranates* ✓
+      - *Vipers and Virtuosos* ✓
+      - *Oaths and Omissions* ✓
+      - *Arrows and Apologies* ✓
+      - *Souls and Sorrows* ✓
+      - *Liars and Liaisons* ✓
+ - [x] **Boston Belles Series** [📓](https://www.goodreads.com/series/272781-boston-belles)
+      - *The Hunter* ✓
+      - *The Villain* ✓
+      - *The Monster* ✓
+      - *The Rake* ✓
+ - [x] **Lies, Hearts & Truths Series** [📓](https://www.goodreads.com/series/314752-lies-hearts-truths)
+      - *Little Lies* ✓
+      - *Bitter Sweet Heart* ✓
+      - *Shattered Truths* ✓
+ - [x] **Secrets Series** [📓](https://www.goodreads.com/series/394340-secrets)
+      - *The Season of Secrets [Book 1]* ✓
+      - *Our Little Secret [Book 3]* ✓
+ - [x] **Kingdom Duet** [📓](https://www.goodreads.com/series/289624-kingdom-duet)
+      - *Reign of a King* ✓
+      - *Rise of a Queen* ✓
+ - [x] **Twisted Series** [📓](https://www.goodreads.com/series/314410-twisted)
+      - *Twisted Love* ✓
+      - *Twisted Games* ✓
+      - *Twisted Hate* ✓
+      - *Twisted Lies* ✓
  - [ ] **Kings of Sin Series** [📓](https://www.goodreads.com/series/354216-kings-of-sin)
-      - *King of Wrath*
-      - *King of Pride*
-      - *King of Greed*
-      - *King of Sloth*
-      - *King of Envy*
+      - *King of Wrath* ✓
+      - *King of Pride* ✓
+      - *King of Greed* ✓
+      - *King of Sloth* ✓
+      - *King of Envy* ✓
       - **King of Gluttony [Book Unreleased, Exoected April 28, 2026]**
       - **King of Lust [Book Unreleased, Exoected April 1, 2027]**
         
@@ -631,18 +631,19 @@
 - [x] Unethical ✓ [📓](https://www.goodreads.com/book/show/221348763-unethical)
 - [x] Angry God ✓ [📓](https://www.goodreads.com/book/show/51317220-angry-god)
 - [x] Bad Bishop ✓ [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
-- [ ] The Doctor [📓](https://www.goodreads.com/book/show/40702672-the-doctor)
-- [ ] Brutal Ambition [📓](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1)
-- [ ] Blackwood [📓](https://www.goodreads.com/book/show/31445952-blackwood)
-- [ ] The Professional [📓](https://www.goodreads.com/book/show/17558070-the-professional)
-- [ ] June First ⭐⭐⭐⭐⭐ [📓](https://www.goodreads.com/book/show/123416093-june-first)
-- [ ] Sparrow [📓](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1)
-- [ ] Always Been You ⭐⭐⭐⭐⭐ [📓](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1)
-- [ ] Dirty Ugly Toy [📓](https://www.goodreads.com/book/show/28195608-dirty-ugly-toy)
-- [ ] Unconditional [📓](https://www.goodreads.com/book/show/44094398-unconditional?ref=nav_sb_ss_1_19)
-- [ ] Forget Me Not [📓](https://www.goodreads.com/book/show/51523852-forget-me-not)
-- [ ] Lotus [📓](https://www.goodreads.com/book/show/57359837-lotus)
-- [ ] Lothaire [📓](https://www.goodreads.com/book/show/10790516-lothaire)
+- [x] The Doctor ✓ [📓](https://www.goodreads.com/book/show/40702672-the-doctor)
+- [x] Brutal Ambition ✓ [📓](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1)
+- [x] Blackwood ✓ [📓](https://www.goodreads.com/book/show/31445952-blackwood)
+- [x] The Professional ✓ [📓](https://www.goodreads.com/book/show/17558070-the-professional)
+- [x] June First ✓ ⭐⭐⭐⭐⭐ [📓](https://www.goodreads.com/book/show/123416093-june-first)
+- [x] Sparrow ✓ [📓](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1)
+- [x] Always Been You ✓ ⭐⭐⭐⭐⭐ [📓](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1)
+- [x] Dirty Ugly Toy ✓ [📓](https://www.goodreads.com/book/show/28195608-dirty-ugly-toy)
+- [x] Unconditional ✓ [📓](https://www.goodreads.com/book/show/44094398-unconditional?ref=nav_sb_ss_1_19)
+- [x] Forget Me Not ✓ [📓](https://www.goodreads.com/book/show/51523852-forget-me-not)
+- [x] Lotus ✓ [📓](https://www.goodreads.com/book/show/57359837-lotus)
+- [x] Lothaire ✓ [📓](https://www.goodreads.com/book/show/10790516-lothaire)
+- [x] Under the Bed [📓](https://www.goodreads.com/book/show/223364832-under-the-bed)
 
 ---
 
@@ -818,16 +819,16 @@
  - [x] **Fairy Tale Retelling Series** [📓](https://www.goodreads.com/series/389480-fairy-tale-retelling)
       - *Mountains Made of Glass* ✓ 
       - *Apples Dipped in Gold* ✓
- - [ ] **Plated Prisoner Series** [📓](https://www.goodreads.com/series/301593-the-plated-prisoner)
-      - *Glid*
-      - *Glint*
-      - *Gleam*
-      - *Glow*
-      - *Gold*
-      - *Goldflinch*
- - [ ] **Grimstone Series** [📓](https://www.goodreads.com/series/393033-grimstone)
-      - *Grimstone*
-      - *Monarch*
+ - [x] **Plated Prisoner Series** [📓](https://www.goodreads.com/series/301593-the-plated-prisoner)
+      - *Glid* ✓ 
+      - *Glint* ✓ 
+      - *Gleam* ✓ 
+      - *Glow* ✓ 
+      - *Gold* ✓ 
+      - *Goldflinch* ✓ 
+ - [x] **Grimstone Series** [📓](https://www.goodreads.com/series/393033-grimstone)
+      - *Grimstone* ✓ 
+      - *Monarch* ✓ 
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
