@@ -818,7 +818,7 @@
  - [x] **Fairy Tale Retelling Series** [📓](https://www.goodreads.com/series/389480-fairy-tale-retelling)
       - *Mountains Made of Glass* ✓ 
       - *Apples Dipped in Gold* ✓
- - [ ] **The Plated Prisoner Series** [📓](https://www.goodreads.com/series/301593-the-plated-prisoner)
+ - [ ] **Plated Prisoner Series** [📓](https://www.goodreads.com/series/301593-the-plated-prisoner)
       - *Glid*
       - *Glint*
       - *Gleam*
