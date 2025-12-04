@@ -530,7 +530,7 @@
       - *Sinners Anonymous*
       - *Sinners Condemned*
       - *Sinners Consumed*
-      - *Sinners Atone*
+      - **Sinners Atone [Audiobook Unreleased]**
       - **Sinners Absolve [Book Unreleased, release date TBA]**
  - [ ] **Trails of Sin Series** [📓](https://www.goodreads.com/series/224949-trails-of-sin)
       - *Knotted*
