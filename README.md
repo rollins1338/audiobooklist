@@ -466,30 +466,30 @@
       - *The Punk and the Plaything* ✓ 
       - *The Prince and the Pawn* ✓ 
  - [x] **White Monarch Series** [📓](https://www.goodreads.com/series/252292-white-monarch)
-      - *Violent Delights*
-      - *Violent Ends*
-      - *Violent Triumphs*
+      - *Violent Delights* ✓
+      - *Violent Ends* ✓
+      - *Violent Triumphs* ✓
  - [x] **Ride or Die Romances Series** [📓](https://www.goodreads.com/series/376037-ride-or-die-romances)
-      - *Hitched*
-      - *Along for the Ride*
-      - *Driving My Obsession*
-      - *Across State Lines*
+      - *Hitched* ✓
+      - *Along for the Ride* ✓
+      - *Driving My Obsession* ✓
+      - *Across State Lines* ✓
  - [x] **Cinderella Series** [📓](https://www.goodreads.com/series/301411-cinderella)
-      - *Stroke of Midnight*
-      - *Prince Charming*
-      - *The Glass Slipper*
+      - *Stroke of Midnight* ✓
+      - *Prince Charming* ✓
+      - *The Glass Slipper* ✓
  - [x] **Deal with the Devil Series** [📓](https://www.goodreads.com/series/386237-deal-with-the-devil)
-      - *The Devil's Bargain*
-      - *The Devil's Playground*
-      - *Silhouette*
-      - *No One Has To Know*
+      - *The Devil's Bargain* ✓
+      - *The Devil's Playground* ✓
+      - *Silhouette* ✓
+      - *No One Has To Know* ✓
  - [x] **Next Level Series** [📓](https://www.goodreads.com/series/353885-next-level)
-      - *Glitch*
-      - *Flip*
-      - *Click*
+      - *Glitch* ✓
+      - *Flip* ✓
+      - *Click* ✓
  - [x] **Captivity Collection Series** [📓](https://www.goodreads.com/series/402537-captivity-collection)
-      - *Captured*
-      - *Never Let Go*
+      - *Captured* ✓
+      - *Never Let Go* ✓
  - [x] **Cityscape Series** [📓](https://www.goodreads.com/series/102635-the-cityscape)
       - *Come Undone* ✓
       - *Come Alive* ✓
@@ -626,10 +626,10 @@
 - [x] Crawl ✓  [📓](https://www.goodreads.com/book/show/59725131-crawl)
 - [x] Bait ✓  [📓](https://www.goodreads.com/book/show/36048300-bait)
 - [x] Debt ✓  [📓](https://www.goodreads.com/book/show/23163343-debt)
-- [x] Wanderlust [📓](https://www.goodreads.com/book/show/24753563-wanderlust)
-- [x] Unethical [📓](https://www.goodreads.com/book/show/221348763-unethical)
-- [x] Angry God [📓](https://www.goodreads.com/book/show/51317220-angry-god)
-- [x] Bad Bishop [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
+- [x] Wanderlust ✓ [📓](https://www.goodreads.com/book/show/24753563-wanderlust)
+- [x] Unethical ✓ [📓](https://www.goodreads.com/book/show/221348763-unethical)
+- [x] Angry God ✓ [📓](https://www.goodreads.com/book/show/51317220-angry-god)
+- [x] Bad Bishop ✓ [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
 - [ ] The Doctor [📓](https://www.goodreads.com/book/show/40702672-the-doctor)
 - [ ] Brutal Ambition [📓](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1)
 - [ ] Blackwood [📓](https://www.goodreads.com/book/show/31445952-blackwood)
