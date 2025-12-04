@@ -499,7 +499,7 @@
       - *The Untouchables*
       - *American Savages*
       - *A Bloody Kingdom*
- - [ ] **Savage Trilogy ** [📓](https://www.goodreads.com/series/222379-savage-trilogy)
+ - [ ] **Savage Trilogy** [📓](https://www.goodreads.com/series/222379-savage-trilogy)
       - *Savage Prince*
       - *Iron Princess*
       - *Rogue Royalty*
@@ -516,14 +516,14 @@
       - *Sergio*
       - *Killian*
       - *Giovanni*
- - [ ] **Vipers Series** [📓]()
+ - [ ] **Vipers Series** [📓](https://www.goodreads.com/series/404114-vipers)
       - *Beautiful Venom*
       - *Sweet Venom*
       - **Tempting Venom [Book Unreleased,  Expected 1 Jul 26]**
- - [ ] **Lies & Truths Duet** [📓]()
+ - [ ] **Lies & Truths Duet** [📓](https://www.goodreads.com/series/280612-lies-truths-duet)
       - *All the Lies*
       - *All the Truths*
- - [ ] **Darkly, Madly Series** [📓]()
+ - [ ] **Darkly, Madly Series** [📓](https://www.goodreads.com/series/202779-darkly-madly)
       - *Born, Darkly*
       - *Born, Madly*
  - [ ] **Sinners Anonymous Series** [📓](https://www.goodreads.com/series/338698-sinners-anonymous)
@@ -569,7 +569,8 @@
       - *King of Greed*
       - *King of Sloth*
       - *King of Envy*
-      - **King of Gluttony [Book Unreleased, Exoected April 28, 2026**]
+      - **King of Gluttony [Book Unreleased, Exoected April 28, 2026]**
+      - **King of Lust [Book Unreleased, Exoected April 1, 2027]**
         
 ---
 
