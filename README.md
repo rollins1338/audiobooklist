@@ -558,6 +558,19 @@
  - [ ] **Kingdom Duet** [📓](https://www.goodreads.com/series/289624-kingdom-duet)
       - *Reign of a King*
       - *Rise of a Queen*
+ - [ ] **Twisted Series** [📓](https://www.goodreads.com/series/314410-twisted)
+      - *Twisted Love*
+      - *Twisted Games*
+      - *Twisted Hate*
+      - *Twisted Lies*
+ - [ ] **Kings of Sin Series** [📓](https://www.goodreads.com/series/354216-kings-of-sin)
+      - *King of Wrath*
+      - *King of Pride*
+      - *King of Greed*
+      - *King of Sloth*
+      - *King of Envy*
+      - **King of Gluttony [Book Unreleased, Exoected April 28, 2026**]
+        
 ---
 
 # Standalones
