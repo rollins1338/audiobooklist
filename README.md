@@ -465,35 +465,35 @@
          - *Evermore*
       - *The Punk and the Plaything* ✓ 
       - *The Prince and the Pawn* ✓ 
- - [ ] **White Monarch Series** [📓](https://www.goodreads.com/series/252292-white-monarch)
+ - [x] **White Monarch Series** [📓](https://www.goodreads.com/series/252292-white-monarch)
       - *Violent Delights*
       - *Violent Ends*
       - *Violent Triumphs*
- - [ ] **Ride or Die Romances Series** [📓](https://www.goodreads.com/series/376037-ride-or-die-romances)
+ - [x] **Ride or Die Romances Series** [📓](https://www.goodreads.com/series/376037-ride-or-die-romances)
       - *Hitched*
       - *Along for the Ride*
       - *Driving My Obsession*
       - *Across State Lines*
- - [ ] **Cinderella Series** [📓](https://www.goodreads.com/series/301411-cinderella)
+ - [x] **Cinderella Series** [📓](https://www.goodreads.com/series/301411-cinderella)
       - *Stroke of Midnight*
       - *Prince Charming*
       - *The Glass Slipper*
- - [ ] **Deal with the Devil Series** [📓](https://www.goodreads.com/series/386237-deal-with-the-devil)
+ - [x] **Deal with the Devil Series** [📓](https://www.goodreads.com/series/386237-deal-with-the-devil)
       - *The Devil's Bargain*
       - *The Devil's Playground*
       - *Silhouette*
       - *No One Has To Know*
- - [ ] **Next Level Series** [📓](https://www.goodreads.com/series/353885-next-level)
+ - [x] **Next Level Series** [📓](https://www.goodreads.com/series/353885-next-level)
       - *Glitch*
       - *Flip*
       - *Click*
- - [ ] **Captivity Collection Series** [📓](https://www.goodreads.com/series/402537-captivity-collection)
+ - [x] **Captivity Collection Series** [📓](https://www.goodreads.com/series/402537-captivity-collection)
       - *Captured*
       - *Never Let Go*
- - [ ] **The Cityscape Series** [📓](https://www.goodreads.com/series/102635-the-cityscape)
-      - *Come Undone*
-      - *Come Alive*
-      - *Come Together*
+ - [x] **Cityscape Series** [📓](https://www.goodreads.com/series/102635-the-cityscape)
+      - *Come Undone* ✓
+      - *Come Alive* ✓
+      - *Come Together* ✓
 
 ---
 
@@ -550,10 +550,10 @@
 - [x] Crawl ✓  [📓](https://www.goodreads.com/book/show/59725131-crawl)
 - [x] Bait ✓  [📓](https://www.goodreads.com/book/show/36048300-bait)
 - [x] Debt ✓  [📓](https://www.goodreads.com/book/show/23163343-debt)
-- [ ] Wanderlust [📓](https://www.goodreads.com/book/show/24753563-wanderlust)
-- [ ] Unethical [📓](https://www.goodreads.com/book/show/221348763-unethical)
-- [ ] Angry God [📓](https://www.goodreads.com/book/show/51317220-angry-god)
-- [ ] Bad Bishop [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
+- [x] Wanderlust [📓](https://www.goodreads.com/book/show/24753563-wanderlust)
+- [x] Unethical [📓](https://www.goodreads.com/book/show/221348763-unethical)
+- [x] Angry God [📓](https://www.goodreads.com/book/show/51317220-angry-god)
+- [x] Bad Bishop [📓](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10)
 
 ---
 
@@ -714,7 +714,7 @@
  - [x] **Nightshade Duet** [📓](https://www.goodreads.com/series/346395-nightshade)
       - *Nightshade* ✓ 
       - *Infernium* ✓ 
- - [x] **The Fae Chronicles Series** [📓](https://www.goodreads.com/series/104874-the-fae-chronicles)
+ - [x] **Fae Chronicles Series** [📓](https://www.goodreads.com/series/104874-the-fae-chronicles)
       - *Fighting Destiny* ✓ 
       - *Taunting Destiny* ✓ 
       - *Escaping Destiny* ✓ 
