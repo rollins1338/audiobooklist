@@ -596,6 +596,11 @@
  - [ ] **Twisted City Duet** [📓](https://www.goodreads.com/series/324297-twisted-city-duet)
       - *Little Bird*
       - *Twisted King*
+ - [ ] **Bad Boys of Bardstown Series** [📓](https://www.goodreads.com/series/313779-bad-boys-of-bardstown)
+      - *You Beautiful Thing, You*
+      - *Oh, You're So Cold*
+      - *A Wreck, You Make Me* **[Audiobook updates on ABB/MaM]**
+      - **3 Unreleased Book**
 
 ---
 
