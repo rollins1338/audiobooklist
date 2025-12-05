@@ -866,6 +866,9 @@
  - [ ] **The Eating Woods Series** [📓](https://www.goodreads.com/series/389166-the-eating-woods)
       - *Anathema*
       - **Eldritch [Audiobook Release 31 Mar, 26]**
+ - [ ] **Bride Series** [📓](https://www.goodreads.com/series/412885-bride)
+      - *Bride*
+      - *Mate*
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
