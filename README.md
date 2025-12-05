@@ -571,7 +571,32 @@
       - *King of Envy* ✓
       - **King of Gluttony [Book Unreleased, Exoected April 28, 2026]**
       - **King of Lust [Book Unreleased, Exoected April 1, 2027]**
-        
+ - [ ] **The Broken Bonds Series** [📓](https://www.goodreads.com/series/288526-the-broken-bonds)
+      - *With Visions of Red*
+      - *With Ties That Bind*
+ - [ ] **Slaycation Series** [📓](https://www.goodreads.com/series/402468-slaycation)
+      - *Sinners Retreat*
+      - *Slay Ride*
+      - *Ship Happens* 
+ - [ ] **Fallen Royals Series** [📓](https://www.goodreads.com/series/279504-fallen-royals)
+      - *Wicked Dreams*
+      - *Wicked Games*
+      - *Wicked Promises*
+      - *Vicious Desire*
+      - *Cruel Abandon*
+      - *Wild Fury*
+ - [ ] **Brutal Hearts Series** [📓](https://www.goodreads.com/series/354753-brutal-hearts)
+      - *Brutal Intentions*
+      - *Brutal Conquest*
+      - *Brutal Husband*
+ - [ ] **Dark Prince Road Series** [📓](https://www.goodreads.com/series/378153-dark-prince-road)
+      - *My Dark Romeo*
+      - *My Dark Desire*
+      - *My Dark Prince*
+ - [ ] **Twisted City Duet** [📓](https://www.goodreads.com/series/324297-twisted-city-duet)
+      - *Little Bird*
+      - *Twisted King*
+
 ---
 
 # Standalones
@@ -644,6 +669,9 @@
 - [x] Lotus ✓ [📓](https://www.goodreads.com/book/show/57359837-lotus)
 - [x] Lothaire ✓ [📓](https://www.goodreads.com/book/show/10790516-lothaire)
 - [x] Under the Bed ✓  [📓](https://www.goodreads.com/book/show/223364832-under-the-bed)
+- [ ] The Unrequited [📓](https://www.goodreads.com/book/show/34839067-the-unrequited)
+- [ ] Branded [📓](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1)
+- [ ] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
 
 ---
 
