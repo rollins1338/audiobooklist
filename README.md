@@ -857,6 +857,9 @@
  - [x] **Grimstone Series** [📓](https://www.goodreads.com/series/393033-grimstone)
       - *Grimstone* ✓ 
       - *Monarch* ✓ 
+ - [ ] **The Eating Woods Series** [📓](https://www.goodreads.com/series/389166-the-eating-woods)
+      - *Anathema*
+      - **Eldritch [Audiobook Release 31 Mar, 26]**
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
