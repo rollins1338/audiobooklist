@@ -677,6 +677,7 @@
 - [ ] The Unrequited [📓](https://www.goodreads.com/book/show/34839067-the-unrequited)
 - [ ] Branded [📓](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1)
 - [ ] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
+- [ ] Atonement of the Spine Cleaver [📓](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver)
 
 ---
 
