@@ -599,8 +599,7 @@
  - [ ] **Bad Boys of Bardstown Series** [📓](https://www.goodreads.com/series/313779-bad-boys-of-bardstown)
       - *You Beautiful Thing, You*
       - *Oh, You're So Cold*
-      - *A Wreck, You Make Me* **[Audiobook updates on ABB/MaM]**
-      - **3 Unreleased Books**
+      - *A Wreck, You Make Me*
 
 ---
 
@@ -678,7 +677,7 @@
 - [ ] Branded [📓](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1)
 - [ ] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
 - [ ] Atonement of the Spine Cleaver [📓](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver)
-
+- [ ] Bound [📓](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1)
 ---
 
 # Trying out Fantasy Romance 
