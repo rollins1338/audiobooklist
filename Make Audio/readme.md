@@ -9,11 +9,12 @@
 - [x] Forbidden ✓
 
 ## Generate These >
-- [ ] Wrong Series
-     - *Wrong*
-     - *Wrath*
-     - *Wire*
-     - *War*
+- [ ] [Prio] Stronger Series
+    - *Stolen*
+    - *Survival*
+    - Spark*
+    - *Strike*
+    - *Stand: Part One*
 - [ ] Descent
 - [ ] Germaphobe
 - [ ] Hate Like Ours
@@ -21,9 +22,8 @@
 - [ ] Never Far
 - [ ] Perfect
 - [ ] Tainted Together
-- [ ] [Prio] Stronger Series
-    - *Stolen*
-    - *Survival*
-    - Spark*
-    - *Strike*
-    - *Stand: Part One*
+- [ ] Wrong Series
+     - *Wrong*
+     - *Wrath*
+     - *Wire*
+     - *War*
