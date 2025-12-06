@@ -600,7 +600,7 @@
       - *You Beautiful Thing, You*
       - *Oh, You're So Cold*
       - *A Wreck, You Make Me* **[Audiobook updates on ABB/MaM]**
-      - **3 Unreleased Book**
+      - **3 Unreleased Books**
 
 ---
 
