@@ -1,4 +1,4 @@
-# 💿 List of Audiobooks I have
+roll# 💿 List of Audiobooks I have
 📓 > Goodreads Link
 <br>
 <br>
@@ -603,6 +603,17 @@
       - *Terrible Beauty* ✓
       - *Beautiful Chains* ✓
       - *Chained Fate* ✓
+ - [ ] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire)
+      - *Bared to You*
+      - *Reflected in You*
+      - *Entwined with You*
+      - *Captivated by You*
+      - *One with You*
+ - [ ] **Carnival Series** [📓](https://www.goodreads.com/series/404207-carnival)
+      - *Carnival Nightmare*
+      - *Carnival Obsession*
+      - *Carnival Monster*
+      - **Book 4 Audiobook Unavailable**
 
 ---
 
@@ -681,6 +692,12 @@
 - [x] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
 - [x] Atonement of the Spine Cleaver [📓](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver)
 - [x] Bound [📓](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1)
+- [x] The Last Girl [📓](https://www.goodreads.com/book/show/211162873-the-last-girl)
+- [x] Heavy [📓](https://www.goodreads.com/book/show/222273404-heavy)
+- [x] Imprisoned [📓](https://www.goodreads.com/book/show/229287129-imprisoned)
+- [x] Deliverance [📓](https://www.goodreads.com/book/show/223291483-deliverance)
+- [x] Tryst Six Venom [📓](https://www.goodreads.com/book/show/54661258-tryst-six-venom?ac=1&from_search=true&qid=0ifALxcnqw&rank=1)
+- [x] Loathing You [📓](https://www.goodreads.com/book/show/123173649-loathing-you?ref=nav_sb_ss_1_12)
 ---
 
 # Trying out Fantasy Romance 
@@ -871,6 +888,11 @@
  - [x] **Bride Series** [📓](https://www.goodreads.com/series/412885-bride)
       - *Bride* ✓
       - *Mate* ✓
+ - [ ] **Jaga and the Devil Series** [📓](https://www.goodreads.com/series/396473-jaga-and-the-devil)
+      - *Devil's Deal*
+      - **Devil's Doom [Book 2 Audiobook Unreleased]**
+      - **Devil's Dance [Book 3 Audiobook Unreleased]**      
+
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
