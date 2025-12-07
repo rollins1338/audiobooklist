@@ -494,7 +494,7 @@
       - *Savage Prince* ✓
       - *Iron Princess* ✓
       - *Rogue Royalty* ✓
- - [x] **Bellandi Crime Syndicate Series** [📓]()
+ - [x] **Bellandi Crime Syndicate Series** [📓](https://www.goodreads.com/series/281416-bellandi-crime-syndicate)
       - *Bloodied Hands* ✓
       - *Forgivable Sins* ✓
       - *Grieved Loss* ✓
@@ -607,9 +607,9 @@
 ---
 
 # Standalones
-- [x] **Alchemised ✓**  [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
+- [x] **Alchemised ✓** [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
 - [x] **Noticadia ✓**  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
-- [x] **Lights out ✓** [FL ALL](https://05od2.mrd.ninja/2NLw) [ML ALL](https://05od2.mrd.ninja/DbP9)  [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
+- [x] **Lights out ✓** [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
 - [x] **Sicko** ✓ [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
 - [x] **Wicked ✓** [📓](https://www.goodreads.com/book/show/62057629-wicked?ref=nav_sb_ss_3_10)
 - [x] **Gloves Off ✓** [📓](https://www.goodreads.com/book/show/220637398-gloves-off?ref=nav_sb_ss_1_10)
