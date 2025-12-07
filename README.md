@@ -594,6 +594,10 @@
       - *You Beautiful Thing, You* ✓
       - *Oh, You're So Cold* ✓
       - *A Wreck, You Make Me* ✓
+ - [ ] **RAW Family Series** [📓](https://www.goodreads.com/series/139161-raw-family)
+      - *Raw* ✓
+      - *Dirty* ✓
+      - *Rebirth* ✓
 
 ---
 
