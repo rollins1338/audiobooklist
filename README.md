@@ -223,9 +223,6 @@
       - *The Pucking Wrong Number [Book 1]* ✓
       - *The Pucking Wrong Date [Book 3]* ✓
       - *The Pucking Wrong Rookie [Book 5]* ✓
- - [x] **Molotov Obsession Duet** [📓](https://www.goodreads.com/series/305581-molotov-obsession)
-      - *Devil’s Lair* ✓
-      - *Angel's Cage* ✓
  - [x] **Tormentor Mine Series**[📓](https://www.goodreads.com/series/202919-tormentor-mine)
       - *Tormentor Mine* ✓
       - *Obsession Mine* ✓
@@ -598,6 +595,14 @@
       - *Raw* ✓
       - *Dirty* ✓
       - *Rebirth* ✓
+> Molotov Family
+ - [x] **Molotov Obsession Duet** [📓](https://www.goodreads.com/series/305581-molotov-obsession)
+      - *Devil’s Lair* ✓
+      - *Angel's Cage* ✓
+ - [x] **Molotov Betrothal Series** [📓](https://www.goodreads.com/series/333805-molotov-betrothal)
+      - *Terrible Beauty* ✓
+      - *Beautiful Chains* ✓
+      - *Chained Fate* ✓
 
 ---
 
