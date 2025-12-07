@@ -43,8 +43,8 @@
      - *Wretched* ✓ 
 - [ ] **Quarantined** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh)
      - *Quarantined* ✓ 
-     - **Missing Book 2** (like actually)
-     - **Missing Book 3** (like actually)
+     - **Missing Book 2** 
+     - **Missing Book 3**
 - [x] **Spit or Swallow** [📓](https://www.goodreads.com/series/413642-split-or-swallow)
      - *Kiss of the Basilisk* ✓
      - *Between Two Kings* ✓
@@ -303,12 +303,6 @@
  - [x] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage)
       - *Collateral* ✓
       - *Damage* ✓
- - [ ] **Bellandi Crime Syndicate Series** [📓](https://www.goodreads.com/series/281416-bellandi-crime-syndicate)
-      - *Bloodied Hands* x
-      - *Forgivable Sins* x
-      - *Grieved Loss* ✓
-      - *Shielded Wrongs* ✓
-      - *Scarred Regrets* ✓
  - [x] **Ruthless Obsession Series** [📓](https://www.goodreads.com/series/315804-ruthless-obsession)
       - *Sweet Cruelty* ✓ 
       - *Sweet Depravity* ✓ 
@@ -445,9 +439,9 @@
 - [x] King Series [Book 8]
   - *Up in Smoke*
 - [x] The Perversion Trilogy [📓](https://www.goodreads.com/series/228942-perversion-trilogy)
-  - *Perversion*
-  - *Possession*
-  - *Permission*
+  - *Perversion* ✓
+  - *Possession* ✓
+  - *Permission* ✓
 - [x] King Series Again [Books 9, 9.5] 
   - *N9ne: The Tale of Kevin Clearwater* ✓ 
   - *King of the Causeway* ✓ 
@@ -571,35 +565,35 @@
       - *King of Envy* ✓
       - **King of Gluttony [Book Unreleased, Exoected April 28, 2026]**
       - **King of Lust [Book Unreleased, Exoected April 1, 2027]**
- - [ ] **The Broken Bonds Series** [📓](https://www.goodreads.com/series/288526-the-broken-bonds)
-      - *With Visions of Red*
-      - *With Ties That Bind*
- - [ ] **Slaycation Series** [📓](https://www.goodreads.com/series/402468-slaycation)
-      - *Sinners Retreat*
-      - *Slay Ride*
-      - *Ship Happens* 
- - [ ] **Fallen Royals Series** [📓](https://www.goodreads.com/series/279504-fallen-royals)
-      - *Wicked Dreams*
-      - *Wicked Games*
-      - *Wicked Promises*
-      - *Vicious Desire*
-      - *Cruel Abandon*
-      - *Wild Fury*
- - [ ] **Brutal Hearts Series** [📓](https://www.goodreads.com/series/354753-brutal-hearts)
-      - *Brutal Intentions*
-      - *Brutal Conquest*
-      - *Brutal Husband*
- - [ ] **Dark Prince Road Series** [📓](https://www.goodreads.com/series/378153-dark-prince-road)
-      - *My Dark Romeo*
-      - *My Dark Desire*
-      - *My Dark Prince*
- - [ ] **Twisted City Duet** [📓](https://www.goodreads.com/series/324297-twisted-city-duet)
-      - *Little Bird*
-      - *Twisted King*
- - [ ] **Bad Boys of Bardstown Series** [📓](https://www.goodreads.com/series/313779-bad-boys-of-bardstown)
-      - *You Beautiful Thing, You*
-      - *Oh, You're So Cold*
-      - *A Wreck, You Make Me*
+ - [x] **The Broken Bonds Series** [📓](https://www.goodreads.com/series/288526-the-broken-bonds)
+      - *With Visions of Red* ✓
+      - *With Ties That Bind* ✓
+ - [x] **Slaycation Series** [📓](https://www.goodreads.com/series/402468-slaycation)
+      - *Sinners Retreat* ✓
+      - *Slay Ride* ✓
+      - *Ship Happens* ✓
+ - [x] **Fallen Royals Series** [📓](https://www.goodreads.com/series/279504-fallen-royals)
+      - *Wicked Dreams* ✓
+      - *Wicked Games* ✓
+      - *Wicked Promises* ✓
+      - *Vicious Desire* ✓
+      - *Cruel Abandon* ✓
+      - *Wild Fury* ✓
+ - [x] **Brutal Hearts Series** [📓](https://www.goodreads.com/series/354753-brutal-hearts)
+      - *Brutal Intentions* ✓
+      - *Brutal Conquest* ✓
+      - *Brutal Husband* ✓
+ - [x] **Dark Prince Road Series** [📓](https://www.goodreads.com/series/378153-dark-prince-road)
+      - *My Dark Romeo* ✓
+      - *My Dark Desire* ✓
+      - *My Dark Prince* ✓
+ - [x] **Twisted City Duet** [📓](https://www.goodreads.com/series/324297-twisted-city-duet)
+      - *Little Bird* ✓
+      - *Twisted King* ✓
+ - [x] **Bad Boys of Bardstown Series** [📓](https://www.goodreads.com/series/313779-bad-boys-of-bardstown)
+      - *You Beautiful Thing, You* ✓
+      - *Oh, You're So Cold* ✓
+      - *A Wreck, You Make Me* ✓
 
 ---
 
@@ -673,16 +667,16 @@
 - [x] Lotus ✓ [📓](https://www.goodreads.com/book/show/57359837-lotus)
 - [x] Lothaire ✓ [📓](https://www.goodreads.com/book/show/10790516-lothaire)
 - [x] Under the Bed ✓  [📓](https://www.goodreads.com/book/show/223364832-under-the-bed)
-- [ ] The Unrequited [📓](https://www.goodreads.com/book/show/34839067-the-unrequited)
-- [ ] Branded [📓](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1)
-- [ ] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
-- [ ] Atonement of the Spine Cleaver [📓](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver)
-- [ ] Bound [📓](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1)
+- [x] The Unrequited [📓](https://www.goodreads.com/book/show/34839067-the-unrequited)
+- [x] Branded [📓](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1)
+- [x] Honeysuckles [📓](https://www.goodreads.com/book/show/172267014-honeysuckles)
+- [x] Atonement of the Spine Cleaver [📓](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver)
+- [x] Bound [📓](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1)
 ---
 
 # Trying out Fantasy Romance 
 
-- [x] **Zodiac Academy Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/264317-zodiac-academy&ved=2ahUKEwi7-5yi34GRAxUtUGcHHSiNCU0QFnoECGMQAQ&usg=AOvVaw01TASEjROJuE02M6QhzOML)
+- [x] **Zodiac Academy Series** [GraphicAudio *Unfinished*] + [Audible] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/264317-zodiac-academy&ved=2ahUKEwi7-5yi34GRAxUtUGcHHSiNCU0QFnoECGMQAQ&usg=AOvVaw01TASEjROJuE02M6QhzOML)
    - *Origins of an Academy Bully [Book 0.5]* ✓
    - *The Awakening [Book 1]* ✓
      * *The Awakening as Told by the Boys [Book 1.5]* ✓
@@ -696,23 +690,23 @@
      * *Beyond the Veil [Book 8.5]* ✓
    - *Restless Stars [Book 9]* ✓
 
-- [ ] **Fae and Alchemy** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/392242-fae-alchemy&ved=2ahUKEwi6oIGs34GRAxXwUGwGHSEuDZIQFnoECB0QAQ&usg=AOvVaw1S7b2K9sFc45ZiIiwldADY)
+- [ ] **Fae and Alchemy** [GraphicAudio] [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/392242-fae-alchemy&ved=2ahUKEwi6oIGs34GRAxXwUGwGHSEuDZIQFnoECB0QAQ&usg=AOvVaw1S7b2K9sFc45ZiIiwldADY)
    - *Quicksilver[Book 1]* ✓
      * *[Quicksilver Bonus Scenes Book 1.5]* ✓
    - *Brimstone [Book 2]* ✓
    - *Untitled 3rd Book* **Expected 10 Nov 26**
-- [ ] **The Empyrean Series** [📓](https://www.goodreads.com/series/362915-the-empyrean)
+- [ ] **The Empyrean Series** [GraphicAudio] [📓](https://www.goodreads.com/series/362915-the-empyrean)
    - *Fourth Wing* ✓
    - *Iron Flame* ✓
    - *Onyx Storm* ✓
    - **[Unrelased Book 4]**
    - **[Unrelased Book 5]**
-- [ ] **Legacy Series** [📓](https://www.goodreads.com/series/372028-legacy)
+- [x] **Legacy Series** [📓](https://www.goodreads.com/series/372028-legacy)
    - *Rain of Shadows and Endings* ✓
    - *Strom of Secrets and Sorrow* ✓
    - *Tempest of Wrath and Vengeance* ✓
-   - *Dawn of Chaos and Fury* [Audiobook Not Released Yet]
-- [ ] **Red Rising Saga** [📓](https://www.goodreads.com/series/117100-red-rising-saga)
+   - *Dawn of Chaos and Fury* ✓
+- [ ] **Red Rising Saga** [GraphicAudio] [📓](https://www.goodreads.com/series/117100-red-rising-saga)
    - *Red Rising* ✓ 
    - *Golden Son* ✓
    - *Morning Star* ✓
@@ -725,24 +719,24 @@
    - *War* ✓
    - *Famine* ✓
    - Death [Release Dec 29, 25]
-- [x] **A Court of Thorns and Roses Series** [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
+- [x] **A Court of Thorns and Roses Series** [GraphicAudio] [📓](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses)
    - *A Court of Thorns and Roses [Book 1]* ✓
    - *A Court of Mist and Fury [Book 2]* ✓
    - *A Court of Wings and Ruin [Book 3]* ✓
      * *A Court of Frost and Starlight [Book 3.5]* ✓
    - *A ​Court of Silver Flames [Book 4]* ✓
-- [ ] **Blood and Ash Series** [📓](https://www.goodreads.com/series/321784-blood-and-ash)
+- [ ] **Blood and Ash Series** [GraphicAudio] [📓](https://www.goodreads.com/series/321784-blood-and-ash)
    - *From Blood and Ash* ✓
    - *A Kingdom of Flesh and Fire* ✓
    - *The ​Crown of Gilded Bones* ✓
    - *The War of Two Queens* ✓
    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
    - The Primal of Blood and Bone [Audiobook Unrelased]
-- [x] **Crescent City Series** [📓](https://www.goodreads.com/series/233335-crescent-city)
+- [x] **Crescent City Series** [GraphicAudio] [📓](https://www.goodreads.com/series/233335-crescent-city)
    - *House of Earth and Blood* ✓
    - *House of Sky and Breath* ✓
    - *House of Flame and Shadow* ✓
-- [x] **Gods & Monsters Series** [📓](https://www.goodreads.com/series/344354-gods-monsters)
+- [x] **Gods & Monsters Series** [GraphicAudio *Unfinished*] + [Audible] [📓](https://www.goodreads.com/series/344354-gods-monsters)
    - *The Book of Azrael* ✓
    - *The Throne of Broken Gods* ✓
    - *The Dawn of the Cursed Queen* ✓
@@ -863,11 +857,11 @@
       - *Grimstone* ✓ 
       - *Monarch* ✓ 
  - [ ] **The Eating Woods Series** [📓](https://www.goodreads.com/series/389166-the-eating-woods)
-      - *Anathema*
+      - *Anathema* ✓
       - **Eldritch [Audiobook Release 31 Mar, 26]**
- - [ ] **Bride Series** [📓](https://www.goodreads.com/series/412885-bride)
-      - *Bride*
-      - *Mate*
+ - [x] **Bride Series** [📓](https://www.goodreads.com/series/412885-bride)
+      - *Bride* ✓
+      - *Mate* ✓
 
 ---
 # [Drive Link Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
