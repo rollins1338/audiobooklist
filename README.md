@@ -604,16 +604,25 @@ roll# 💿 List of Audiobooks I have
       - *Beautiful Chains* ✓
       - *Chained Fate* ✓
  - [ ] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire)
-      - *Bared to You*
-      - *Reflected in You*
-      - *Entwined with You*
-      - *Captivated by You*
-      - *One with You*
+      - *Bared to You* ✓
+      - *Reflected in You* ✓
+      - *Entwined with You* ✓
+      - *Captivated by You* ✓
+      - *One with You* ✓
  - [ ] **Carnival Series** [📓](https://www.goodreads.com/series/404207-carnival)
-      - *Carnival Nightmare*
-      - *Carnival Obsession*
-      - *Carnival Monster*
+      - *Carnival Nightmare* ✓
+      - *Carnival Obsession* ✓
+      - *Carnival Monster* ✓
       - **Book 4 Audiobook Unavailable**
+ - [ ] **Venomous Gods Series** [📓](https://www.goodreads.com/series/383736-venomous-gods)
+      - *Toxic Love*
+      - *Devious Vow*
+      - *Poisonous Kiss*
+      - *Corrupted Heart*
+      - *Monstrous Urges*
+ - [ ] **Forbidden Love Series** [📓](https://www.goodreads.com/series/387638-forbidden-love)
+      - *Truly Madly Deeply [Book 1]*
+      - *Handsome Devil [Book 3]*
 
 ---
 
