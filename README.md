@@ -603,7 +603,7 @@ roll# 💿 List of Audiobooks I have
       - *Terrible Beauty* ✓
       - *Beautiful Chains* ✓
       - *Chained Fate* ✓
- - [ ] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire)
+ - [x] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire)
       - *Bared to You* ✓
       - *Reflected in You* ✓
       - *Entwined with You* ✓
@@ -614,15 +614,15 @@ roll# 💿 List of Audiobooks I have
       - *Carnival Obsession* ✓
       - *Carnival Monster* ✓
       - **Book 4 Audiobook Unavailable**
- - [ ] **Venomous Gods Series** [📓](https://www.goodreads.com/series/383736-venomous-gods)
-      - *Toxic Love*
-      - *Devious Vow*
-      - *Poisonous Kiss*
-      - *Corrupted Heart*
-      - *Monstrous Urges*
- - [ ] **Forbidden Love Series** [📓](https://www.goodreads.com/series/387638-forbidden-love)
-      - *Truly Madly Deeply [Book 1]*
-      - *Handsome Devil [Book 3]*
+ - [x] **Venomous Gods Series** [📓](https://www.goodreads.com/series/383736-venomous-gods)
+      - *Toxic Love* ✓
+      - *Devious Vow* ✓
+      - *Poisonous Kiss* ✓
+      - *Corrupted Heart* ✓
+      - *Monstrous Urges* ✓
+ - [x] **Forbidden Love Series** [📓](https://www.goodreads.com/series/387638-forbidden-love)
+      - *Truly Madly Deeply [Book 1]* ✓
+      - *Handsome Devil [Book 3]* ✓
 
 ---
 
@@ -898,7 +898,7 @@ roll# 💿 List of Audiobooks I have
       - *Bride* ✓
       - *Mate* ✓
  - [ ] **Jaga and the Devil Series** [📓](https://www.goodreads.com/series/396473-jaga-and-the-devil)
-      - *Devil's Deal*
+      - *Devil's Deal* ✓
       - **Devil's Doom [Book 2 Audiobook Unreleased]**
       - **Devil's Dance [Book 3 Audiobook Unreleased]**      
 
