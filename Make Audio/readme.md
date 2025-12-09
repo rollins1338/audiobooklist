@@ -10,8 +10,8 @@
 
 ## Generate These >
 - [ ] [Prio] Stronger Series
-    - *Stolen*
-    - *Survival*
+    - *Stolen* ✓
+    - *Survival* ✓
     - *Spark*
     - *Strike*
     - *Stand: Part One*
