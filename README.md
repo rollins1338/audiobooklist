@@ -623,6 +623,11 @@
  - [x] **Forbidden Love Series** [📓](https://www.goodreads.com/series/387638-forbidden-love)
       - *Truly Madly Deeply [Book 1]* ✓
       - *Handsome Devil [Book 3]* ✓
+ - [ ] **North Shore Series** [📓](https://www.goodreads.com/series/369464-north-shore)
+      - *Beautiful Fiend* ✓
+      - *Heartless Beloved* ✓
+      - *Delightful Sins* ✓
+      - *Lawless God* ✓
 
 ---
 
