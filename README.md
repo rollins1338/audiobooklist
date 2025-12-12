@@ -2,7 +2,7 @@
 **📘 > PDF LINK**
 <br>
 <br>
-**✓ > Added to Drive**
+**✓ > Audiobooks Added to Drive**
 <br>
 <br>
 📓 > Goodreads Link
@@ -638,7 +638,7 @@
  - [x] **Forbidden Love Series** [📘]() [📓](https://www.goodreads.com/series/387638-forbidden-love)
       - *Truly Madly Deeply [Book 1]* ✓
       - *Handsome Devil [Book 3]* ✓
- - [ ] **North Shore Series** [📘]() [📓](https://www.goodreads.com/series/369464-north-shore)
+ - [ ] **North Shore Series** [📓](https://www.goodreads.com/series/369464-north-shore) [📘]()
       - *Beautiful Fiend* ✓
       - *Heartless Beloved* ✓
       - *Delightful Sins* ✓
@@ -647,7 +647,7 @@
 <img height=6px width="100%" src="https://media.chatgptautorefresh.com/images/separators/gradient-aqua.png?latest">
 
 # Standalones
-- [x] **Alchemised ✓** [📘]() [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1)
+- [x] **Alchemised ✓** [📓](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1) [📘](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Alchemised%20%20by%20SenLinYu)
 - [x] **Noticadia ✓** [📘]()  [📓](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9)
 - [x] **Lights out ✓** [📘]() [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10)
 - [x] **Sicko** ✓ [📘]() [📓](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5)
