@@ -5,15 +5,15 @@
 **✓ > Added to Drive**
 <br>
 <br>
-**x > Need to Download and Add**
+**📘 > PDF LINK**
 ---
 - [x] **Edge of Darkness** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/375718-the-edge-of-darkness-trilogy&ved=2ahUKEwjj5ov_2YGRAxWQxTgGHciSAcwQFnoECBEQAQ&usg=AOvVaw3r3k-_Ai9b-HrGC4IYESt0)
-     - *Insatiable* ✓ 
+     - *Insatiable* ✓
      - *Voracious* ✓
      - *Restitution* ✓
      - *Psychotic Obsession* ✓
 - [x] **Cat and Mouse Duet** [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L)
-     - [Book 0] Phantom ✓ 
+     - [Book 0] Phantom ✓
      - [Book 0.5] Satan's Affair ✓ 
      - *Hunting Adeline* ✓
      - *Haunting Adeline* ✓
