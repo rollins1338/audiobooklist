@@ -5,7 +5,7 @@
 **📘 > PDF LINK** [Only A-B Added]
 <br>
 <br>
-**✓ > Audiobook Added to Drive**
+**✓ > Audiobook Added to Drive [Private]**
 ---
 - [x] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690) [📘](https://drive.google.com/drive/folders/1cm7A8PsAji4nOO_T_VWITObMqXV6yRnU?usp=drive_link)
     - *24690* ✓
