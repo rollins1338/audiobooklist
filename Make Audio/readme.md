@@ -15,12 +15,12 @@
     - *Spark*
     - *Strike*
     - *Stand: Part One*
+- [ ] [Prio]Perfect
 - [ ] Descent
 - [ ] Germaphobe
 - [ ] Hate Like Ours
 - [ ] Illicit Desires
 - [ ] Never Far
-- [ ] Perfect
 - [ ] Tainted Together
 - [ ] Wrong Series
      - *Wrong*
