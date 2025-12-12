@@ -2,7 +2,7 @@
 📓 > Goodreads Link
 <br>
 <br>
-**📘 > PDF LINK**
+**📘 > PDF LINK** [Only A-B Added]
 <br>
 <br>
 **✓ > Audiobook Added to Drive**
