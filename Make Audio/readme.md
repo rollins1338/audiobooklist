@@ -4,7 +4,7 @@
 - [x] Cry Little Sister ✓
 - [x] Hale ✓
 - [ ] I Know.. Series
-  - *I Know Waht Love is [Book 1]* ✓
+  - *I Know What Love is [Book 1]* ✓
   - *Love is Strange [Book 2]*
 - [x] Forbidden ✓
 
@@ -15,7 +15,7 @@
     - *Spark*
     - *Strike*
     - *Stand: Part One*
-- [ ] [Prio]Perfect
+- [ ] [Prio] Perfect
 - [ ] Descent
 - [ ] Germaphobe
 - [ ] Hate Like Ours
