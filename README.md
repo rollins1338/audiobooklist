@@ -105,11 +105,11 @@
 - [x] **Captivity Collection Series** [📓](https://www.goodreads.com/series/402537-captivity-collection) [📘]()
     - *Captured* ✓
     - *Never Let Go* ✓
-- [x] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me) [📘]()
+- [x] **Capture Me Series**[📓](https://www.goodreads.com/series/167266-capture-me) [📘](https://drive.google.com/drive/folders/1A7KAwj0d3QSOwhdPNpEfT4h6xUQmzdue?usp=drive_link)
     - *Capture Me* ✓
     - *Bind Me* ✓
     - *Claim Me* ✓
-- [ ] **Carnival Series** [📓](https://www.goodreads.com/series/404207-carnival) [📘]()
+- [ ] **Carnival Series** [📓](https://www.goodreads.com/series/404207-carnival) [📘](https://drive.google.com/drive/folders/1M2NJnf2oKAWkyQyd6FJ2GFI3-JNIM8KX?usp=drive_link)
     - *Carnival Nightmare* ✓
     - *Carnival Obsession* ✓
     - *Carnival Monster* ✓
@@ -120,23 +120,23 @@
     - *Hunting Adeline* ✓
     - *Haunting Adeline* ✓
     - [Book 2.5] Where's Molly ✓
-- [x] **Cinderella Series** [📓](https://www.goodreads.com/series/301411-cinderella) [📘]()
+- [x] **Cinderella Series** [📓](https://www.goodreads.com/series/301411-cinderella) [📘](https://drive.google.com/drive/folders/1h58OK4xFi_Q0DzircX1laVi7CW14K3fc?usp=drive_link)
     - *Stroke of Midnight* ✓
     - *Prince Charming* ✓
     - *The Glass Slipper* ✓
-- [x] **Cityscape Series** [📓](https://www.goodreads.com/series/102635-the-cityscape) [📘]()
+- [x] **Cityscape Series** [📓](https://www.goodreads.com/series/102635-the-cityscape) [📘](https://drive.google.com/drive/folders/1V77hVeiEHrwGXvfekCA2HSW5O1AO_1df?usp=drive_link)
     - *Come Undone* ✓
     - *Come Alive* ✓
     - *Come Together* ✓
-- [x] **Coastal Elite Series** [Standalones] [📓](https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT) [📘]()
+- [x] **Coastal Elite Series** [Standalones] [📓](https://www.goodreads.com/series/347562-coastal-elite&ved=2ahUKEwiDmuHz3oGRAxVxWXADHSkTPRsQFnoECCIQAQ&usg=AOvVaw178CrgYBoYlmW7nE9r19rT) [📘](https://drive.google.com/drive/folders/1CUkH8O1wcVTCqDyyiepbnkK2DMPUMJZU?usp=drive_link)
     - *Even if It Hurts [Book 1]* ✓
     - *Undertow [Book 2]* ✓
     - *Contempt [Book 3]* ✓
     - *Sophie's Surrender [Book 4]* ✓
-- [x] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage) [📘]()
+- [x] **Collateral Damage Duet** [📓](https://www.goodreads.com/series/271030-collateral-damage) [📘](https://drive.google.com/drive/folders/1a_-IMizn3cG04O6LUzgUbVlZV1U87921?usp=drive_link)
     - *Collateral* ✓
     - *Damage* ✓
-- [x] **Consequences Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7) [📘]()
+- [x] **Consequences Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/88623-consequences&ved=2ahUKEwiW1PSY3YGRAxU0-DgGHcQsM9gQFnoECBkQAQ&usg=AOvVaw0vpCO7oi9KEuUeQoA93ZK7) [📘](https://drive.google.com/drive/folders/1Ke2gJ4otc1uK3SrWWMvMATEhOJILK1LV?usp=drive_link)
     - *Consequences [Book 1]* ✓
       * *Behind His Eyes [Book 1.5]* ✓
     - *Truth [Books 2]* ✓
@@ -145,7 +145,7 @@
     - *Revealed: The Missing Years [Book 4]* ✓ 
     - *Beyond The Consequences [Book 5]* ✓ 
     - *Ripples [Book 6]* ✓ 
-- [x] **Corium University Trilogy** [📓](https://www.goodreads.com/series/330109-corium-university) [📘]()
+- [x] **Corium University Trilogy** [📓](https://www.goodreads.com/series/330109-corium-university) [📘](https://drive.google.com/drive/folders/1X8nSnN41DCGvpsfOImSn5-xUE6VjxdCH?usp=drive_link)
     - *King of Corium* ✓
     - *Drop Dead Queen* ✓
     - *Broken Kingdom* ✓
@@ -157,23 +157,23 @@
       > **Hate and Chaos Duet**
         - *Touch of Hate* ✓
         - *Touch of Chaos* ✓
-- [x] **Criminals & Captives Series** [📓](https://www.goodreads.com/series/131887-criminals-captives) [📘]()
+- [x] **Criminals & Captives Series** [📓](https://www.goodreads.com/series/131887-criminals-captives) [📘](https://drive.google.com/drive/folders/17HklosrvzgtahAdIh8-6fKSADr8-U--4?usp=drive_link)
     - *Prisoner* ✓
     - *Hostage* ✓
-- [x] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire) [📘]()
+- [x] **Crossfire Series** [📓](https://www.goodreads.com/series/73778-crossfire) [📘](https://drive.google.com/drive/folders/1VatPqe-XciAr8JB7yCY0_ygkP3dS2p6w?usp=drive_link)
     - *Bared to You* ✓
     - *Reflected in You* ✓
     - *Entwined with You* ✓
     - *Captivated by You* ✓
     - *One with You* ✓
-- [x] **Dark Prince Road Series** [📓](https://www.goodreads.com/series/378153-dark-prince-road) [📘]()
+- [x] **Dark Prince Road Series** [📓](https://www.goodreads.com/series/378153-dark-prince-road) [📘](https://drive.google.com/drive/folders/1sxLZ2u7356oXNdKKBi4QAIRG09DqNR-0?usp=drive_link)
     - *My Dark Romeo* ✓
     - *My Dark Desire* ✓
     - *My Dark Prince* ✓
 - [x] **Dark Romance Series** [📓](https://www.goodreads.com/series/200320-dark-romance) [📘]()
     - *Bla1re: Blaire, Part 1* ✓ 
     - *Blai2e: Blaire, Part 2* ✓ 
-- [x] **Dark Verse Series by RuNyx** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi) [📘]()
+- [x] **Dark Verse Series by RuNyx** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi) [📘](https://drive.google.com/drive/folders/1JSfkwdeU7oKrTmn4wOEqT4Dr3vlgnsuB?usp=drive_link)
     - *The Predetor* ✓
     - *The Reaper* ✓
     - *The Emperor* ✓
@@ -202,7 +202,7 @@
     - *Unshackle* ✓
     - *Dominate* ✓
     - *Complicate* ✓
-- [x] **Devil's Night Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow) [📘]()
+- [x] **Devil's Night Series** [📓](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/177464-devil-s-night&ved=2ahUKEwjChpOM3YGRAxWczjgGHe87IPwQFnoECB8QAQ&usg=AOvVaw23bfG4UgdYYyGgbdmMgLow) [📘](https://drive.google.com/drive/folders/1D9MGVTOKE12ysuHZvDZ6xy2NRcMQxe6U?usp=drive_link)
     - *Corrupt [Book 1]* ✓
     - *Hideaway [Book 2]* ✓
     - *Kill Switch [Book 3]* ✓
