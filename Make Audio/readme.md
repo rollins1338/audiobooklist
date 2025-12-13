@@ -7,6 +7,8 @@
   - *I Know What Love is [Book 1]* ✓
   - *Love is Strange [Book 2]*
 - [x] Forbidden ✓
+- [ ] Perfect
+- [x] Descent
 
 ## Generate These >
 - [ ] [Prio] Stronger Series
@@ -15,8 +17,6 @@
     - *Spark*
     - *Strike*
     - *Stand: Part One*
-- [ ] [Prio] Perfect
-- [ ] Descent
 - [ ] Germaphobe
 - [ ] Hate Like Ours
 - [ ] Illicit Desires
