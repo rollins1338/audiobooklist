@@ -660,8 +660,9 @@
 - [x] **Lessons in Sin ✓** [📓](https://www.goodreads.com/book/show/57985189-lessons-in-sin) [📘]()
 - [x] **Lights out ✓** [📓](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10) [📘]()
 - [x] **Loathing You** [📓](https://www.goodreads.com/book/show/123173649-loathing-you?ref=nav_sb_ss_1_12) [📘]()
-- [x] **Lothaire ✓** [📓](https://www.goodreads.com/book/show/10790516-lothaire) [📘]()
+- [x] **Lothaire ✓** [📓](https://www.goodreads.com/book/show/10790516-lothaire) [📓](
 - [x] **Lotus ✓** [📓](https://www.goodreads.com/book/show/57359837-lotus) [📘]()
+- [x] **Love Unexpected✓** ⭐⭐⭐⭐⭐[📓](https://www.goodreads.com/book/show/54566424-love-unexpected) [📘]()
 - [x] **Lust by Derethi Anis ✓** [📓](https://www.goodreads.com/book/show/60063261-lust) [📘]()
 - [x] **Master of Salt & Bones ✓** [📓](https://www.goodreads.com/book/show/50702585-master-of-salt-bones) [📘]()
 - [x] **Medicine Man ✓** [📓](https://www.goodreads.com/book/show/39095082-medicine-man) [📘]()
