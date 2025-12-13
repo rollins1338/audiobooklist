@@ -113,7 +113,7 @@
     - *Carnival Nightmare* ✓
     - *Carnival Obsession* ✓
     - *Carnival Monster* ✓
-    - **Book 4 Audiobook Unavailable**
+    - *Carnival Stalker* ✓
 - [x] **Cat and Mouse Duet** [📓](https://www.goodreads.com/series/330263-cat-and-mouse&ved=2ahUKEwiqt_qJ2oGRAxUkumMGHTrDL4kQFnoECCUQAQ&usg=AOvVaw3iFX_EJvLSQeKyKf2uK69L) [📘](https://drive.google.com/drive/folders/175d8GYOARgxB5BZ4t3dAZeHw8lbJ5WJQ?usp=drive_link)
     - [Book 0] Phantom ✓
     - [Book 0.5] Satan's Affair ✓ 
