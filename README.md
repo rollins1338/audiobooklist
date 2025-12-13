@@ -75,7 +75,7 @@
 - [ ] **Bratva Bride Series** [📓](https://www.goodreads.com/series/367571-bratva-series) [📘](https://drive.google.com/drive/folders/12YQFWpM4iitfK7OcE_mETTaMMsffY9Jo?usp=drive_link)
     - *Bratva Bride* ✓
     - *Bratva Prince* ✓
-    - *Bratva Knight* [Audiobook release Dec 02, 25]
+    - *Bratva Knight* ✓
     - Bratva Butcher [No Audiobook Yet]
     - Bratva Menace [No Audiobook Yet]
 - [x] **Broken Love Series** [📓](https://www.goodreads.com/series/145743-broken-love) [📘](https://drive.google.com/drive/folders/1pKY3GXusGA79lzQR3pBzhx_TRXUubpIG?usp=drive_link)
