@@ -9,7 +9,7 @@
 ![Books](https://img.shields.io/badge/📚_BOOKS-500+-8B0000?style=for-the-badge&labelColor=1a1a1a)
 ![Series](https://img.shields.io/badge/📖_SERIES-150+-4B0082?style=for-the-badge&labelColor=1a1a1a)
 ![Audio](https://img.shields.io/badge/🎧_AUDIOBOOKS-1200+-DC143C?style=for-the-badge&labelColor=1a1a1a)
-![Fantasy](https://img.shields.io/badge/✨_FANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) </div>
+![Fantasy](https://img.shields.io/badge/✨_ROMANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) </div>
 ---
 - [x] **24690 Series**
 [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/189737-24690) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1cm7A8PsAji4nOO_T_VWITObMqXV6yRnU?usp=drive_link)
