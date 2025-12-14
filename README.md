@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Londrina+Shadow&size=32&duration=2500&pause=1000&color=E34234&center=true&vCenter=true&width=800&height=60&lines=500%2B+Books+of+Obsession+%26+Darkness;150%2B+Series+%7C+PDFs+%26+Audiobooks;Mafia+%E2%80%A2+Captive+%E2%80%A2+Stalker+Romance;Updated+with+Blood+%26+Ink+%F0%9F%A9%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Londrina+Shadow&size=40&duration=2500&pause=1000&color=E34234&center=true&vCenter=true&width=800&height=60&lines=500%2B+Books+of+Obsession+%26+Darkness;150%2B+Series+%7C+PDFs+%26+Audiobooks;Mafia+%E2%80%A2+Captive+%E2%80%A2+Stalker+Romance;Updated+with+Blood+%26+Ink+%F0%9F%A9%B8" alt="Typing SVG" />
 
 <br>
 
@@ -175,7 +175,7 @@
     - *My Dark Romeo* ✓
     - *My Dark Desire* ✓
     - *My Dark Prince* ✓
-- [x] **Dark Romance Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/200320-dark-romance) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Dark Romance Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/200320-dark-romance) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1bbuXOHCZfzYIN0XOKgDRzFL3Y7o20nQy?usp=drive_link)
     - *Bla1re: Blaire, Part 1* ✓ 
     - *Blai2e: Blaire, Part 2* ✓ 
 - [x] **Dark Verse Series by RuNyx** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287221-dark-verse&ved=2ahUKEwjfgePZ3oGRAxUTUGwGHeVkIDkQFnoECGUQAQ&usg=AOvVaw0KCDoJwFOQ4KPhDcegQfNi) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1JSfkwdeU7oKrTmn4wOEqT4Dr3vlgnsuB?usp=drive_link)
@@ -185,7 +185,7 @@
     - *The Finisher* ✓
     - *The Annihilator* ✓
     - *The Syndicater* ✓
-- [x] **Darkly, Madly Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/202779-darkly-madly) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Darkly, Madly Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/202779-darkly-madly) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1UPEY-qu06IWD0JhJjoWk1JzJSXm-PBf0?usp=drive_link)
     - *Born, Darkly* ✓
     - *Born, Madly* ✓
 - [x] **Deal with the Devil Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/386237-deal-with-the-devil) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
@@ -266,7 +266,7 @@
     - *Wild Fury* ✓
  - [ ] **Fated Fixation** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/416764-fated-fixation) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *Limerence* ✓
-    - *Redamancy* [Audiobook Release Dec 09, 25]
+    - *Redamancy* ✓
 - [x] **Forbidden Love Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/387638-forbidden-love) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *Truly Madly Deeply [Book 1]* ✓
     - *Handsome Devil [Book 3]* ✓
@@ -276,7 +276,7 @@
     - *Souls Unfractured* ✓
     - *Deep Redemption* ✓
     - *Damnable Grace* ✓
-- [x] **Hockey Gods** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Hockey Gods** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371721-hockey-gods&ved=2ahUKEwio7vPj3oGRAxV1TWwGHQljO5EQFnoECBoQAQ&usg=AOvVaw1MWUBjjbuavYaBf6eDxJs6) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1VCKLVp74OuOOZDEg6sp8NTGqccKuTfbE?usp=drive_link)
     - *Brutal Obsession [Book 1]* ✓ 
     - *Devious Obsession [Book 2]* ✓
 - [x] **Hollow's Row Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/319924-hollow-s-row) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
@@ -364,7 +364,7 @@
     - *Arrows and Apologies* ✓
     - *Souls and Sorrows* ✓
     - *Liars and Liaisons* ✓
-- [x] **Morally Black Series** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/399339-morally-black&ved=2ahUKEwjBts7L3oGRAxVHTWwGHdG_ECYQFnoECCkQAQ&usg=AOvVaw1kFOG6asWPfxG_hRLz_-3f) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Morally Black Series** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/399339-morally-black&ved=2ahUKEwjBts7L3oGRAxVHTWwGHdG_ECYQFnoECCkQAQ&usg=AOvVaw1kFOG6asWPfxG_hRLz_-3f) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1AXxt5EAHGui1EFm-BliJmGKTPuu3PE8i?usp=drive_link)
     - *Taming Seraphine* ✓
     - *Snaring Emberly* ✓
     - *Breaking Rosalind* ✓
@@ -390,13 +390,13 @@
     - *Heartless Beloved* ✓
     - *Delightful Sins* ✓
     - *Lawless God* ✓
- - [x] **Off Balance Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/130844-off-balance) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+ - [x] **Off Balance Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/130844-off-balance) [![PDF] (https://img.shields.io/badge/PDF-Available-blue)] ()
     - *Balance* ✓
     - *Execution* ✓
     - *Release* ✓
     - *Twist* ✓
     - *Dismount* ✓ 
-- [x] **Perfectly Imperfect Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/343844-perfectly-imperfect) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Perfectly Imperfect Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/343844-perfectly-imperfect) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1wKqatA9MhJHuR0GJod3BLh4IxAuFsSGU?usp=drive_link)
     - *Painted Scars* ✓
     - *Broken Whispers* ✓
     - *Hidden Truths* ✓
@@ -408,35 +408,35 @@
     - *Darkest Sins* ✓
     - *Sweet Prison* ✓
     - *Precious Hazard [Expected Jan 06, 26]*
-- [x] Pucking Wrong Series [](https://www.goodreads.com/series/371071-pucking-wrong)
+- [x] Pucking Wrong Series [](https://www.goodreads.com/series/371071-pucking-wrong) [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/371071-pucking-wrong) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1XbEnAg5yM2PnDVyyEj_s5EsP9CI552V_?usp=drive_link)
     - *The Pucking Wrong Number [Book 1]* ✓
     - *The Pucking Wrong Date [Book 3]* ✓
     - *The Pucking Wrong Rookie [Book 5]* ✓
 - [ ] **Quarantined** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1-Kah9igeQs1l9L5mRN_iw_2ie5jpjXAh?usp=drive_link)
     - *Quarantined* ✓ 
     - **Missing Book 2** - **Missing Book 3**
-- [x] **Queens & Monsters Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/311669-queens-monsters) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Queens & Monsters Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/311669-queens-monsters) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1MYtrTbQd4VYZjRw9PRh00l-QN3U-eg70?usp=drive_link)
     - *Ruthless Creatures* ✓
     - *Carnal Urges* ✓
     - *Savage Hearts* ✓
     - *Brutal Vows* ✓
-- [ ] **RAW Family Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/139161-raw-family) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [ ] **RAW Family Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/139161-raw-family) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1OdbwtbM50OjeWtIlN0UBx9aPXGuIN0Np?usp=drive_link)
     - *Raw* ✓
     - *Dirty* ✓
     - *Rebirth* ✓
-- [x] **Redwood Kings Triology** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Redwood Kings Triology** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/359596-redwood-kings&ved=2ahUKEwj2rJCP34GRAxWeSmwGHdwoImEQFnoECDMQAQ&usg=AOvVaw0CI2jeRFV9QbZw6Rhbjhat) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1AMZG-bPKLqCtkczGhGv61JydqSNwJdhi?usp=drive_link)
     - *The Darkest Note* ✓
     - *The Ruthless Note* ✓
     - *The Broken Note* ✓
-- [x] **Ride or Die Romances Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/376037-ride-or-die-romances) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Ride or Die Romances Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/376037-ride-or-die-romances) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1VPM-grSBRbob0CLqvvZoavcinDR6tkyu?usp=drive_link)
     - *Hitched* ✓
     - *Along for the Ride* ✓
     - *Driving My Obsession* ✓
     - *Across State Lines* ✓
-- [ ] **River Styx Heathens Series** [Hollow Boys Universe] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/404444-river-styx-heathens&ved=2ahUKEwj1u7293oGRAxXRV3ADHcjnApMQFnoECB0QAQ&usg=AOvVaw3QpBjrsicESgeCKDjvNOsZ) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [ ] **River Styx Heathens Series** [Hollow Boys Universe] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/404444-river-styx-heathens&ved=2ahUKEwj1u7293oGRAxXRV3ADHcjnApMQFnoECB0QAQ&usg=AOvVaw3QpBjrsicESgeCKDjvNOsZ) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1RTTWXLBeooMUtyazweHqqYUDeVX1Z3br?usp=drive_link)
     - *Wrath of an Exile* ✓
     - *Whisper of a Shadow* [**Expected 5 Aug 26**]
-- [x] **Royal Elites** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Royal Elites** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/271228-royal-elite&ved=2ahUKEwj2m5io3oGRAxV0T2cHHczbBrEQFnoECBgQAQ&usg=AOvVaw3lVelKUnI4ZMQFJBfV13G4) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1Pvnpt29JsZcLVq6e2O2FjvKV29YEBxH1?usp=drive_link)
     - *Cruel King [Book 0]* ✓
     - *Deviant King [Book 1]* ✓
     - *Steel Princess [Book 2]* ✓
@@ -445,7 +445,7 @@
     - *Vicious Prince [Book 5]* ✓
     - *Ruthless Empire [Book 6]* ✓
     - *Royal Elites Epilogue [Book 7]* ✓
-- [x] **Ruthless Obsession Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/315804-ruthless-obsession) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Ruthless Obsession Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/315804-ruthless-obsession) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1c8Iki_WK-I_RJrBEUYM0DTpIvrnLw_Nq?usp=drive_link)
     - *Sweet Cruelty* ✓ 
     - *Sweet Depravity* ✓ 
     - *Sweet Savagery* ✓ 
@@ -454,76 +454,76 @@
     - *Sweet Intensity* ✓ 
     - *Sweet Severity* ✓ 
     - *Sweet Animosity* ✓ 
-- [x] **Ruthless People Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/125840-ruthless-people) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Ruthless People Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/125840-ruthless-people) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/17_nSNhuOSRjeCEWdc0xOGlhk1fR1ptdw?usp=drive_link)
     - *Ruthless People* ✓
     - *The Untouchables* ✓
     - *American Savages* ✓
     - *A Bloody Kingdom* ✓
-- [x] **Savage Trilogy** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/222379-savage-trilogy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Savage Trilogy** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/222379-savage-trilogy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1CGXKJxfU1pO1UjwJi96Yq58SNxNIK-Wa?usp=drive_link)
     - *Savage Prince* ✓
     - *Iron Princess* ✓
     - *Rogue Royalty* ✓
-- [x] **Scarlet Scars Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/196106-scarlet-scars) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Scarlet Scars Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/196106-scarlet-scars) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/16Mt5Ww1Tg1-mI2VbIkiFaFfkprL06_Pu?usp=drive_link)
     - *Menace* ✓
     - *Grievous* ✓
-- [x] **Secrets Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/394340-secrets) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Secrets Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/394340-secrets) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1RTu9GGor_PhbhbTi-qX35bXQq7--EWSX?usp=drive_link)
     - *The Season of Secrets [Book 1]* ✓
     - *Our Little Secret [Book 3]* ✓
-- [x] **Sigma Sin** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Sigma Sin** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/406585-sigma-sin&ved=2ahUKEwjE6vyD34GRAxX0UGwGHTybKsAQFnoECCgQAQ&usg=AOvVaw3q1kZsa522mlxb5xBN0gVP) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1Qfa56B9xOjtDdmk3Scd1Y_Gx33dKT8rm?usp=drive_link)
     - *Saint* ✓
     - *Eternal* ✓
     - *Atone* ✓
     - Revere [No Audiobook Available Yet]
-- [ ] **Silver Falls University Series** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/399248-silver-falls-university) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [ ] **Silver Falls University Series** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/399248-silver-falls-university) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1FEvkWXhCjY1OYbiSx_9zEFlNcf5aekuG?usp=drive_link)
     - *Loving the Liar* ✓
     - *Loving the Reaper* [Audiobook Release Soon]
     - *Loving the Tormentor* [Audiobook Not Released Yet]
-- [ ] **Sinners Anonymous Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/338698-sinners-anonymous) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [ ] **Sinners Anonymous Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/338698-sinners-anonymous) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1D0k1RAi1kadUAm16PGYpaa-hzb6ZezTA?usp=drive_link)
     - *Sinners Anonymous* ✓
     - *Sinners Condemned* ✓
     - *Sinners Consumed* ✓
     - **Sinners Atone [Audiobook Unreleased]**
     - **Sinners Absolve [Book Unreleased, release date TBA]**
-- [x] **Sinners of Saint Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/189735-sinners-of-saint) [Only getting 2 books] [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Sinners of Saint Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/189735-sinners-of-saint) [Only getting 2 books] [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1DZZrBslU5gpItTbaweI9UCaefMnEZ2qw?usp=drive_link)
     - *Vicious* ✓ 
     - *Ruckus* ✓ 
-- [x] Sinners Series [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/327040-sinners) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] Sinners Duet by Sophie Lark [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/327040-sinners) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1kwB0eaTHM1y-FwVRAfOFkoZDVrMIETcA?usp=drive_link)
     - *There Are No Saints* ✓
     - *There Is No Devil* ✓
-- [x] **Sinners Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/335012-sinners) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Sinners Series By Michelle Heard** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/335012-sinners) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1ourt3G9N_2NvQVn2_ClHLQhMIrWi_qd9?usp=drive_link)
     - *Taken by a Sinner* ✓
     - *Owned by a Sinner* ✓
     - *Stolen by a Sinner* ✓
     - *Chosen by a Sinner* ✓
     - *Captured by a Sinner* ✓
-- [x] **Sins of the Fathers Series**[![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/314700-sins-of-the-fathers) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Sins of the Fathers Series**[![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/314700-sins-of-the-fathers) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1u9hSCvfJUT9QxAvdlQP-Sek4htf4TEVY?usp=drive_link)
     - *By Sin I Rise: Part One* ✓
     - *By Sin I Rise: Part Two* ✓
     - *By Virtue I Fall* ✓
     - *By Fate I Conquer* ✓
     - *By Frenzy I Ruin* ✓
-- [x] **Slaycation Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/402468-slaycation) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Slaycation Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/402468-slaycation) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1Wtazbw8PCbhZzxhE5JEB8zIChmByYdnt?usp=drive_link)
     - *Sinners Retreat* ✓
     - *Slay Ride* ✓
     - *Ship Happens* ✓
-- [x] **Spit or Swallow** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/413642-split-or-swallow) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/14_pXJJxF7xd1RLQyto4SpkpFFK0MQqcB?usp=drive_link)
+- [x] **Split or Swallow** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/413642-split-or-swallow) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/14_pXJJxF7xd1RLQyto4SpkpFFK0MQqcB?usp=drive_link)
     - *Kiss of the Basilisk* ✓
     - *Between Two Kings* ✓
-- [ ] **Tales of Obsession Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/383283-tales-of-obsession) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [ ] **Tales of Obsession Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/383283-tales-of-obsession) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1akB_O419HWPGKlBeSlw3XwHY59LK8Ktv?usp=drive_link)
     - *5000 Nights of Obsession* ✓
     - *Fatal Obsession* **[No Audiobook Yet**
     - *Unapologetic Obsession* **[No Audiobook Yet**
-- [x] **The Bleeding Hearts Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/302702-the-bleeding-hearts) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Bleeding Hearts Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/302702-the-bleeding-hearts) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1u6feYQOHw-Q7PHUBqPHzTYfFSlC2TKQL?usp=drive_link)
     - *Torment Part 1* ✓
     - *Torment 2* ✓
 - [x] **The Brethren Lords** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/400784-the-brethren-lords&ved=2ahUKEwirnfvh3IGRAxUk2TgGHTi1PGEQFnoECA8QAQ&usg=AOvVaw2D6G2OR1ANK0RD1823NaH1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/19YWWxxvlwM47ak_QoPQmfLvYL6vBrS__?usp=drive_link)
     - *Deviant* ✓
     - *Depravity* ✓
     - *Degradation* ✓
-- [x] **The Broken Bonds Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/288526-the-broken-bonds) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Broken Bonds Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/288526-the-broken-bonds) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1k5gTXVcG7LMBqqI3xyThNP5VnpnqIUmK?usp=drive_link)
     - *With Visions of Red* ✓
     - *With Ties That Bind* ✓
-- [x] **The Camorra Chronicles** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/244934-the-camorra-chronicles) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Camorra Chronicles** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/244934-the-camorra-chronicles) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/18A4SqB2Tqe3Xpc-2EHY70GEDS3QtHfGr?usp=drive_link)
     - *Twisted Loyalties* ✓
     - *Twisted Emotions* ✓
     - *Twisted Pride* ✓
@@ -534,26 +534,26 @@
     - *Captive* ✓ 
     - *Seduced* ✓ 
     - *Epilogue* ✓ 
-- [x] The Hollow Boys Series [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371544-hollow-boys&ved=2ahUKEwjRpv6x3oGRAxWXVmwGHdeYLagQFnoECBAQAQ&usg=AOvVaw2l9WJcm6YRYiwDeu8vCmc2) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] The Hollow Boys Series [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/371544-hollow-boys&ved=2ahUKEwjRpv6x3oGRAxWXVmwGHdeYLagQFnoECBAQAQ&usg=AOvVaw2l9WJcm6YRYiwDeu8vCmc2) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1yVJ5NT27S2YVZxbErCe8Ayqv9xYvkEVc?usp=drive_link)
     - *The Lies We Steal* ✓ 
     - *The Truths We Burn* ✓
     - *The Blood We Crave: Part 1* ✓
     - *The Blood We Crave: Part 2* ✓
     - *The Oath We Give* ✓
-- [x] **The Loan Shark Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/209998-the-loan-shark-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Loan Shark Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/209998-the-loan-shark-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1mtcMjiLfYmN-qNFrxMGr4tT6JlrPmfI7?usp=drive_link)
     - *Dubious* ✓
     - *Consent* ✓
-- [x] **The Outskirts Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/214106-the-outskirts-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Outskirts Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/214106-the-outskirts-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1ufRAHcZTjUnyev3e91X0qsn6ZmjS9FGP?usp=drive_link)
   - *The Outskirts* ✓ 
   - *The Outliers* ✓ 
 - [x] The Pawn Duet [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/276094-the-pawn-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
   - *Pike* ✓ 
   - *Pawn* ✓ 
-- [x] The Perversion Trilogy [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/228942-perversion-trilogy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] The Perversion Trilogy [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/228942-perversion-trilogy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1kYTSzgallYwIJKHpal9j6U6Wa4w9XQDX?usp=drive_link)
   - *Perversion* ✓
   - *Possession* ✓
   - *Permission* ✓
-- [x] **The Royal Ballet Presents Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/413010-the-royal-ballet-presents) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Royal Ballet Presents Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/413010-the-royal-ballet-presents) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1OvTs6GFRNeTZOEkxp_UPU1yqkGfJwJkW?usp=drive_link)
     - *Dance, Sugarplum* ✓ 
     - *Scream, Snowdrop* ✓ 
     - *Run, Starlight* ✓ 
@@ -561,45 +561,45 @@
     - *Butcher & Blackbird* ✓
     - *Leather & Lark* ✓
     - *Scythe & Sparrow* ✓
-- [x] **The Society Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/311746-the-society) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Society Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/311746-the-society) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1NxMAXRxmR4dYWh_im3dtRpNiTmQ7pArf?usp=drive_link)
     - *Requiem of the Soul* ✓ 
     - *Reparation of Sin* ✓ 
     - *Resurrection of the Heart* ✓ 
-- [x] **The Wild Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/280230-the-wild) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **The Wild Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/280230-the-wild) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1KMfL2k6wfg54LvGZMXYDv1tnUaSZ0rIi?usp=drive_link)
     - *The Wild* ✓
     - *The Free* ✓
       * **Book 2.5** [Read [PDF](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/_OceanofPDF.com_Daddy_Reed_-_K_Webster.pdf)]
-- [x] **Throne Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/303595-throne-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Throne Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/303595-throne-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1StgyNcDS0mXgSC7hiL5d8G4UWlV6eSaj?usp=drive_link)
     - *Throne of Power* ✓
     - *Throne of Vengeance* ✓
-- [x] **Tormentor Mine Series**[![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/202919-tormentor-mine) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Tormentor Mine Series**[![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/202919-tormentor-mine) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1hw5JpoeeQhrc_c682zX3h-sfrETjr2L6?usp=drive_link)
     - *Tormentor Mine* ✓
     - *Obsession Mine* ✓
     - *Destiny Mine* ✓
     - *Forever Mine* ✓
-- [x] **Trails of Sin Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/224949-trails-of-sin) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Trails of Sin Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/224949-trails-of-sin) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/18DRLlVKTqSUEnMqzJyNS0EyJbA5YPKjT?usp=drive_link)
     - *Knotted* ✓
     - *Buckled* ✓
     - *Booted* ✓
-- [x] Twist Me Series [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/122460-twist-me) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] Twist Me Series [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/122460-twist-me) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1dZTSnfMZHae6T51lch6vwn28qyhQDUGH?usp=drive_link)
     - *Twist Me* ✓
     - *Keep Me* ✓
     - *Hold Me* ✓
-- [x] **Twisted City Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/324297-twisted-city-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Twisted City Duet** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/324297-twisted-city-duet) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1l9ifFZiUpOZSQodHD4LjXS1ggxM5P3MM?usp=drive_link)
     - *Little Bird* ✓
     - *Twisted King* ✓
-- [x] **Twisted Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/314410-twisted) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Twisted Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/314410-twisted) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1OMi7gwz5eXBlaAZ4EtHG7LuJlpSFI8AF?usp=drive_link)
     - *Twisted Love* ✓
     - *Twisted Games* ✓
     - *Twisted Hate* ✓
     - *Twisted Lies* ✓
-- [x] **Venomous Gods Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/383736-venomous-gods) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+- [x] **Venomous Gods Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/383736-venomous-gods) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1Zmi-ZSx0UUPgnPFKzRreCWjoQJkrUS4r?usp=drive_link)
     - *Toxic Love* ✓
     - *Devious Vow* ✓
     - *Poisonous Kiss* ✓
     - *Corrupted Heart* ✓
     - *Monstrous Urges* ✓
- - [ ] **Vipers Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/404114-vipers) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+ - [ ] **Vipers Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/404114-vipers) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/17yfn5cDl6YiaBLsvZqpaaoSwd9PGJlOJ?usp=drive_link)
     - *Beautiful Venom* ✓
     - *Sweet Venom* ✓
     - **Tempting Venom [Book Unreleased,  Expected 1 Jul 26]**
@@ -612,11 +612,11 @@
        - *Evermore*
     - *The Punk and the Plaything* ✓ 
     - *The Prince and the Pawn* ✓ 
- - [x] **White Monarch Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/252292-white-monarch) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+ - [x] **White Monarch Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/252292-white-monarch) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1EWNXZrx9HVpycKwm_Z15lZny4inm7SlF?usp=drive_link)
     - *Violent Delights* ✓
     - *Violent Ends* ✓
     - *Violent Triumphs* ✓
- - [x] **White Nights Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/318492-white-nights) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+ - [x] **White Nights Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/318492-white-nights) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1BFD2blRmpCfq6iXIaIQ4SVU_YPFqNSfx?usp=drive_link)
     - *White Nights* ✓
     - *Midnight Days* ✓
 
