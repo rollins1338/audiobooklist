@@ -8,7 +8,7 @@
 
 ![Books](https://img.shields.io/badge/📚_BOOKS-500+-8B0000?style=for-the-badge&labelColor=1a1a1a)
 ![Series](https://img.shields.io/badge/📖_SERIES-150+-4B0082?style=for-the-badge&labelColor=1a1a1a)
-![Audio](https://img.shields.io/badge/🎧_AUDIO-400+-DC143C?style=for-the-badge&labelColor=1a1a1a)
+![Audio](https://img.shields.io/badge/🎧_AUDIOBOOKS-1200+-DC143C?style=for-the-badge&labelColor=1a1a1a)
 ![Fantasy](https://img.shields.io/badge/✨_FANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) </div>
 ---
 - [x] **24690 Series**
