@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Londrina+Shadow&size=40&duration=2500&pause=1000&color=E34234&center=true&vCenter=true&width=800&height=60&lines=800%2B+Books+of+Obsession+%26+Darkness;1200%2B+Audiobooks;Mafia+%E2%80%A2+Captive+%E2%80%A2+Stalker+Romance;Updated+with+Blood+%26+Ink+%F0%9F%A9%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Londrina+Shadow&size=40&duration=2500&pause=1000&color=E34234&center=true&vCenter=true&width=800&height=60&lines=800%2B+Books+of+Obsession+%26+Darkness;1200%2B+Audiobooks;Mafia+%E2%80%A2+Captive+%E2%80%A2+Stalker+Romance;Made+with+%F0%9F%96%A4+for+Dark+Romance+Lovers" alt="Typing SVG" />
 
 <br>
 
