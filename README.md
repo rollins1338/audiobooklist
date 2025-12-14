@@ -9,8 +9,21 @@
 ![Books](https://img.shields.io/badge/📚_BOOKS-800+-8B0000?style=for-the-badge&labelColor=1a1a1a)
 ![Series](https://img.shields.io/badge/📖_SERIES-150+-4B0082?style=for-the-badge&labelColor=1a1a1a)
 ![Audio](https://img.shields.io/badge/🎧_AUDIOBOOKS-1200+-DC143C?style=for-the-badge&labelColor=1a1a1a)
-![Fantasy](https://img.shields.io/badge/✨_ROMANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) </div>
+![Fantasy](https://img.shields.io/badge/✨_ROMANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) 
+
+### 📂 **Quick Navigation**
+
+| 🖤 **Dark Romance** | 🏴 **Standalones** | ✨ **Dark Romantasy** | 
+| :---: | :---: | :---: |
+| [**Browse Library**](#-dark-romance) | [**View Books**](#-standalones) | [**View Books**](#-dark-romantasy--academia)
+
+
+</div>
+
 ---
+
+## 🖤 Dark Romance
+
 - [x] **24690 Series**
 [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/189737-24690) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1cm7A8PsAji4nOO_T_VWITObMqXV6yRnU?usp=drive_link)
     - *24690* ✓
@@ -622,7 +635,9 @@
 
 ---
 
-# Standalones
+## 🏴 Standalones
+<div align="right"><sub><a href="#-audiobook-collection">Back to Top ↑</a></sub></div>
+
 - [x] **A Ship of Bones and Teeth ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
 - [x] **Alchemised ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
 - [x] **Always Been You ✓** ⭐⭐⭐⭐⭐ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
@@ -707,7 +722,8 @@
 
 ---
 
-# Trying out Fantasy Romance 
+## ✨ Dark Romantasy & Academia
+<div align="right"><sub><a href="#-audiobook-collection">Back to Top ↑</a></sub></div>
 
 - [x] **A Court of Thorns and Roses Series** [GraphicAudio] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/104014-a-court-of-thorns-and-roses) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *A Court of Thorns and Roses [Book 1]* ✓
