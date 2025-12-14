@@ -639,85 +639,330 @@
 <div align="right"><sub><a href="#-audiobook-collection">Back to Top ↑</a></sub></div>
 
 - [x] **A Ship of Bones and Teeth ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/138358709-a-ship-of-bones-and-teeth) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Alchemised ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/222490389-alchemised?ac=1&from_search=true&qid=xXhCZHLT5V&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
+
 - [x] **Always Been You ✓** ⭐⭐⭐⭐⭐ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/59843967-always-been-you?ac=1&from_search=true&qid=STu37Laa8x&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
+
 - [x] **Angry God ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/51317220-angry-god) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
+
 - [x] **Atonement of the Spine Cleaver** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/198398087-atonement-of-the-spine-cleaver) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
+
 - [x] **Bad Bishop ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/232477281-bad-bishop?ref=nav_sb_ss_1_10) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
+
 - [x] **Bait ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/36048300-bait) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Bass-Ackwards ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/44905051-bass-ackwards) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Blackwood ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/31445952-blackwood) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Bound** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/242109300-bound?ac=1&from_search=true&qid=H3CXlXk30r&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Branded** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/225819219-branded?ac=1&from_search=true&qid=fYckHPPNrX&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Brutal Ambition ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/212348499-brutal-ambition?ac=1&from_search=true&qid=LJTmGfstgg&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Burn for Me ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/217469514-burn-for-me) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Captive ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/51184894-captive) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Coerce ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/58362816-coerce) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Crawl ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/59725131-crawl) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Cruel Intentions ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/221233161-cruel-intentions) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Dark Notes ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/28435457-dark-notes) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Darling Venom ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/59766350-darling-venom) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Debt ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/23163343-debt) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Deliverance** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/223291483-deliverance) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Desire in His Blood** ✓ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/63130733-desire-in-his-blood) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Desperate Measures ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/206299177-desperate-measures) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Dirty Ugly Toy ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/28195608-dirty-ugly-toy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Does It Hurt? ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/61795526-does-it-hurt) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Enigma by RuNyx ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/214143805-enigma) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Eyes on Me ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/60797616-eyes-on-me) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Fairydale ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/58411935-fairydale) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Fear Me, Love Me ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/195009352-fear-me-love-me?ref=rae_4)  [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Forget Me Not ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/51523852-forget-me-not) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Forget Your Morals ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/167490050-forget-your-morals) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Gloves Off ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/220637398-gloves-off?ref=nav_sb_ss_1_10) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Gothiakana by RuNyx ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/57426932-gothikana) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Heavy** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/222273404-heavy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Honeysuckles** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/172267014-honeysuckles) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Icebreaker ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/61767292-icebreaker) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Imprisoned** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/229287129-imprisoned) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **June First ✓** ⭐⭐⭐⭐⭐ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/123416093-june-first) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Kingdom of Villains ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/54164103-kingdom-of-villains) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Lessons in Sin ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/57985189-lessons-in-sin) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Lights out ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/211200239-lights-out?ref=nav_sb_ss_1_10) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Loathing You** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/123173649-loathing-you?ref=nav_sb_ss_1_12) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Lothaire ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/10790516-lothaire) [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](
+
+<br>
+
 - [x] **Lotus ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/57359837-lotus) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Love Unexpected✓** ⭐⭐⭐⭐⭐[![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/54566424-love-unexpected) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Lust by Derethi Anis ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/60063261-lust) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Master of Salt & Bones ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/50702585-master-of-salt-bones) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Medicine Man ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/39095082-medicine-man) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Mercy ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/35712570-mercy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Method ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/43444744-method) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Mind to Bend ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/78090892-mind-to-bend) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Noticadia ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/136470356-nocticadia?ref=nav_sb_ss_1_9) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Notice ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/35336562-notice) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Penpal ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/60192737-pen-pal?ref=nav_sb_ss_1_7) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Punk 57 ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/41021967-punk-57) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Requiem ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/61436434-requiem) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Run Posy Run ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/57488034-run-posy-run) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Shallow River ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/56354926-shallow-river) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Sicko** ✓ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/50489991-sicko?ref=nav_sb_ss_1_5) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Skin of a Sinner ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/199037117-skin-of-a-sinner) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Sparrow ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/27263454-sparrow?ac=1&from_search=true&qid=AGeUP1eyjF&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Stepbrother Dearest ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/22843341-stepbrother-dearest) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Sweet Temptation ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/52226559-sweet-temptation) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Tell me Pretty Lies ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/53004283-tell-me-pretty-lies) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **That Sik Luv ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/122753589-that-sik-luv?ref=nav_sb_ss_1_12) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Bad Guy ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/34464710-the-bad-guy) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Danger You Know ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/51180445-the-danger-you-know) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Doctor ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/40702672-the-doctor) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Last Girl** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/211162873-the-last-girl) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Professional ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/17558070-the-professional) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **The Unrequited** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/34839067-the-unrequited) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Tryst Six Venom** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/54661258-tryst-six-venom?ac=1&from_search=true&qid=0ifALxcnqw&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Unconditional ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/44094398-unconditional?ref=nav_sb_ss_1_19) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Under the Bed ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/223364832-under-the-bed) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Under Your Scars ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/177121503-under-your-scars?ref=nav_sb_ss_1_16) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Unethical ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/221348763-unethical) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Viciously Yours** ✓ [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://goodreads.com/book/show/202082942-viciously-yours) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Wanderlust ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/24753563-wanderlust) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **What Was Meant to Be ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/61892915-what-was-meant-to-be) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Whispers and Roars ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/32195246-whispers-and-the-roars?from_search=true&from_srp=true&qid=avXGLoAMDV&rank=1) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+
+<br>
+
 - [x] **Wicked ✓** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/book/show/62057629-wicked?ref=nav_sb_ss_3_10) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
 
 ---
