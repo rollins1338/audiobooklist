@@ -319,8 +319,8 @@
     - *King of Greed* ✓
     - *King of Sloth* ✓
     - *King of Envy* ✓
-    - **King of Gluttony [Book Unreleased, Exoected April 28, 2026]**
-    - **King of Lust [Book Unreleased, Exoected April 1, 2027]**
+    - **King of Gluttony [Book Unreleased, Expected April 28, 2026]**
+    - **King of Lust [Book Unreleased, Expected April 1, 2027]**
 - [x] **Legacy of Gods** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/342937-legacy-of-gods) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1gy6YbVeKY3czlUa3Jg7-2AKaESPp2n7h?usp=drive_link)
     - *God of Malice* ✓
     - *God of Pain* ✓
