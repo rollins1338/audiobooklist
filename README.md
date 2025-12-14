@@ -1,11 +1,15 @@
 # 🏴 Western Dark Romance Books
-📓 > Goodreads Link
+<div align="center">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&size=32&duration=2500&pause=1000&color=8B0000&center=true&vCenter=true&width=800&height=60&lines=500%2B+Books+of+Obsession+%26+Darkness;150%2B+Series+%7C+PDFs+%26+Audiobooks;Mafia+%E2%80%A2+Captive+%E2%80%A2+Stalker+Romance;Updated+with+Blood+%26+Ink+%F0%9F%A9%B8" alt="Typing SVG" />
+
 <br>
-<br>
-**📘 > PDF LINK** [Only A-D Added]
-<br>
-<br>
-**✓ > Audiobook Added to Drive [Private]**
+
+![Books](https://img.shields.io/badge/📚_BOOKS-500+-8B0000?style=for-the-badge&labelColor=1a1a1a)
+![Series](https://img.shields.io/badge/📖_SERIES-150+-4B0082?style=for-the-badge&labelColor=1a1a1a)
+![Audio](https://img.shields.io/badge/🎧_AUDIO-400+-DC143C?style=for-the-badge&labelColor=1a1a1a)
+![Fantasy](https://img.shields.io/badge/✨_FANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) </div>
 ---
 - [x] **24690 Series** [📓](https://www.goodreads.com/series/189737-24690) [📘](https://drive.google.com/drive/folders/1cm7A8PsAji4nOO_T_VWITObMqXV6yRnU?usp=drive_link)
     - *24690* ✓
