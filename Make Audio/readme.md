@@ -7,11 +7,11 @@
   - *I Know What Love is [Book 1]* ✓
   - *Love is Strange [Book 2]*
 - [x] Forbidden ✓
-- [ ] Perfect ⭐⭐⭐⭐⭐
 - [x] Descent
+- [x] Virtue and Vanity ⭐⭐⭐⭐⭐
 
 ## Generate These >
-- [ ] Virtue and Vanity ⭐⭐⭐⭐⭐
+- [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
