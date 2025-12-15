@@ -9,11 +9,11 @@
 - [x] Forbidden ✓
 - [x] Descent
 - [x] Virtue and Vanity ⭐⭐⭐⭐⭐
+- [ ] If I can't have You ⭐⭐⭐⭐⭐ [Simillar](https://www.reddit.com/r/DarkRomance/comments/1d5ytgb/recs_like_if_i_cant_have_you_by_deathsdoll_on_ao3/)
 
 ## Generate These >
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
-- [ ] If I can't have You ⭐⭐⭐⭐⭐
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
