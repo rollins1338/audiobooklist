@@ -12,6 +12,7 @@
 
 ## Generate These >
 - [ ] Perfect ⭐⭐⭐⭐⭐
+- [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
