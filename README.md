@@ -1353,7 +1353,11 @@
     - *Bewitched* ✓
     - *Bespelled* ✓
     - *The Curse that Binds* ✓
-    - **Bedeviled [Book Unreleased]** - [ ] **Blood and Ash Series** [GraphicAudio] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/321784-blood-and-ash) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
+    - **Bedeviled [Book Unreleased]**
+
+   <br>
+   
+   - [ ] **Blood and Ash Series** [GraphicAudio] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/321784-blood-and-ash) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *From Blood and Ash* ✓
     - *A Kingdom of Flesh and Fire* ✓
     - *The ​Crown of Gilded Bones* ✓
