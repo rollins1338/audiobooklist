@@ -15,6 +15,7 @@
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Lemonade ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
+- [ ] Land of the Beautiful Dead
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
