@@ -13,6 +13,7 @@
 
 ## Generate These >
 - [ ] Perfect ⭐⭐⭐⭐⭐
+- [ ] Lemonade ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
