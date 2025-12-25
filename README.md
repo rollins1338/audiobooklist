@@ -750,7 +750,7 @@
 
 - [ ] **Silver Falls University Series** [Standalones] [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/399248-silver-falls-university) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1FEvkWXhCjY1OYbiSx_9zEFlNcf5aekuG?usp=drive_link)
     - *Loving the Liar* ✓
-    - *Loving the Reaper* [Audiobook Release Soon]
+    - *Loving the Reaper* ✓
     - *Loving the Tormentor* [Audiobook Not Released Yet]
 
 
