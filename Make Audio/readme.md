@@ -13,10 +13,10 @@
     - part 1 ✓
     - part 2 ✓
     - part 3
+- [ ] Lemonade ⭐⭐⭐⭐⭐
 
 ## Generate These >
 - [ ] Perfect ⭐⭐⭐⭐⭐
-- [ ] Lemonade ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
 - [ ] [Prio] Stronger Series
