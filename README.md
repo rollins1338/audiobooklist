@@ -96,7 +96,6 @@
 - [x] **Blackthorn Elite Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/276046-blackthorn-elite) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1JUldD_1vLIx8GodAUO14Zid-VM3kWtBN?usp=drive_link)
     - *Hating You* ✓
     - *Breaking You* ✓
-    - *Hurting You* ✓
     - *Regretting You* ✓
 
 
