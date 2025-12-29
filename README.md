@@ -1361,7 +1361,7 @@
     - *A Kingdom of Flesh and Fire* ✓
     - *The ​Crown of Gilded Bones* ✓
     - *The War of Two Queens* ✓
-    - A Soul of Ash and Blood [Audiobook Release 23 Dec, 25]
+    - A Soul of Ash and Blood [Part 1 Released]
     - The Primal of Blood and Bone [Audiobook Unrelased]
 
 
@@ -1470,7 +1470,7 @@
     - *City of Gods and Monsters* ✓
     - *City of Souls and Sinners* ✓
     - *City of Lies and Legends* ✓
-    - *City of Smoke and Brimstone* [Audiobook Release Dec 09,25]
+    - *City of Smoke and Brimstone* ✓
     - Unreleased Book 5
     - Unreleased Book 6
 
@@ -1608,7 +1608,7 @@
     - *Pestilence* ✓
     - *War* ✓
     - *Famine* ✓
-    - Death [Release Dec 29, 25]
+    - *Death* ✓
 
 
 
