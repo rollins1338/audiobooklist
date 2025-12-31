@@ -22,7 +22,7 @@
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
-    - *Spark*
+    - *Spark* ✓
     - *Strike*
     - *Stand: Part One*
 - [ ] Germaphobe
