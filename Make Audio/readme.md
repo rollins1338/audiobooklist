@@ -13,7 +13,7 @@
     - part 1 ✓
     - part 2 ✓
     - part 3
-- [ ] Lemonade ⭐⭐⭐⭐⭐
+- [ ] Lemonade ⭐⭐⭐⭐⭐ ✓
 
 ## Generate These >
 - [ ] Perfect ⭐⭐⭐⭐⭐
