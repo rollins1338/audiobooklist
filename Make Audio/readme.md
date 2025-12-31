@@ -7,8 +7,8 @@
   - *I Know What Love is [Book 1]* ✓
   - *Love is Strange [Book 2]*
 - [x] Forbidden ✓
-- [x] Descent
-- [x] Virtue and Vanity ⭐⭐⭐⭐⭐
+- [x] Descent ✓
+- [x] Virtue and Vanity ⭐⭐⭐⭐⭐ ✓
 - [ ] If I can't have You ⭐⭐⭐⭐⭐ [Simillar](https://www.reddit.com/r/DarkRomance/comments/1d5ytgb/recs_like_if_i_cant_have_you_by_deathsdoll_on_ao3/)
     - part 1 ✓
     - part 2 ✓
