@@ -13,18 +13,19 @@
     - part 1 ✓
     - part 2 ✓
     - part 3
-- [ ] Lemonade ⭐⭐⭐⭐⭐ ✓
-
-## Generate These >
-- [ ] Perfect ⭐⭐⭐⭐⭐
-- [ ] Take me with You ⭐⭐⭐⭐⭐
-- [ ] Land of the Beautiful Dead
+- [x] Lemonade ⭐⭐⭐⭐⭐ ✓
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
     - *Survival* ✓
     - *Spark* ✓
-    - *Strike*
+    - *Strike* ✓
     - *Stand: Part One*
+
+## Generate These >
+- [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
+- [ ] Perfect ⭐⭐⭐⭐⭐
+- [ ] Take me with You ⭐⭐⭐⭐⭐
+- [ ] Land of the Beautiful Dead
 - [ ] Germaphobe
 - [ ] Hate Like Ours
 - [ ] Illicit Desires
