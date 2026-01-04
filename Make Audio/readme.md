@@ -3,9 +3,9 @@
 - [x] Corrupt Obsession ✓
 - [x] Cry Little Sister ✓
 - [x] Hale ✓
-- [ ] I Know.. Series
+- [x] I Know.. Series
   - *I Know What Love is [Book 1]* ✓
-  - *Love is Strange [Book 2]*
+  - *Love is Strange [Book 2]* ✓
 - [x] Forbidden ✓
 - [x] Descent ✓
 - [x] Virtue and Vanity ⭐⭐⭐⭐⭐ ✓
