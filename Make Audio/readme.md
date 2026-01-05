@@ -10,9 +10,9 @@
 - [x] Descent ✓
 - [x] Virtue and Vanity ⭐⭐⭐⭐⭐ ✓
 - [x] If I can't have You ⭐⭐⭐⭐⭐ [Simillar](https://www.reddit.com/r/DarkRomance/comments/1d5ytgb/recs_like_if_i_cant_have_you_by_deathsdoll_on_ao3/)
-    - part 1 ✓
-    - part 2 ✓
-    - part 3 ✓
+    - *Part 1* ✓
+    - *Part 2* ✓
+    - *Part 3* ✓
 - [x] Lemonade ⭐⭐⭐⭐⭐ ✓
 - [ ] [Prio] Stronger Series
     - *Stolen* ✓
@@ -23,6 +23,10 @@
 
 ## Generate These >
 - [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
+    - *Part 1*
+    - *Part 2*
+    - *Part 3*
+    - *Epilogue & Side Stories*
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
