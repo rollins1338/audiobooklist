@@ -27,6 +27,7 @@
     - *Part 2*
     - *Part 3*
     - *Epilogue & Side Stories*
+- [ ] Unapologetic Obssession (Drethi A) [Prio]
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
