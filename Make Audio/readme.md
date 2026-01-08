@@ -14,7 +14,7 @@
     - *Part 2* ✓
     - *Part 3* ✓
 - [x] Lemonade ⭐⭐⭐⭐⭐ ✓
-- [ ] [Prio] Stronger Series
+- [ ] Stronger Series ⭐⭐⭐⭐⭐⭐⭐
     - *Stolen* ✓
     - *Survival* ✓
     - *Spark* ✓
@@ -23,7 +23,7 @@
 
 ## Generate These >
 - [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
-    - *Part 1*
+    - *Part 1* ✓
     - *Part 2*
     - *Part 3*
     - *Epilogue & Side Stories*
