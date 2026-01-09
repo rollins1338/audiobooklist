@@ -14,12 +14,12 @@
     - *Part 2* ✓
     - *Part 3* ✓
 - [x] Lemonade ⭐⭐⭐⭐⭐ ✓
-- [ ] Stronger Series ⭐⭐⭐⭐⭐⭐⭐
+- [x] Stronger Series ⭐⭐⭐⭐⭐⭐⭐
     - *Stolen* ✓
     - *Survival* ✓
     - *Spark* ✓
     - *Strike* ✓
-    - *Stand: Part One*
+    - *Stand: Part One* ✓
 
 ## Generate These >
 - [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
