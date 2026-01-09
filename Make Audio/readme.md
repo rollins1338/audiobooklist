@@ -22,13 +22,16 @@
     - *Stand: Part One* ✓
 
 ## Generate These >
-- [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
+- [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
     - *Part 1* ✓
     - *Part 2*
     - *Part 3*
     - *Epilogue & Side Stories*
 - [ ] Unapologetic Obssession (Drethi A) [Prio]
-- [ ] Matryoshka ⭐⭐⭐⭐⭐
+- [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 11/?]
+- [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
+- [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
+- [ ] [Singed Series](https://www.goodreads.com/series/259227-singed) [Wait for 4th book]
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
