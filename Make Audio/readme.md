@@ -28,6 +28,7 @@
     - *Part 3*
     - *Epilogue & Side Stories*
 - [ ] Unapologetic Obssession (Drethi A) [Prio]
+- [ ] [Solaris](https://archiveofourown.org/works/76006806/chapters/198862711) by LadyofVenus [AO3 WIP 17/?]
 - [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 11/?]
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
