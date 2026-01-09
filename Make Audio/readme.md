@@ -21,9 +21,6 @@
     - *Strike* ✓
     - *Stand: Part One*
 
-- [ ] Matryoshka ⭐⭐⭐⭐⭐
-
-
 ## Generate These >
 - [ ] [Cry, Even Better if you Beg](https://github.com/rollins1338/CoBYB) ⭐⭐⭐⭐⭐
     - *Part 1* ✓
@@ -31,6 +28,7 @@
     - *Part 3*
     - *Epilogue & Side Stories*
 - [ ] Unapologetic Obssession (Drethi A) [Prio]
+- [ ] Matryoshka ⭐⭐⭐⭐⭐
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
