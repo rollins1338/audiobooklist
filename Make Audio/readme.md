@@ -42,8 +42,6 @@
 - [ ] Illicit Desires
 - [ ] Never Far
 - [ ] Tainted Together
-- [ ] Wrong Series
-     - *Wrong*
-     - *Wrath*
-     - *Wire*
-     - *War*
+
+
+
