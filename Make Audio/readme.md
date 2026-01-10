@@ -21,7 +21,7 @@
     - *Strike* ✓
     - *Stand: Part One* ✓
 - [x] Unapologetic Obssession (Drethi A)
-
+- [ ] Take me with You ⭐⭐⭐⭐⭐
 
 ## Generate These >
 - [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
@@ -36,7 +36,6 @@
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
 - [ ] [Singed Series](https://www.goodreads.com/series/259227-singed) [Wait for 4th book]
 - [ ] Perfect ⭐⭐⭐⭐⭐
-- [ ] Take me with You ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
 - [ ] Germaphobe
 - [ ] Hate Like Ours
