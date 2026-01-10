@@ -8,8 +8,8 @@
   - *Love is Strange [Book 2]* ✓
 - [x] Forbidden ✓
 - [x] Descent ✓
-- [x] Virtue and Vanity ⭐⭐⭐⭐⭐ ✓
-- [x] If I can't have You ⭐⭐⭐⭐⭐ [Simillar](https://www.reddit.com/r/DarkRomance/comments/1d5ytgb/recs_like_if_i_cant_have_you_by_deathsdoll_on_ao3/)
+- [x] Virtue and Vanity ✓ ⭐⭐⭐⭐⭐
+- [x] If I can't have You ✓ ⭐⭐⭐⭐⭐
     - *Part 1* ✓
     - *Part 2* ✓
     - *Part 3* ✓
@@ -20,8 +20,8 @@
     - *Spark* ✓
     - *Strike* ✓
     - *Stand: Part One* ✓
-- [x] Unapologetic Obssession (Drethi A)
-- [ ] Take me with You ⭐⭐⭐⭐⭐
+- [x] Unapologetic Obssession (Drethi A) ✓
+- [x] Take me with You ✓ ⭐⭐⭐⭐⭐
 
 ## Generate These >
 - [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
@@ -37,7 +37,7 @@
 - [ ] [Singed Series](https://www.goodreads.com/series/259227-singed) [Wait for 4th book]
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
-- [ ] Germaphobe
+- [ ] Germophobe
 - [ ] Hate Like Ours
 - [ ] Illicit Desires
 - [ ] Never Far
