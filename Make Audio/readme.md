@@ -24,6 +24,8 @@
 - [x] Take me with You ✓ ⭐⭐⭐⭐⭐
 
 ## Generate These >
+
+- [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691) (Dramoine Fic)
 - [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
     - *Part 1* ✓
     - *Part 2*
