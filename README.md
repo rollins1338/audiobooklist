@@ -10,6 +10,7 @@
 ![Series](https://img.shields.io/badge/📖_SERIES-150+-4B0082?style=for-the-badge&labelColor=1a1a1a)
 ![Audio](https://img.shields.io/badge/🎧_AUDIOBOOKS-1200+-DC143C?style=for-the-badge&labelColor=1a1a1a)
 ![Fantasy](https://img.shields.io/badge/✨_ROMANTASY-100+-800080?style=for-the-badge&labelColor=1a1a1a) 
+![Last Updated](https://img.shields.io/badge/Updated-January%202026-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 **Quick Navigation**
 
