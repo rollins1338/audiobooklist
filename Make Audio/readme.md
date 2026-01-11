@@ -22,6 +22,11 @@
     - *Stand: Part One* ✓
 - [x] Unapologetic Obssession (Drethi A) ✓
 - [x] Take me with You ✓ ⭐⭐⭐⭐⭐
+- [ ] [Singed Series](https://www.goodreads.com/series/259227-singed)
+    - *Bitter Heat* ✓
+    - *Bitter Secrets*
+    - *Bitter Confessions*
+    - **BOOK 4 TBA**
 
 ## Generate These >
 
@@ -36,7 +41,6 @@
 - [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 11/?]
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
-- [ ] [Singed Series](https://www.goodreads.com/series/259227-singed) [Wait for 4th book]
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
 - [ ] Germophobe
