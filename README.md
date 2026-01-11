@@ -1633,5 +1633,7 @@
     - *Sorrow and Sarlight [ Book 8]* ✓
       * *Beyond the Veil [Book 8.5]* ✓
     - *Restless Stars [Book 9]* ✓
+
+<div align="right"><sub><a href="#-Western-Dark-Romance-Books">Back to Top ↑</a></sub></div>
 ---
 # [Audiobook Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
