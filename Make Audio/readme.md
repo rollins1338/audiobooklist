@@ -31,6 +31,7 @@
 ## Generate These >
 
 - [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691) (Dramoine Fic)
+- [ ] Resurrect by Astrid Jane Ray
 - [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
     - *Part 1* ✓
     - *Part 2*
