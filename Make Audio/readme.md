@@ -24,7 +24,7 @@
 - [x] Take me with You ✓ ⭐⭐⭐⭐⭐
 - [ ] [Singed Series](https://www.goodreads.com/series/259227-singed)
     - *Bitter Heat* ✓
-    - *Bitter Secrets*
+    - *Bitter Secrets* ✓
     - *Bitter Confessions*
     - **BOOK 4 TBA**
 
