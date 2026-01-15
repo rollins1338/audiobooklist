@@ -43,6 +43,10 @@
 - [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 11/?]
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
+- [ ] [The Reformation Program](https://archiveofourown.org/works/56594191?view_full_work=true)
+- [ ] [I will Posses Your Heart](https://archiveofourown.org/works/65821660/chapters/169537012)
+- [ ] [Service](https://archiveofourown.org/works/34438318/chapters/85706092) 
+- [ ] [KOTIK](https://archiveofourown.org/works/74768311?view_full_work=true)
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
 - [ ] Germophobe
