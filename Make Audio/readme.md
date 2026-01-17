@@ -28,9 +28,10 @@
     - *Bitter Confessions*
     - **BOOK 4 TBA**
 - [x] Resurrect by Astrid Jane Ray ✓
-- [ ] Service
-    - *Part 1*
-    - *Part 2*
+- [x] Service
+    - *Part 1* ✓
+    - *Part 2* 
+    - *Part 3*
 
 ## Generate These >
 
