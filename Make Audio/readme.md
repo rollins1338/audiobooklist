@@ -1,6 +1,9 @@
 ## Generated Audioboks of >
-- [x] Untouchable ✓
-- [x] Corrupt Obsession ✓
+- [x] Possessing Violet Series
+    - *Corrupt Obsession* ✓
+    - *Corrupt Idol*
+    - **BOOK 3 TBA**
+    - **BOOK 4 TBA**
 - [x] Cry Little Sister ✓
 - [x] Hale ✓
 - [x] I Know.. Series
