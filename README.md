@@ -25,6 +25,8 @@
 
 ## 🖤 Dark Romance
 
+> *PDF/EPUB Links are currently broken. WIll fix them when I have time*
+
 - [x] **24690 Series**
 [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/189737-24690) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1cm7A8PsAji4nOO_T_VWITObMqXV6yRnU?usp=drive_link)
     - *24690* ✓
