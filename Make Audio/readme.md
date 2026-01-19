@@ -1,5 +1,5 @@
 ## Generated Audioboks of >
-- [ ] Possessing Violet Series
+- [ ] Possessing Violet Series ⭐⭐⭐⭐⭐⭐⭐
     - *Corrupt Obsession* ✓
     - *Corrupt Idol*
     - **BOOK 3 TBA**
@@ -23,6 +23,7 @@
     - *Spark* ✓
     - *Strike* ✓
     - *Stand: Part One* ✓
+    - *Stand: Part Two* **[Unreleased]**
 - [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
     - *Part 1* ✓
     - *Part 2*
