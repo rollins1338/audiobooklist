@@ -47,10 +47,10 @@
 ## Generate These >
 
 - [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691) (Dramoine Fic)
-- [ ] [Solaris](https://archiveofourown.org/works/76006806/chapters/198862711) by LadyofVenus [AO3 WIP 17/?]
+- [ ] [Solaris](https://archiveofourown.org/works/76006806/chapters/198862711) by LadyofVenus [AO3 WIP 26/?]
 - [ ] [Victus](https://archive.transformativeworks.org/works/66746656/chapters/172225243) by Moonlightdreams234 [AO3 WIP 13/?]
 - [ ] [Imperium](https://archiveofourown.org/works/63198178/chapters/185120456) by Moonlightdreams234 [AO3 WIP 32/?]
-- [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 11/?]
+- [ ] [Pretty Little Thing](https://archiveofourown.org/works/53685550/chapters/135899200#bookmark-form) by dementedangel [AO3 WIP 17/?]
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
 - [ ] [The Reformation Program](https://archiveofourown.org/works/56594191?view_full_work=true)
