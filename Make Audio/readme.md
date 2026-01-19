@@ -30,8 +30,11 @@
 - [x] Resurrect by Astrid Jane Ray ✓
 - [x] Service
     - *Part 1* ✓
-    - *Part 2* 
-    - *Part 3*
+    - *Part 2* ✓
+- [x] I Will Possess Your Heart
+    - *Part 1* ✓
+    - *Part 2* ✓
+    - *Part 3* ✓ 
 
 ## Generate These >
 
@@ -48,7 +51,6 @@
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
 - [ ] [The Reformation Program](https://archiveofourown.org/works/56594191?view_full_work=true)
-- [ ] [I will Posses Your Heart](https://archiveofourown.org/works/65821660/chapters/169537012)
 - [ ] [KOTIK](https://archiveofourown.org/works/74768311?view_full_work=true)
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
