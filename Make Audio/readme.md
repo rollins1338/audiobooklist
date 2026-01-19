@@ -23,6 +23,11 @@
     - *Spark* ✓
     - *Strike* ✓
     - *Stand: Part One* ✓
+- [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
+    - *Part 1* ✓
+    - *Part 2*
+    - *Part 3*
+    - *Epilogue & Side Stories*
 - [x] Unapologetic Obssession (Drethi A) ✓
 - [x] Take me with You ✓ ⭐⭐⭐⭐⭐
 - [ ] [Singed Series](https://www.goodreads.com/series/259227-singed)
@@ -42,11 +47,6 @@
 ## Generate These >
 
 - [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691) (Dramoine Fic)
-- [ ] Cry, Even Better if you Beg ⭐⭐⭐⭐⭐
-    - *Part 1* ✓
-    - *Part 2*
-    - *Part 3*
-    - *Epilogue & Side Stories*
 - [ ] [Solaris](https://archiveofourown.org/works/76006806/chapters/198862711) by LadyofVenus [AO3 WIP 17/?]
 - [ ] [Victus](https://archive.transformativeworks.org/works/66746656/chapters/172225243) by Moonlightdreams234 [AO3 WIP 13/?]
 - [ ] [Imperium](https://archiveofourown.org/works/63198178/chapters/185120456) by Moonlightdreams234 [AO3 WIP 32/?]
