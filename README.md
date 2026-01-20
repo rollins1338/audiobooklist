@@ -135,7 +135,7 @@
     - *Bratva Bride* ✓
     - *Bratva Prince* ✓
     - *Bratva Knight* ✓
-    - Bratva Butcher [No Audiobook Yet]
+    - Bratva Butcher [Release Feb 10, 26]
     - Bratva Menace [No Audiobook Yet]
 
 
