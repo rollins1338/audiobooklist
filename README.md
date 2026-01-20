@@ -14,9 +14,9 @@
 
 ### 📂 **Quick Navigation**
 
-| 🖤 **Dark Romance** | 🏴 **Standalones** | ✨ **Dark Romantasy** | 
-| :---: | :---: | :---: |
-| [**Browse Library**](#-dark-romance) | [**View Books**](#-standalones) | [**View Books**](#-dark-romantasy--academia)
+| 🖤 **Dark Romance** | 🏴 **Standalones** | ✨ **Dark Romantasy** | 📀Audiobooks |
+| :---: | :---: | :---: | :---: | 
+| [**Browse Library**](#-dark-romance) | [**View Books**](#-standalones) | [**View Books**](#-dark-romantasy--academia) | [Audiobook Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main) |
 
 
 </div>
@@ -1640,4 +1640,4 @@
 
 ---
 
-# [Audiobook Repo [Private]](https://github.com/rollins1338/audiooooooo/blob/main)
+
