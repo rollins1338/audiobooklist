@@ -343,7 +343,8 @@
 - [x] **Diamond Magnate Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/297140-diamond-magnate) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *Beauty in the Broken [Book 0]* ✓
 
-      > **Diamonds are Forever Trilogy** - *Diamonds in the Dust* ✓
+      > **Diamonds are Forever Trilogy**
+        - *Diamonds in the Dust* ✓
         - *Diamonds in the Rough* ✓
         - *Diamonds are Forever* ✓
           
@@ -360,7 +361,7 @@
 
 - [x] **Dollar Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.goodreads.com/series/181737-dollar) [![PDF](https://img.shields.io/badge/PDF-Available-blue)]()
     - *Pennies* ✓ 
-    - *Dollars*v
+    - *Dollars* ✓
     - *Hundreds* ✓ 
     - *Thousands* ✓ 
     - *Millions* ✓ 
@@ -461,15 +462,7 @@
   - *Preppy: The Life & Death of Samuel Clearwater, Part One* ✓  
   - *Preppy: The Life & Death of Samuel Clearwater, Part Two* ✓ 
   - *Preppy: The Life & Death of Samuel Clearwater, Part Three* ✓ 
-
-
-
-- [x] King Series [Book 8]
   - *Up in Smoke*
-
-
-
-- [x] King Series Again [Books 9, 9.5] 
   - *N9ne: The Tale of Kevin Clearwater* ✓ 
   - *King of the Causeway* ✓ 
 
@@ -638,7 +631,7 @@
     - *Silent Lies* ✓
     - *Darkest Sins* ✓
     - *Sweet Prison* ✓
-    - *Precious Hazard [Expected Jan 06, 26]*
+    - *Precious Hazard* ✓
 
 
 
@@ -651,7 +644,8 @@
 
 - [ ] **Quarantined** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1-Kah9igeQs1l9L5mRN_iw_2ie5jpjXAh?usp=drive_link)
     - *Quarantined* ✓ 
-    - **Missing Book 2** - **Missing Book 3**
+    - **Missing Book 2**
+    - **Missing Book 3**
 
 
 
