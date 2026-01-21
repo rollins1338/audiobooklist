@@ -37,6 +37,7 @@
     - *Bitter Confessions*
     - **BOOK 4 TBA**
 - [x] Resurrect by Astrid Jane Ray ✓
+- [x] KOTIK ✓
 - [x] Service
     - *Part 1* ✓
     - *Part 2* ✓
@@ -54,7 +55,6 @@
 - [ ] [Matryoshka](https://archiveofourown.org/works/37068109/chapters/92492002) ⭐⭐⭐⭐⭐
 - [ ] [The Intruder](https://archiveofourown.org/works/32992999/chapters/81888241) by dantesedmond [AO3 WIP 70/?]
 - [ ] [The Reformation Program](https://archiveofourown.org/works/56594191?view_full_work=true)
-- [ ] [KOTIK](https://archiveofourown.org/works/74768311?view_full_work=true)
 - [ ] Perfect ⭐⭐⭐⭐⭐
 - [ ] Land of the Beautiful Dead
 - [ ] Germophobe
