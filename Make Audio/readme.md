@@ -66,7 +66,9 @@
 ## Dramoine Fics
 - [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691)
 - [ ] Crumple Duet
-- [ ] Deadly Sins Duet
+- [x] Deadly Sins Duet ✓
+  - *L I M E R E N C E* ✓
+  - *Eternally Yours*
 - [ ] This Thing Between Us
 - [ ] His Little Bird Series
 - [ ] [A Marriage of Inconvenience](https://github.com/rollins1338/amarriageofincov) 
