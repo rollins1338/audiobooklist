@@ -642,10 +642,10 @@
 
 
 
-- [ ] **Quarantined** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1-Kah9igeQs1l9L5mRN_iw_2ie5jpjXAh?usp=drive_link)
+- [ ] **Quarantine Series** [![Goodreads](https://img.shields.io/badge/Goodreads-⭐-brightgreen)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/series/287279-quarantine&ved=2ahUKEwjf0IG_24GRAxWO3TgGHbu4Na4QFnoECCcQAQ&usg=AOvVaw08uhKTVFeuK5E-Mzkxk_mh) [![PDF](https://img.shields.io/badge/PDF-Available-blue)](https://drive.google.com/drive/folders/1-Kah9igeQs1l9L5mRN_iw_2ie5jpjXAh?usp=drive_link)
     - *Quarantined* ✓ 
-    - **Missing Book 2**
-    - **Missing Book 3**
+    - *Essential* ✓
+    - *Isolation* ✓
 
 
 
