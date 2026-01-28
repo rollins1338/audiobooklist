@@ -48,6 +48,11 @@
 
 ## Generate These >
 
+- [ ] Alphaholes Series by Gemma Weir
+    - Obsession + EPILOGUE
+    - Obligation
+    - Obliterate
+    - Oblivion
 - [ ] [Solaris](https://archiveofourown.org/works/76006806/chapters/198862711) by LadyofVenus [AO3 WIP 26/?]
 - [ ] [Victus](https://archive.transformativeworks.org/works/66746656/chapters/172225243) by Moonlightdreams234 [AO3 WIP 13/?]
 - [ ] [Imperium](https://archiveofourown.org/works/63198178/chapters/185120456) by Moonlightdreams234 [AO3 WIP 32/?]
@@ -68,7 +73,7 @@
 - [ ] Crumple Duet
 - [x] Deadly Sins Duet ✓
   - *L I M E R E N C E* ✓
-  - *Eternally Yours*
+  - *Eternally Yours* ✓
 - [ ] This Thing Between Us
 - [ ] His Little Bird Series
 - [ ] [A Marriage of Inconvenience](https://github.com/rollins1338/amarriageofincov) 
