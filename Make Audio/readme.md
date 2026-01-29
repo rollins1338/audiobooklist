@@ -67,6 +67,8 @@
 - [ ] Illicit Desires
 - [ ] Never Far
 - [ ] Tainted Together
+- [ ] My Girl by Audrey Rush
+
 
 ## Dramoine Fics
 - [ ] [Hostile Negotiation Tactics](https://archiveofourown.org/works/62056576/chapters/158709691)
