@@ -78,6 +78,7 @@
     - His
     - Lady's Education
 - [ ] Crumple Duet
+- [ ] [Where the Wild things Go](https://archiveofourown.org/works/63127246/chapters/161662813)
 - [ ] Meet Me at Midnight by forawhile
 - [x] Deadly Sins Duet ✓
   - *L I M E R E N C E* ✓
