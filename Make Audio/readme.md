@@ -86,6 +86,7 @@
 - [ ] This Thing Between Us
 - [ ] [Our Sweet Decline](https://archiveofourown.org/works/52291921/chapters/132280819) WIP 27/?
 - [ ] His Little Bird Series
-- [ ] [A Marriage of Inconvenience](https://github.com/rollins1338/amarriageofincov) 
+- [ ] [A Marriage of Inconvenience](https://github.com/rollins1338/amarriageofincov)
+- [ ] [Riskverse Quartet](https://archiveofourown.org/series/4041214)
 
 
